@@ -1,0 +1,30 @@
+border_size=1
+usage=map
+
+Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu
+Uu, Uu, Uu, Uu, Uu^Vu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu
+Uu, Uh, Uh, Uu, Uu, Uu, Uu, Uu, Uu^Emf, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu
+Uu, Uh, Uh, Uh, Uu, Uu, Uu^Emf, Uu^Emf, Uu^Emf, Uu^Emf, Uu^Emf, Uu, Uu, Uu, Uu, Uu, Cud, Uu^Vu, Uu, Uu, Uu, Uu
+Ur, Uu, Uu, Uu, Uu, Uu, Uu, Uu^Emf, Uu^Emf, Uu^Emf, Ur, Ur, Ur, Uu, Uu^Vu, Cud, 2 Kud, Cud, Uu, Uu, Uu, Uu
+Uu, Ur, Ur, Uu, Ur, Ur, Ur, Uu^Vu, Ur, Ur, Uu, Uu, Uu, Ur, Ur, Cud, Cud, Cud, Uu, Uu, Uu, Uu
+Uu, Uu, Uu^Vu, Ur, Uu, Uu, Uu, Ur, Uu, Uu, Uu, Uu, Uu, Uu, Ur, Ur, Uu, Uu^Vu, Uh, Uh, Uu, Uu
+Uu, Uu, Uu, Uu, Uu, Uu, Uu^Emf, Uu^Emf, Uu^Emf, Uu, Uu, Uu, Uh, Uh, Ur, Uu, Uu, Uu, Uu, Uh, Uu, Uu
+Uu, Uu, Uu, Uu, Uu, Uu^Emf, Uu^Emf, Uu^Emf, Uu^Emf, Uu^Emf, Uu, Uu, Ur, Ur, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu
+Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu^Emf, Uu^Vu, Uu, Ur, Ur, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu
+Uu, Uu, Uu, Uu, Uu, Uu, Uh, Uu, Uu, Ur, Ur, Uu, Uh, Uh, Ur, Ur, Ur, Uu^Vu, Uu, Uu, Uu, Uu
+Uu, Uu, Uu, Uu, Uh, Uh, Uh, Uh, Uu, Uu, Uu, Ur, Ur, Ur, Uu, Uu, Uu, Uu, Uh, Uu, Uu, Uu
+Uu, Uu, Uu, Uu, Uu, Uh, Uh, Uh, Uu, Uu, Uu, Uu, Ur, Uu, Uu, Uu, Uu, Uh, Uh, Uu, Uu, Uu
+Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Ur, Uu^Vu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu
+Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Ur, Ur, Uu, Uu, Uu, Uu, Uh, Uu, Uu, Uu^Vu, Uu, Uu
+Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Ur, Ur, Uu, Uu, Uu, Uu, Uu, Uh, Uh, Uh, Uu, Uu, Uu, Uu
+Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Ur, Uu, Uu, Uu, Uu, Uu, Uu, Uh, Uh, Uu, Uu, Uu, Uu, Uu
+Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Ur, Uu, Uu, Uu, Cud, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu
+Uu, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Ur, Uu, Uu^Vu, Cud, Kud, Cud, Uu^Vu, Uu, Uu, Uu, Uu, Uu, Uu, Uu
+Xue, Uu, Uu, Uu, Uu, Uu, Uu, Uu, Ur, Ur, Uu, Cud, Cud, Cud, Uu, Uu, Xue, Xue, Xue, Xue, Xue, Xue
+Gg, Xue, Xue, Uu, Uu, Uu, Uu, Uu, Ur, Uu, Uu, Uu, Uu, Uu, Xue, Xue, Gg, Gg, Gg, Gg, Gg, Gg
+Gg, Gg, Gg, Xue, Xue, Uu, Uu^Ii, Uu^Ii, Uu^Ii, Uu^Ii, Uu^Ii, Uu, Xue, Xue, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg
+Gg, Gg, Gg, Gg, Gg, Xue, Xue, Urb^Ii, Urb^Ii, Urb^Ii, Xue, Xue, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg
+Gg, Gg, Gg, Gg, Gg, Gg, Xue, Urb^Ii, 1 Urb^Ii, Urb^Ii, Xue, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg
+Gg, Gg, Gg, Gg, Gg, Gg, Xue, Urb^Ii, Urb^Ii, Urb^Ii, Xue, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg
+Gg, Gg, Gg, Gg, Gg, Gg, Gg, Urb, Urb, Urb, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg
+Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg

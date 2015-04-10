@@ -1,0 +1,45 @@
+border_size=1
+usage=map
+
+Iwr, Iwr, Xos, Iwr, Iwr, Iwr, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Iwr, Iwr, Iwr, Xos, Iwr, Iwr, Iwr, Xos, Iwr, Iwr, Iwr, Xos, Iwr, Iwr
+Iwr, Iwr, Xos, Iwr, Iwr, Iwr, Xos, Iwr, Iwr, 1 Iwr, Iwr, Iwr, Xos, Iwr, Iwr, Iwr, Xos, Iwr, Iwr, Iwr, Xos, Iwr, Iwr, Iwr, Xos, Iwr, Iwr
+Iwr, Iwr, Xos, Iwr, Iwr, Iwr, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Iwr, Iwr, Iwr, Xos, Iwr, Iwr, Iwr, Xos, Iwr, Iwr, Iwr, Xos, Iwr, Iwr
+Iwr, Xos, Iwr, Xos, Iwr, Xos, Iwr, Xos, Xos, Iwr, Xos, Xos, Iwr, Xos, Iwr, Xos, Iwr, Xos, Iwr, Xos, Iwr, Xos, Iwr, Xos, Iwr, Xos, Iwr
+Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr
+Iwr, Iwr, Iwr, Iwr, Uu^Vu, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr
+Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Uu^Vu, Iwr, Iwr
+Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr
+Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr
+Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, 2 Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Iwr, Iwr, Iwr, Iwr
+Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Iwr, Iwr, Iwr, Iwr
+Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr
+Iwr, Iwr, Uu^Vu, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr
+Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr
+Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Iwr, Iwr, Iwr, Iwr, Xos, Iwr, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Uu^Vu, Iwr, Iwr, Iwr
+Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr
+Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr
+Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr
+Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr
+Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr
+Xue, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr
+Uu^Ii, Xue, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Uu^Vu, Iwr, Iwr
+Uu^Ii, Uu^Ii, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr
+Xue, Xue, Uu^Vu, Iwr, Iwr, Iwr, Xos, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Uu^Vu, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr
+Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr
+Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr
+Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr
+Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr
+Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr
+Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr
+Iwr, Iwr, Iwr, Uu^Vu, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr
+Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr
+Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr, Xos, Xos, Iwr, Iwr, Iwr
+Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr
+Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos
+Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Gg
+Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Uu^Vu, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Uu^Vu, Iwr, Iwr, Xos, Xos, Gg, Gg, Gg
+Gg, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Gg, Gg, Gg, Gg, Gg
+Gg, Gg, Gg, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Gg, Gg, Gg, Gg, Gg, Gg, Gg
+Gg, Gg, Gg, Gg, Gg, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg
+Gg, Gg, Gg, Gg, Gg, Gg, Gg, Xos, Xos, Iwr, Iwr, Iwr, Iwr, Iwr, Xos, Xos, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg
+Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Xos, Iwr, Iwr, Iwr, Xos, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg

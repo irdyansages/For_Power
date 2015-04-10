@@ -1,0 +1,25 @@
+border_size=1
+usage=map
+
+Ur, Uu, Uu, Uu, Uu, Uu, Ur, Uu, Uu, Uu, Uu, Uu
+Uu, Ur, Ur, Uu, Uu, Ur, Uu^Vu, Ur, Uu, Uu, Ur, Ur
+Uu, Uu, Uu, Ur, Ur, Ur, Ur, Ur, Ur, Ur, Uu, Uu
+Uu, Uu, Uu, Uu, Ur, Uu^Ecf, 3 Kud, Uu^Ecf, Ur, Uu, Uu, Uu
+Ur, Uu, Uu, Uu, Ur, Uu^Ecf, Ur, Uu^Ecf, Ur, Ur, Uu^Vu, Uu
+Uu, Ur, Ur, Uu^Vu, Uu, Ur, Ur, Ur, Uu, Uu, Ur, Uu
+Uu, Uu, Uu, Ur, Ur, Ur, Kud, Ur, Ur, Ur, Uu, Ur
+Uu, Uu, Uu, Uu, Uu, Ur, Ur, Ur, Uu, Uu, Uu, Uu
+Uu, Uu, Uu, Uu, Uu, Ur, Uu^Vu, Ur, Uu, Uu, Uu, Uu
+Uu, Uu, Uu, Uu, Uu, Ur, Ur, Ur, Uu, Uu, Uu, Uu
+Uu, Uu, Uu, Uu, Uu, Uu, Ur, Uu, Uu, Uu, Uu, Uu
+Uu, Uu, Uu, Uu, Ur, Uu, Ur, Uu, Uu, Uu, Uu^Vu, Uu
+Xol, Uu, Uu, Uu^Vu, Uu, Ur, Ur, 1 Uu, Ur, Ur, Uu, Uu
+Xol, Uu, Uu, Uu, Uu, Uu, Ur, Ur, Uu, Uu, Uu, Xol
+Xol, Uu, Uu, Uu, Uu, Uu, Ur, Uu, Uu, Uu, Uu, Xol
+Xol, Uu, Uu, Uu, Uu, Uu, Ur, Uu, Uu, Uu, Uu, Xol
+Xol, Uu, Uu, Uu, Uu, Uu, Ur, Uu, Uu, Uu, Uu, Xol
+Uu^Uf, Xol, Xol, Uu^Vu, Ur, Uu, Ur, Uu, Uu^Vu, Uu, Xol, Xol
+Uu^Uf, Uu^Uf, Uu^Uf, Xol, Xol, Ur, Ur, Ur, Xol, Xol, Uu^Uf, Uu^Uf
+Uu^Uf, Uu^Uf, Uu^Uf, Uu^Uf, Xol, Uu, Urb, Uu, Xol, Uu^Uf, Uu^Uf, Uu^Uf
+Uu^Uf, Uu^Uf, Uu^Uf, Uu^Uf, Gg, Gg^Ecf, 2 Urb, Gg^Ecf, Gg, Uu^Uf, Uu^Uf, Uu^Uf
+Uu^Uf, Uu^Uf, Gg, Gg, Gg, Gg, Urb, Gg, Gg, Gg, Gg, Uu^Uf

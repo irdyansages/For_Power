@@ -1,0 +1,55 @@
+border_size=1
+usage=map
+
+Ur, Ur, Ur, Ur, Ur, Ur, Ur, Ur, Ur, Ur, Ur, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue
+Ur, Ur, Ur, Ur, Ur, Ur, Ur, Ur, Ur, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue
+Ur, Ur, Ur, Ur, Ur, Ur, Xue, Xue, Xue, Ur, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue
+Ur, Ur, Ur, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue
+Ur, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Ur, Xue, Xue, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Ur, Ur, Xue, Ur, Ur, Xue, Ur, Ur, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Ur, Ur, Ur, Ur, Ur, Ur, Xue, Xue, Xue, Xue, Ur, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Ur, Ur, 1 Ur, Ur, Ur, Xue, Xue, Xue, Xue, Ur, Ur, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Ur, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Ur, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue, Xue, Xue, Ur, Ur, Xue, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue, Ur, Ur, Xue, Ur, Xue, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Ur, Ur, Ur, Xue, Xue, Xue, Ur, Ur, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Ur, Xue, Xue, Ur, Xue, Xue, Xue, Xue, Ur, Ur, Xue, Xue, Xue
+Xue, Xue, Xue, Ur, Ur, Xue, Ur, Ur, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue
+Ur, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue
+Xue, Ur, Ur, Xue, Xue, Xue, Xue, Xue, Ur, Ur, Xue, Xue, Ur, Xue, Xue, Xue, Ur, Ur, Xue, Ur, Xue, Xue
+Xue, Xue, Xue, Ur, Ur, Xue, Ur, Ur, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue, Ur, Xue, Xue, Ur, Xue, Xue
+Xue, Xue, Xue, Xue, Ur, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue, Ur, Xue, Xue, Ur, Xue, Xue
+Xue, Xue, Ur, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Ur, Ur, Xue, Xue, Xue, Xue, Xue, Xue
+Xue, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue
+Xue, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue
+Xue, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue
+Xue, Ur, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue, Xue, Ur, Ur, Xue, Xue
+Xue, Xue, Xue, Ur, Ur, Xue, Xue, Xue, Xue, Xue, Ur, Ur, Ur, Ur, Xue, Xue, Ur, Ur, Xue, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Ur, Ur, Xue, Ur, Ur, Ur, Ur, Ur, Ur, Ur, Ur, Xue, Xue, Xue, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Ur, 3 Ur, Ur, Ur, Ur, Ur, Ur, Xue, Xue, Xue, Ur, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Ur, Ur, Ur, Ur, Ur, Ur, Ur, Ur, Ur, Ur, Xue, Xue, Ur, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Ur, Ur, Xue, Ur, Ur, Ur, Ur, Ur, 2 Kud, Ur, Ur, Ur, Xue, Xue, Ur, Xue, Xue, Xue
+Ur, Xue, Ur, Ur, Xue, Xue, Xue, Xue, Xue, Ur, Ur, Ur, Cud, Cud, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue
+Xue, Ur, Xue, Ur, Ur, Xue, Xue, Xue, Xue, Xue, Ur, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Ur, Ur, Xue, Xue, Xue, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue, Ur, Ur, Xue, Xue, Xue, Ur, Ur, Xue, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue, Xue, Xue, Ur, Ur, Ur, Xue, Xue, Xue, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Ur, Xue, Ur, Ur, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Ur, Xue, Xue, Xue, Ur, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Ur, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur^Ii, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur^Ii, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur^Ii, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue
+Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Ur^Ii, Xue, Xue, Xue, Xue, Xue, Xue, Xue, Xue

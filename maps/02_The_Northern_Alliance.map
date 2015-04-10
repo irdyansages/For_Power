@@ -1,0 +1,28 @@
+border_size=1
+usage=map
+
+Mm, Mm, Mm, Mm, Mm, Mm, Mm, Hh, Hh, Hh, Gg, Gg, Gs, Gs, Gs, Gs, Gs, Gs, Gs, Gs, Gs, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gd, Hh, Hh, Mm, Mm, Mm, Mm, Mm, Mm
+Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Hh, Hh^Vhh, Gg, Gg, Gs, Gs, Gs, Gs, Gs^Emf, Gs, Gs, Gs, Gs, Gd, Gd, Gd, Gd, Gd, Gd^Vo, Gd, Gd, Hh, Hh, Hh, Mm, Mm, Mm, Mm, Mm
+Mm, Mm, Mm, Mm, Mm, Mm, Mm, Mm, Hh, Hh, Gg, Gg, Gs, Gs, Gs, Gs^Emf, Gs^Emf, Gs^Emf, Gs, Gs, Gs, Gd, Gd^Emf, Gd^Emf, Gd^Emf, Gd, Gd, Gd, Gd, Hh, Hh^Vhh, Hh, Hh, Mm, Mm, Mm, Mm
+Mm, Mm, Mm, Mm, Mm, Mm, Mm, Hh, Hh, Hh^Vhh, Gg, Gg, Rr, Gs, Gs, Gs, Gs, Gs, Rr, Rr, Gs^Vc, Gd, Gd, Gd^Emf, Gd, Gd, Gd, Gd^Vo, Gd, Gd, Gd, Hh, Hh^Vhh, Hh, Hh, Mm, Hh
+Mm, Mm, Mm, Mm, Mm, Mm, Mm, Hh, Hh, Hh, Rr, Uu^Vud, Cud, Uu^Vud, Rr, Gs, Rr, Rr, Gs, Gs, Rr, Gd, Gd, Gd, Gd, Gd, Gd^Vo, Gd, Gd^Vo, Gd, Gd^Vo, Gd, Gd, Hh, Hh^Vhh, Hh, Hh
+Mm, Mm, Mm, Mm, Mm, Mm, Mm, Hh, Hh, Hh, Uu^Vud, Cud, 2 Kud, Cud, Gs, Rr, Gs, Gs, Gs, Gs, Rr, Gd^Dr, Gd, Gd, Gd, Gd, Gd, Gd, Co, Co, Co, Gd, Gd, Gd, Gd, Hh, Gd
+Mm, Mm, Mm, Mm, Mm, Mm, Hh, Hh, Hh^Vhh, Gg, Gg, Cud, Cud, Cud, Gs, Gs, Gs, Gs, Gs, Gs, Gs^Vc, Rr, Gd, Gd, Gd, Gd, Gd, Gd^Vo, Co, 3 Ko, Co, Gd, Gd, Gd^Vo, Gd, Gd, Gd
+Mm, Mm, Mm, Mm, Hh, Hh, Hh, Hh, Gs, Gs, Gg, Gg, Gg, Gg, Gg, Gs, Gg, Gs, Rr, Rr, Rr, Gs, Gd^Dr, Gd, Gd, Gd, Gd, Gd, Gd, Co, Gd, Gd^Vo, Gd, Gd, Gd, Gd, Gd
+Hh, Hh, Hh, Hh, Hh, Hh, Gs, Gs, Gs, Gs, Gg, Gg, Gg, Gg, Gg, Gg, Rr, Rr, Gs, Gs, Gs, Rr, Gs, Gd, Gd, Gd, Gd, Gd, Gd, Gd, Gd, Gd, Gd, Gd, Gd^Vo, Gd, Gd
+Gs, Hh, Hh, Hh, Gs, Gs, Gs, Gs, Gg, Gg, Gg, Gg, Gg, Gg, Rr, Rr, Gg, Gs, Gs, Gs, Gs^Vc, Rr, Gs, Gs, Gs, Gd^Dr, Gd, Gd, Gd, Gd, Gs, Gd, Gs, Gg, Gg, Gg, Gg
+Gs, Gs, Gs, Gs, Gs, Gs, Gs, Gg, Gg, Gg, Gg, Gg, Rr, Rr, Gg, Gg, Gg, Gs, Gs, Gs, Gs, Rr, Rr, Gs, Rr, Rr, Rr, Gd, Gs, Gs, Gs, Gs, Gg, Gs, Gs, Gg, Gg
+Gs, Gs, Rr, Rr, Rr, Gs, Gg, Gg, Gg, Gg, Rr, Rr, Gg, Gg, Gg, Gg, Gg, Gs, Gs, Gs, Gs, Gs, Gs^Vc, Rr, Gs, Gs, Gs, Rr, Gs^Vc, Gs, Gs, Gs, Gs, Gs, Gs, Gs, Gs
+Rr, Rr, Gg, Gg, Gg, Rr, Rr, Gg, Rr, Rr, Gg, Gg, Gg, Gg, Gg^Efm, Gg, Gg, Gg, Gs, Gs, Gs, Gs, Gs, Gs, Gs, Gs, Gs, Gs, Rr, Gs, Gs, Gs, Rr, Gs^Vc, Gs, Gs, Gs
+Gs, Gg, Gs, Gg, Gg, Gg, Gg, Rr, Gg, Gg, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg, Gg, Gg, Gg, Gs, Gs, Gs, Gs, Gs, Gs, Gs, Gs, Rr, Rr, Rr, Gs, Gs, Gs, Gs, Gs
+Gs, Gs, Gs, Gs, Gs, Gs, Gs, Gs, Gg^Efm, Gg^Efm, Gg, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg, Gg, Gg, Gg, Gg, Gg, Gs, Gs, Gs, Gs, Gs^Es, Rr, Gs^Es, Gs, Gs, Gs, Gg, Gg
+Gs, Gs, Gs, Gs, Gs, Gs, Gs, Gg, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg, Gg, Gg, Gg, Gg, Gs, Gs, Gs, Gs^Es, Rr, Gs^Es, Gs, Gs, Gs, Gg, Gg
+Gs, Gs, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gg, Gg, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg, Gg, Gg, Gg, Gg, Gg, Gs, Gs, Gs, Gs^Es, Rr, Gs, Gs, Gs, Gs, Gg, Gg
+Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gg, Gg, Gg, Gg, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg^Efm, Gg, Gg, Gs, Gs, Gs, Gg, Gg, Gg, Gs, Gs, Gs, Gs, Re, Gs, Gs, Gs, Gs, Gs, Gs
+Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs, Gs, Gg, Gg, Gg^Efm, Gg, Gg, Gg, Gs, Gs, Gs, Gs, Gs, Gg, Gg, Gg, Gs, Gs, Gs, Re, Gs, Gs, Gs, Gs, Gs, Gs^Fds
+Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs, Gs, Gs, Gs, Gg, Gg, Gg, Gs^Fds, Gs, Gs^Fds, Gs, Gs^Fds, Gs, Gg, Gg, Gs, Gs, Re, Gs^Vc, Ce, Re, Re, Gs, Gs^Fds, Gs^Fds, Gs^Fds
+Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs, Gs, Gs, Gs, Gs, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs, Gs^Vc, Ce, 1 Ke, Ce, Re, Gs, Gs^Fds, Gs^Fds, Gs^Fds
+Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs, Gs, Gs, Gs, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs, Re, Ce, Ce, Ce, Re, Gs, Gs^Fds, Gs^Fds, Gs^Fds
+Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs, Gs, Gs, Gs, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gg, Re, Re, Gs^Vc, Gs, Gs, Gs^Fds, Gs^Fds, Gs^Fds
+Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs, Gs, Gs, Gs, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gg, Gg, Re, Gg, Gg, Gg, Gg, Gs^Fds, Gg
+Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs, Gs, Gs, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gs^Fds, Gg, Gg, Re, Gg, Gg, Gg, Gg, Gg, Gg
