@@ -1,0 +1,324 @@
+Version +dev means that those changes are only on github, not the add-ons server
+
+Version 0.6.1c+dev
+- changed icons for all chapters in campaign menu
+- Gauntlet now ends in defeat also if any hero is killed before the final wave arrives
+- Amiwen is now always level 4 at the start of Chapter 3
+- Clare and Amiwen now have a talk when they meet
+- changed variation_name to variation_id, added new translatable variation_name
+
+Version 0.6.1c
+- code cleaning
+- after taking all advancement path from soul eater, Merissa instantly gets 2 more hitpoints with each next level
+
+Version 0.6.1b dropped support for Wesnoth 1.10. After that point, new version were only for 1.12.
+
+Version 0.6.1b
+- fixed (now) invalid unit type in Epilogue for Chapter 5
+
+Version 0.6.1.a
+- fixed unit type of the enemy in scenario Avenger (Chapter 5)
+
+Version 0.6.1
+- improved description of Skeleton Rider and Bone Knight
+- Bone Knight now has submerge ability (like all undead)
+- corrected special notes for dark lords, Fire Elemental, Water Elemental, Amiwen_Elvish_Seer, Blessed Silver Mage and Prophet
+- Clare (as lich) has 10% worse basic fire resistance
+- Lemyr (as lich) has 10% worse basic impact resistance
+- Merissa (as lich) has -10% blade and pierce resistance and just -20% impact resistance
+- thieves are now affected by (Merissa's) bandit leadership 1 now (as they were always supposed to be)
+- the map in mp scenario Source of evil is not covered by fog anymore (no idea why it was ...)
+- removed "FP - " from names of scenarios Seeking evil and Source of evil
+- marked some strings translatable (as they were supposed to be)
+- corrected a lot of typos in all chapters
+- changed enemies' starting locations in scenarios 16a a 18b in Chapter 1
+- added magical comments for wmllint (on 1.12)
+
+Version 0.6.0.7
+- improved a bit dialogues in Chapter 2
+Scenario Visiting the Earl
+- the enemy was made weaker
+- Clare is thinking something just before the scenario starts
+Scenario West Front
+- the undead reinforcements appear in front of lich's castle
+- they are spawned in more turns, every turn x units (5 on easy, 6 on normal and 7 on hard)
+- fallen cavalrymen are now risen as Skeleton Rider/Bone Knight
+
+Version 0.6.0.6
+- footpads and thieves killed in scenario West Front will be risen as ghosts now
+- fixed the amount needed for next level in description of redeem 6
+Scenario Final Confrontation:
+- changed [goal] name=protect_my_unit to protect_unit (as the former is deprecated now)
+- no enemies are spawned while the player is fighting Lethalia
+- carryover is now really 70% (as mentioned in objectives)
+
+Version 0.6.0.5
+- decreased time limit in scenarios Seeking The Mage, An Exercise and An Orcish Town
+- second player in mp scenario Gauntlet can recruit Spearman instead of Fencer now
+- enemies in scenario Undead in front of Dwarven Doors attack Clare too now
+
+Version 0.6.0.4
+- starting dialogue of scenario Return of troubles is a bit different if you chose the "bad" path in first chapter
+- added some new dialogues in scenario Mal-Ravanal
+- reinforcements in scenario Mal-Ravanal are stronger now (and even more on hard)
+- second enemy leader in scenario On the way back now has death speech too
+- first enemy leader in scenario On the way back gets some gold when the second one dies
+
+Version 0.6.0.3
+- fixed crash at start of scenario The Bandits
+
+Version 0.6.0.2
+- added next units to recruit in scenario Cave (Chapter 5)
+- Shock Troopers (in scenario Cave) can be recruited now by older Jolla, not Clare
+
+Version 0.6.0.1
+- fixed counting turns in stag 3 of scenario Cleaning home (Chapter 5)
+- fixed a bug where the player was not defeated when older Jolla was hit during closing the portal (in the same scenario)
+
+Versions 0.5.8.x were only on trunk add-ons server and were meant as beta versions for 0.6.0 that eventually made it to 1.10, 1.10 and 1.12 servers. Dropped support for Wesnoth 1.11.0 - 1.11.9 at that points
+
+Version 0.5.8 (0.6.0)
+- completed Chapter 5
+- new multiplayer scenario
+- given name to Chapter 5
+- fixed scourge weapon special
+- renamed scenario Flight in Chapter 5 to One for all
+- changed icon and description the add-ons server
+- corrected Merissa's defense animations
+- disabled standard recruiting and recalling in scenario Cave
+- Amiwen's, Lemyr's and Merissa's advancements adding a strike decreases damage (per strike) now
+- Merissa can now learn new special for chill tempest
+- Clare's advancements casting shadow wave better now increase damage by 2
+- weapon special redeem now contains its level in name and amount of kills needed for next level in description, redeem has cooldown
+- Mal-Ravanal and "enemy" leaders in scenarios The Underground and Possessed people cannot be redeemed
+- rewritten initial dialogue in scenario Mal-Ravanal, lowered time limit, enemy gets reinforcements sooner it that scenario
+- Clare now finds Jolla after Chapter 4 not during it
+- improved description of all 3 preserved liches, it also contains clues about some their advancements
+
+Version 0.5.7.5
+- improved initial dialog for scenario Defend the village
+- Lemyr uses old paladin's sprite in chapter 1 and 2
+
+Version 0.5.7.3
+- fixed Chapter 3 not being playble after 0.5.7.1
+
+Version 0.5.7.2
+- fixed invalid unit type in scenario Avenger (Chapter 5)
+
+Version 0.5.7.1
+- Lethalia cannot be killed by redeem anymore
+- fixed paths to unit files for mp scenarios
+
+Version 0.5.7
+- Lemyr has old paladin's baseframe + animations
+- improved description of multiplayer scenario, on 1.11.7+ it appears as a campaign now
+- first 4 chapter has a name
+- Lemyr and Jolla can get special aura ability instead of greater illuminates ability
+- fixed Clare's animation for teleport
+- older Jolla has a custom unit type in Chapter 5
+- enemy leader in scenario Avenger has more hitpoints in exchange for lower resistances
+
+Version 0.5.6 was on 1.11, 1.12 and 1.10 server
+
+Version 0.5.6
+- one next scenario in chapter 5
+
+Version 0.5.5.3
+- improved dialogues/new dialogues for scenarios 2 Flight, 4 Return, 5 A Mage, 7 Seeking The Mage, 8 The Teacher, 9a Bandits, 9b Learning Dark Arts, 10a An Exercise, 15a Back Home, 16a Another Orcish Assault, 17b Am I welcome at home?, 18a The Last battle, 18b The Truth (Chapter 1)
+
+Version 0.5.5.2
+- changed enemies's recruit list for orcs in Chapter 1
+- clearer objectives for scenario Seeking The Mage
+- made the map for scenario Return of troubles smaller, removed some villages
+
+Version 0.5.5.1
+- only allied Swordsmen and Royal Guards have set their movement to 0 in scenario Besieged (Chapter 5) now
+
+Version 0.5.5
+- improved maps for first multiplayer scenario and scenario 13b in Chapter 2
+- saved choices made during the campaign
+- heroes get less hitpoints from advancements
+- at the start of Chapter 4 the player loses units from Chapter 1
+- added romantic sub-plot (Tinry+Clare,Jolla+Tinry)
+
+Version 0.5.4.2
+- improved maps for scenarios 10a and 18a in Chapter 1
+- improved starting dialogue for scenario 10 in Chapter 2
+
+Version 0.5.4.1
+- improved maps for scenarios 2,3 and 10 in Chapter 2 and 4,8 and 11 in Chapter 3
+
+Version 0.5.4
+- three new scenarios in Chapter 5
+
+Version 0.5.3.6
+- corrected some typos in Chapter 1
+- Mal-Ravanal now has his portrait from Eastern Invasion in Chapter 4
+
+Version 0.5.3.5
+- finally fixed the bug with lost Tinry in scenario Treasure hunters
+
+Version 0.5.3.4
+- Tinry and Merissa can enter villages in scenario Escape from Dwarven Doors (on level 3 because they have concealment ability)
+- corrected the dialogue with Lethalia in scenario Final Confrontation
+- corrected all undeads to undead
+
+Version 0.5.3.3
+- Jolla gets illuminates halo after learning lightbeam
+- changed image for Jolla's advancements with staff (staff-ruby -> staff-magic)
+
+Only version 0.x.y prior to 0.5.3.3 are present in this changelog, I did not keep track of version 0.x.y.z previously
+
+Version 0.5.3
+- improved writing in Chapter 1
+- descriptions of abilities follow the new format now
+- used transparent images from core in the campaign menu
+- altered descriptions of campaigns' difficulty levels
+
+Version 0.5.2
+- improved writting
+- in scenario Besieged the cleric gets back his movement points when (and if) he joins the player
+- Amiwen has 2 advancements in Chapter 5 when starting from scratch
+- descriptions of abilities follow the new format now
+- description of Jolla's unit types are translated now
+-  guide in Chapter 5 (when starting from scratch) is on the recall list now
+- written introduction for scenario March to the east
+
+Version 0.5.1
+- created first four scenarios in Chapter 5
+- created second multiplayer scenario
+- improved writting in Chapter 1
+- improved some maps in Chapter 2
+- new dialogue in scenario Ghosts
+- removed a note about death knights in scenario Ghosts
+- in scenarios Skeletons and Ghosts the player owns all villages (like it was intended)
+- scenarios Another Orcish Assault and The Last battle are harder now
+
+Version 0.5.0
+- chapter 4 is completed
+- fixed soul eater ability
+
+Version 0.4.3
+- next scenarios in Chapter 4
+- improved first multiplayer scenario
+
+Version 0.4.2
+- three next scenarios
+- all killed soldiers in scenario West Front are risen now
+
+Version 0.4.1
+- three next scenarios
+
+Version 0.4.0
+- chapter 3 is completed
+
+Version 0.3.8
+- one next scenario in Chapter 3
+
+Version 0.3.7
+- 2 next scenarios in Chapter 3
+- improved maps in first chapter
+- changed image for third chapter
+- decreased time limit in scenario Morbivord's castle
+
+Version 0.3.6
+- 2 next scenarios in Chapter 3
+- scenarios Orcs's region and The Trolls are harder
+- new sprite and portrait for Clare
+- improved maps in first chapter
+
+Version 0.3.5
+- some bosses are immune to redeem
+- scenarios West Front and More undeads are harder
+- clearer objectives in scenario More undeads
+- redeem works in scenario The Trolls now
+- reduced entrance to underground in scenario Escape from prison
+
+Version 0.3.4
+- 2 next scenarios in Chapter 3
+- Clare, Lemyr and Merissa have more advancements
+- corrected some typos in Chapter 1
+- murder of Glacyn is described deeply
+- removed red mages from recruit list in scenario The Last Battle
+- some tentacles in scenario Seeking The Mage replaced with water serpents, they should attack now
+
+Version 0.3.3
+- Amiwen requires no upkeep
+- first scenario in Chapter 3 is a bit harder
+
+Version 0.3.2
+- added next level of redeem
+- redeem is described more and works just fine now
+- three next scenarios
+
+Version 0.3.1
+- created first multiplayer scenario
+- more starting gold in scenario Undeads in front of Dwarven Doors (on all difficulties)
+- zombies level-up here a little faster
+- lich in scenario West Front can be really killed only by one certain unit
+- enemies in scenario Flight have more gold and level 2 units
+- objectives in scenario Return are
+
+Version 0.3.0 was on 1.11 and 1.10 server
+
+Version 0.3.0
+- chapter 2 is completed
+- fixed scenarios 9 and 10 in Chapter 2
+- added time over dialog in scenario 9 Chapter 2
+- increased time limit in scenario 10 Chapter 2
+- Clare gains new amla line at the end of chapter two shown for side 5 as well
+- Clare has animations for all attacks
+
+Version 0.2.12
+- shorted time limit in Chapter 1
+- added time over dialogs in Chapter 1
+- three new scenarios in chapter two
+
+Version 0.2.11
+- improved writing in Chapter 1
+- new death speeches in Chapter 1
+- two new scenarios in chapter two
+
+Version 0.2.10
+- side 2's gold from scenario Flight is carried over to Return
+- in scenario Flight the signpost has been moved to the north
+- closer to a river
+- the player has full control of side 5 in scenario Return
+- improved writing in Chapter 1
+
+Version 0.2.9
+- Clare has more amla options
+
+Version 0.2.8
+- enemies ai improved in chapter two
+
+Version 0.2.7
+- bug fixes
+
+Version 0.2.6
+- two new scenarios in chapter two
+
+Version 0.2.5
+- Clare gains new amla line in chapter two
+
+Version 0.2.4
+- small fixes in chapter one
+
+Version 0.2.3
+- your army from chapter one is available in chapter two
+
+Version 0.2.2
+- campaign's images shows now
+- scenario The Last battle is winnable now
+
+Version 0.2.1
+- added one dialogue in chapter one
+- fixed a bug with objectives in chapter two scenario three
+
+Version 0.2.0
+- chapter one completed
+
+Version 0.1.0 was only on 1.11 server
+
+Version 0.1.0
+- initial version
