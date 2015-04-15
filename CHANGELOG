@@ -2,10 +2,10 @@ Version +dev means that those changes are only on github, not the add-ons server
 
 Version 0.6.1c+dev
 - changed icons for all chapters in campaign menu
-- Gauntlet now ends in defeat also if any hero is killed before the final wave arrives
+- Gauntlet now ends in defeat also if any hero is killed before the final wave arrives, they also have death speeches now
 - Amiwen is now always level 4 with 0 experiences at the start of Chapter 3
 - Clare and Amiwen now have a talk when they meet
-- changed variation_name to variation_id, added new translatable variation_name
+- changed variation_name to variation_id, added new translatable variation_name (this applies to Clare as Lich and Jolla as Silver Mage)
 
 Version 0.6.1c
 - code cleaning
