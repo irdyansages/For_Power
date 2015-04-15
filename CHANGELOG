@@ -1,6 +1,6 @@
 Version +dev means that those changes are only on github, not the add-ons server
 
-Version 0.6.1c+dev
+Version 0.6.1d
 - changed icons for all chapters in campaign menu
 - Gauntlet now ends in defeat also if any hero is killed before the final wave arrives, they also have death speeches now
 - Amiwen is now always level 4 with 0 experiences at the start of Chapter 3
