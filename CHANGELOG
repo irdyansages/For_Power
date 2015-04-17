@@ -1,5 +1,10 @@
 Version +dev means that those changes are only on github, not the add-ons server
 
+Version 0.6.1d+dev
+- stored if player paid peasant's debt in Dwarven Doors
+- improved some dialogues in Chapter 2
+- some improvements to objectives of More Orcs, side 5 has more gold and higher income
+
 Version 0.6.1d
 - changed icons for all chapters in campaign menu
 - Gauntlet now ends in defeat also if any hero is killed before the final wave arrives, they also have death speeches now
