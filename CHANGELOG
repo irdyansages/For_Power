@@ -1,6 +1,6 @@
 Version +dev means that those changes are only on github, not the add-ons server
 
-Version 0.6.1d+dev
+Version 0.6.1e
 - stored if player paid peasant's debt in Dwarven Doors
 - improved some dialogues in Chapter 2
 - some improvements to objectives of More Orcs, side 5 has more gold and higher income
@@ -22,7 +22,7 @@ Version 0.6.1b dropped support for Wesnoth 1.10. After that point, new version w
 Version 0.6.1b
 - fixed (now) invalid unit type in Epilogue for Chapter 5
 
-Version 0.6.1.a
+Version 0.6.1a
 - fixed unit type of the enemy in scenario Avenger (Chapter 5)
 
 Version 0.6.1
