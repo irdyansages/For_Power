@@ -82,10 +82,10 @@ Version 0.6.0.2
 - Shock Troopers (in scenario Cave) can be recruited now by older Jolla, not Clare
 
 Version 0.6.0.1
-- fixed counting turns in stag 3 of scenario Cleaning home (Chapter 5)
+- fixed counting turns in stage 3 of scenario Cleaning home (Chapter 5)
 - fixed a bug where the player was not defeated when older Jolla was hit during closing the portal (in the same scenario)
 
-Versions 0.5.8.x were only on trunk add-ons server and were meant as beta versions for 0.6.0 that eventually made it to 1.10, 1.10 and 1.12 servers. Dropped support for Wesnoth 1.11.0 - 1.11.9 at that points
+Versions 0.5.8.x were only on trunk add-ons server and were meant as beta versions for 0.6.0 that eventually made it to 1.10, 1.11 and 1.12 servers. Dropped support for Wesnoth 1.11.0 - 1.11.9 at that points
 
 Version 0.5.8 (0.6.0)
 - completed Chapter 5
