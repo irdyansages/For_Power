@@ -1,4 +1,7 @@
-Version +dev means that those changes are only on github, not the add-ons server
+Version +dev means that those changes are only on github, not the add-ons server.
+
+Version 0.6.1f+
+- frost weapon special now deals cold damage at the start of a turn
 
 Version 0.6.1f
 - renamed scenario Morbivord's Castle to Audience with Morbivord
