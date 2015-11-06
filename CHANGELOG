@@ -1,8 +1,9 @@
 Version +dev means that those changes are only on github, not the add-ons server
 
-Version 0.6.1e+
+Version 0.6.1f
 - renamed scenario Morbivord's Castle to Audience with Morbivord
 - Clare explains why she cannot just teleport away in Audience with Morbivord, she tells a bit more at end of initial dialogue
+- fix for scenario West Front (Chapter 2) where the lich rised a lua error instead of undead army
 
 Version 0.6.1e
 - stored if player paid peasant's debt in Dwarven Doors
