@@ -90,7 +90,7 @@ Version 0.6.0.1
 - fixed counting turns in stage 3 of scenario Cleaning home (Chapter 5)
 - fixed a bug where the player was not defeated when older Jolla was hit during closing the portal (in the same scenario)
 
-Versions 0.5.8.x were only on trunk add-ons server and were meant as beta versions for 0.6.0 that eventually made it to 1.10, 1.11 and 1.12 servers. Dropped support for Wesnoth 1.11.0 - 1.11.9 at that points
+Versions 0.5.8.x were only on trunk add-ons server and were meant as beta versions for 0.6.0 that eventually made it to 1.10, 1.11 and 1.12 servers. Dropped support for Wesnoth 1.11.0 - 1.11.9 at that point
 
 Version 0.5.8 (0.6.0)
 - completed Chapter 5
@@ -272,16 +272,16 @@ Version 0.3.1
 - zombies level-up here a little faster
 - lich in scenario West Front can be really killed only by one certain unit
 - enemies in scenario Flight have more gold and level 2 units
-- objectives in scenario Return are
+- objectives in scenario Return are shown for side 5 as well
 
 Version 0.3.0 was on 1.11 and 1.10 server
 
 Version 0.3.0
-- chapter 2 is completed
+- chapter 2 completed
 - fixed scenarios 9 and 10 in Chapter 2
 - added time over dialog in scenario 9 Chapter 2
 - increased time limit in scenario 10 Chapter 2
-- Clare gains new amla line at the end of chapter two shown for side 5 as well
+- Clare gains new amla line at the end of Chapter 2
 - Clare has animations for all attacks
 
 Version 0.2.12
@@ -296,8 +296,7 @@ Version 0.2.11
 
 Version 0.2.10
 - side 2's gold from scenario Flight is carried over to Return
-- in scenario Flight the signpost has been moved to the north
-- closer to a river
+- in scenario Flight the signpost has been moved to the north, closer to a river
 - the player has full control of side 5 in scenario Return
 - improved writing in Chapter 1
 
@@ -323,7 +322,7 @@ Version 0.2.3
 - your army from chapter one is available in chapter two
 
 Version 0.2.2
-- campaign's images shows now
+- campaign's images show now
 - scenario The Last battle is winnable now
 
 Version 0.2.1
