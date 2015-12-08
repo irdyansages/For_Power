@@ -1,7 +1,8 @@
 Version +dev means that those changes are only on github, not the add-ons server.
 
-Version 0.6.1f+
+Version 0.6.1f+dev
 - frost weapon special now deals cold damage at the start of a turn
+- added description for Jolla Crusader
 
 Version 0.6.1f
 - renamed scenario Morbivord's Castle to Audience with Morbivord
