@@ -15,6 +15,7 @@ Version 0.6.1f+dev
 - added 2 more scenarios to "good" path of Chapter 1
 - increased enemy's income in The Assassin's Hideout
 - reduced enemy spawns in Besieged on NORMAL and HARD but added chance that player's and ally's lost units will rise again as undead
+- fixed unlimited movement in scenario The Countess
 
 Version 0.6.1f
 - renamed scenario Morbivord's Castle to Audience with Morbivord
