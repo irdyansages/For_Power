@@ -16,6 +16,7 @@ Version 0.6.1f+dev
 - increased enemy's income in The Assassin's Hideout
 - reduced enemy spawns in Besieged on NORMAL and HARD but added chance that player's and ally's lost units will rise again as undead
 - fixed unlimited movement in scenario The Countess
+- get rid of Ring of HP at start of Chapter 5 (just like all other artifacts from Chapter 2)
 
 Version 0.6.1f
 - renamed scenario Morbivord's Castle to Audience with Morbivord
