@@ -1,6 +1,6 @@
 Version +dev means that those changes are only on github, not the add-ons server.
 
-Version 0.6.1f+dev
+Version 0.6.2
 - frost weapon special now deals cold damage at the start of a turn
 - added description for Jolla Crusader
 - renamed Ravanal to Ravan
