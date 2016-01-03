@@ -1,5 +1,8 @@
 Version +dev means that those changes are only on github, not the add-ons server.
 
+Version 0.6.2a+dev
+- improved description of some advancements
+
 Version 0.6.2a
 - fixed map filename for scenario Homeless
 
