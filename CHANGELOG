@@ -2,6 +2,7 @@ Version +dev means that those changes are only on github, not the add-ons server
 
 Version 0.6.2a+dev
 - improved description of some advancements
+- Tinry is now level 3 when starting Chapter 2 from scratch
 
 Version 0.6.2a
 - fixed map filename for scenario Homeless
