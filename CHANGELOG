@@ -1,4 +1,21 @@
-Version +dev means that those changes are only on github, not the add-ons server.
+Version +dev/-dev means that those changes are only on github, not the add-ons server.
+
+Version 0.6.3-dev
+- BC break: changed scenarios's ids to match their names
+- turned scenario The Path of Revenge into battle
+- decreased Amiwen's base physical resistances by 25%
+BC break: reworked advancements
+- advancements adding strike for Clare's staff and missiles, Amiwen's faerie fire decrease damage now
+- made Clare's entangle and Merissa's chill tempest stronger
+- changed additional weapon specials for Clare's staff (misorcia instead of marksman) and Lemyr's sword (doom instead of marksman) and lance (knockback instead of first strike and marksman)
+- reworked lightbringer ability
+- added 1 more amla line for soul eater and redeem
+- replaced Clare's advancements increases defenses with new ones increasing physical resistances
+- removed requirements for Amiwen's advancement more attuned to the woods
+- added new advancements for Amiwen
+- improved description of some advancements
+- replaced Lemyr's last 2 advancements better with sword with new ones improving shield ability
+- replaced Clare's last 2 advancements causing more havoc with missile with new ones improving conviction ability
 
 Version 0.6.2.1
 - improved description of some advancements
