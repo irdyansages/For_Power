@@ -4,6 +4,7 @@ Version 0.6.3-dev
 - BC break: changed scenarios's ids to match their names
 - turned scenario The Path of Revenge into battle
 - decreased Amiwen's base physical resistances by 25%
+- made scenario Damsel in Distress easier on EASY and NORMAL
 BC break: reworked advancements
 - advancements adding strike for Clare's staff and missiles, Amiwen's faerie fire decrease damage now
 - made Clare's entangle and Merissa's chill tempest stronger
