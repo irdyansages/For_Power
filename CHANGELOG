@@ -9,6 +9,7 @@ Version 0.6.3-dev
 - added introduction for scenarios The Path of Revenge, The Last Battle, The Elves, To Morbivord's Castle, Final Confrontation, Back in the City
 - made scenario The Underground harder (both enemy sides recruit units now)
 - made scenario Back in Underground a bit easier (Clare gets back all her movement after finding Ravan and player gets more turns to escape)
+- secondary targets of shockwave are now also slowed
 BC break: reworked advancements
 - advancements adding strike for Clare's staff and missiles, Amiwen's faerie fire decrease damage now
 - made Clare's entangle and Merissa's chill tempest stronger
