@@ -1,12 +1,13 @@
 Version +dev/-dev means that those changes are only on github, not the add-ons server.
 
 Version 0.6.3-dev
+- renamed The Elves to Negotiations with Elves
 - BC break: changed scenarios's ids to match their names
 - turned scenario The Path of Revenge into battle
 - decreased Amiwen's base physical resistances by 25%
 - made scenario Damsel in Distress easier on EASY and NORMAL
 - improved introduction for scenarios Thirst For Power, Back Home, Am I welcome at Home?, Return of Troubles, The Northern Alliance
-- added introduction for scenarios The Path of Revenge, The Last Battle, The Elves, To Morbivord's Castle, Final Confrontation, Back in the City
+- added introduction for scenarios The Path of Revenge, The Last Battle, Negotiations with Elves, To Morbivord's Castle, Final Confrontation, Back in the City
 - made scenario The Underground harder (both enemy sides recruit units now)
 - reworked scenario Back in Underground - Clare gets back all her movement after finding Ravan, player gets more turns to escape and the enemy has less gold but additional enemies are spawned all over the map
 - secondary targets of shockwave are now also slowed
