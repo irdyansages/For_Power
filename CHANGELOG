@@ -8,7 +8,7 @@ Version 0.6.3-dev
 - improved introduction for scenarios Thirst For Power, Back Home, Am I welcome at Home?, Return of Troubles, The Northern Alliance
 - added introduction for scenarios The Path of Revenge, The Last Battle, The Elves, To Morbivord's Castle, Final Confrontation, Back in the City
 - made scenario The Underground harder (both enemy sides recruit units now)
-- made scenario Back in Underground a bit easier (Clare gets back all her movement after finding Ravan and player gets more turns to escape)
+- reworked scenario Back in Underground - Clare gets back all her movement after finding Ravan, player gets more turns to escape and the enemy has less gold but additional enemies are spawned all over the map
 - secondary targets of shockwave are now also slowed
 BC break: reworked advancements
 - advancements adding strike for Clare's staff and missiles, Amiwen's faerie fire decrease damage now
