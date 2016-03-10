@@ -11,6 +11,7 @@ Version 0.6.3-dev
 - made scenario The Underground harder (both enemy sides recruit units now)
 - reworked scenario Back in Underground - Clare gets back all her movement after finding Ravan, player gets more turns to escape and the enemy has less gold but additional enemies are spawned all over the map
 - secondary targets of shockwave are now also slowed
+- disallowed recruiting in scenario New Home
 BC break: reworked advancements
 - advancements adding strike for Clare's staff and missiles, Amiwen's faerie fire decrease damage now
 - made Clare's entangle and Merissa's chill tempest stronger
