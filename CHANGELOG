@@ -12,6 +12,7 @@ Version 0.6.3-dev
 - reworked scenario Back in Underground - Clare gets back all her movement after finding Ravan, player gets more turns to escape and the enemy has less gold but additional enemies are spawned all over the map
 - secondary targets of shockwave are now also slowed
 - disallowed recruiting in scenario New Home
+- the cleric in Chapter 5 is now auto-recalled (if he joined the player and is alive)
 BC break: reworked advancements
 - advancements adding strike for Clare's staff and missiles, Amiwen's faerie fire decrease damage now
 - made Clare's entangle and Merissa's chill tempest stronger
