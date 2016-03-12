@@ -13,7 +13,7 @@ Version 0.6.3-dev
 - secondary targets of shockwave are now also slowed
 - disallowed recruiting in scenario New Home
 - the cleric in Chapter 5 is now auto-recalled (if he joined the player and is alive)
-- Clare gets more advancements when starting a chapter from scratch
+- Clare gets more advancements when starting a chapter from scratch, the player can now choose advancements also for other heroes
 - Bhaskara in scenario Avenger comes sooner but the enemy starts with more gold
 - increased enemies's gold and income in scenario Cleaning Home
 BC break: reworked advancements
