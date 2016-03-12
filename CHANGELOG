@@ -15,6 +15,7 @@ Version 0.6.3-dev
 - the cleric in Chapter 5 is now auto-recalled (if he joined the player and is alive)
 - Clare gets more advancements when starting a chapter from scratch
 - Bhaskara in scenario Avenger comes sooner but the enemy starts with more gold
+- increased enemies's gold and income in scenario Cleaning Home
 BC break: reworked advancements
 - advancements adding strike for Clare's staff and missiles, Amiwen's faerie fire decrease damage now
 - made Clare's entangle and Merissa's chill tempest stronger
