@@ -1,6 +1,7 @@
 Version +dev/-dev means that those changes are only on github, not the add-ons server.
 
 Version 0.6.3-dev
+- added first 3 scenarios of Chapter 6
 - renamed The Elves to Negotiations with Elves
 - BC break: changed scenarios's ids to match their names
 - turned scenario The Path of Revenge into battle
