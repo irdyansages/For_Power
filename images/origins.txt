@@ -2,6 +2,7 @@ Attacks, icons and halos:
 taken from Legend of the Invicibles
 noctum.png came from Invasion from the Unknown
 sand-storm.png from Rise of the Elementalist
+dagger-poison.png from RPG Creation Kit
 
 Portraits:
 Clare.png was made by Dugi
@@ -12,3 +13,5 @@ Elvish Seer, Shadow Prince and Prophet taken from Legend of the Invicibles
 all elementals taken from Rise of the Elementalist
 knight and paladin used to be mainline before 1.11
 Skeleton Rider and Bone Knight taken from Liberty
+Orcish Nighblade - by Sleepwalker
+Witch from RPG Creation Kit
