@@ -1,5 +1,8 @@
 Version +dev/-dev means that those changes are only on github, not the add-ons server.
 
+Version 0.6.3+dev
+- updated description of Orcish Nightblade (on Wesnoth 1.12)
+
 Version 0.6.3
 - added first 3 scenarios of Chapter 6
 - renamed The Elves to Negotiations with Elves
