@@ -4,6 +4,7 @@ Version 0.6.3+dev
 - updated description of Orcish Nightblade (on Wesnoth 1.12)
 - corrected some typos
 - some code cleaning
+- added missing [difficulty] define= for all campaigns (on Wesnoth 1.13)
 
 Version 0.6.3
 - added first 3 scenarios of Chapter 6
