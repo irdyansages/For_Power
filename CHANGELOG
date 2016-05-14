@@ -6,6 +6,7 @@ Version 0.6.3+dev
 - some code cleaning
 - added missing [difficulty] define= for all campaigns (on Wesnoth 1.13)
 - fixed crashes in first chapter on Wesnoth 1.13
+- fixed Clare always getting free advancement at start of Chapter 2
 
 Version 0.6.3
 - added first 3 scenarios of Chapter 6
