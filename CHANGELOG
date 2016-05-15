@@ -9,6 +9,7 @@ Version 0.6.3+dev
 - fixed Clare always getting free advancement at start of Chapter 2
 - fixed missing Clare in scenarios 12 and 13 (Chapter 1) on Wesnoth 1.13
 - made initial objectives of Orcish Scouts clearer, do not give early finish bonus for skipping that scenarios and added time limit
+- added some speeches to Defend the Village and Flight
 
 Version 0.6.3 was on 1.12 and 1.13 server
 
