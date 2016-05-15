@@ -1,6 +1,6 @@
 Version +dev/-dev means that those changes are only on github, not the add-ons server.
 
-Version 0.6.3+dev
+Version 0.6.3.1
 - updated description of Orcish Nightblade (on Wesnoth 1.12)
 - corrected some typos
 - some code cleaning
