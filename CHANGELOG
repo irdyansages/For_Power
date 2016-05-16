@@ -1,5 +1,8 @@
 Version +dev/-dev means that those changes are only on github, not the add-ons server.
 
+Version 0.6.3.1+dev
+- fixed Clare's type in filters in The Path of Revenge
+
 Version 0.6.3.1
 - updated description of Orcish Nightblade (on Wesnoth 1.12)
 - corrected some typos
