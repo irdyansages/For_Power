@@ -3,6 +3,7 @@ Version +dev/-dev means that those changes are only on github, not the add-ons s
 Version 0.6.3.2+dev
 - do not rise fallen warriors in West Front if the lich is dead
 - kill lich's units when he is dying in West Front
+- units from Chapter 1 are finally not available in Chapter 4
 
 Version 0.6.3.2
 - fixed Clare's type in filters in The Path of Revenge
