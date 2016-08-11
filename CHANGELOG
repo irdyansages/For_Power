@@ -4,6 +4,7 @@ Version 0.6.3.2+dev
 - do not rise fallen warriors in West Front if the lich is dead
 - kill lich's units when he is dying in West Front
 - units from Chapter 1 are finally not available in Chapter 4
+- fixed Clare's attacks after Undead in front of Dwarven Doors
 - put a limit on enemy's recruiting of lancers in Escape from Eastern Lands
 
 Version 0.6.3.2
