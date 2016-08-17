@@ -3,6 +3,7 @@ taken from Legend of the Invicibles
 noctum.png came from Invasion from the Unknown
 sand-storm.png from Rise of the Elementalist
 dagger-poison.png from RPG Creation Kit
+sword-astral.png from Liberty
 
 Portraits:
 Clare.png was made by Dugi
@@ -15,3 +16,4 @@ knight and paladin used to be mainline before 1.11
 Skeleton Rider and Bone Knight taken from Liberty
 Orcish Nighblade - by Sleepwalker
 Witch from RPG Creation Kit
+Rogue Mage, Shadow Mage and Shadow Lord taken from old version of Liberty
