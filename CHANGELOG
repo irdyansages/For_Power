@@ -7,6 +7,7 @@ Version 0.6.3.2+dev
 - fixed Clare's attacks after Undead in front of Dwarven Doors
 - put a limit on enemy's recruiting of lancers in Escape from Eastern Lands
 - added special notes for Jolla Crusader
+- advancements improving resistances/defense no longer add hitpoints
 
 Version 0.6.3.2
 - fixed Clare's type in filters in The Path of Revenge
