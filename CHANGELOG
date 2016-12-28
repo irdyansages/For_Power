@@ -11,6 +11,7 @@ Version 0.6.3.2+dev
 - renamed Another Orcish Assault to Return of the Orcs, The Necromancer to Necromancer('s) Hunt, Return of Troubles to A Troubled Forest, End of Peace to Unfriendly Visit, Back in Underground to Lost F(r)iend
 - added some dialogues to The Underground
 - gave player unlimited movement in scenario Dwarven Doors
+- it is no longer possible to hit Yswniver in scenario More Undead
 
 Version 0.6.3.2
 - fixed Clare's type in filters in The Path of Revenge
