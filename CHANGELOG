@@ -14,6 +14,7 @@ Version 0.6.3.2+dev
 - it is no longer possible to hit Yswniver in scenario More Undead
 - added Heavy Infantryman to player's recruit list in Chapter 2 and Bowman in Chapter 3
 - allowed recruiting level 1 units in Chapter 5
+- the player can now recruit some level 2 units in West Front instead of getting some for free
 
 Version 0.6.3.2
 - fixed Clare's type in filters in The Path of Revenge
