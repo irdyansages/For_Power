@@ -15,6 +15,7 @@ Version 0.6.3.2+dev
 - added Heavy Infantryman to player's recruit list in Chapter 2 and Bowman in Chapter 3
 - allowed recruiting level 1 units in Chapter 5
 - the player can now recruit some level 2 units in West Front instead of getting some for free
+- Clare, Lemyr, Merissa and Tinry can now advance into level 4 units before their transformation, then their level is 5 (except for Tinry)
 
 Version 0.6.3.2
 - fixed Clare's type in filters in The Path of Revenge
