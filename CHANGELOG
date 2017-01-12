@@ -17,6 +17,7 @@ Version 0.6.3.2+dev
 - the player can now recruit some level 2 units in West Front instead of getting some for free
 - Clare, Lemyr, Merissa and Tinry can now advance into level 4 units before their transformation, then their level is 5 (except for Tinry)
 - improved some dialogues
+- code cleaning
 
 Version 0.6.3.2
 - fixed Clare's type in filters in The Path of Revenge
