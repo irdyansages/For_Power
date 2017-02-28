@@ -20,6 +20,7 @@ Version 0.6.3.2+dev
 - code cleaning
 - orchish sovereign in Chapter 1 is now just a warlord
 - allowed using more modifications in MP scenarios
+- fixed a lua error in Cleaning Home on Wesnoth 1.13
 
 Version 0.6.3.2
 - fixed Clare's type in filters in The Path of Revenge
