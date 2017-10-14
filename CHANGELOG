@@ -22,6 +22,7 @@ Version 0.6.3.2+dev
 - allowed using more modifications in MP scenarios
 - fixed a lua error in Cleaning Home on Wesnoth 1.13
 - improved description of some advancements
+- added fog to A Troubled Forest
 
 Version 0.6.3.2
 - fixed Clare's type in filters in The Path of Revenge
