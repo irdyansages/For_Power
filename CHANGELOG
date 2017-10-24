@@ -1,5 +1,8 @@
 Version +dev/-dev means that those changes are only on github, not the add-ons server.
 
+Version 0.6.4+dev
+- fixed level of Lemyr High Paladin
+
 Version 0.6.4
 - do not rise fallen warriors in West Front if the lich is dead
 - kill lich's units when he is dying in West Front
