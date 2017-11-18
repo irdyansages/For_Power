@@ -1,0 +1,16 @@
+author="James_The_Invisible"
+description="Sometimes the fate has a quite interesting sense of humor. Some people wish to be good but it has something different prepared for them. It was also the case of a young mage Clare from the Northlands.
+She only wanted to protect her home village from the still more aggressive orcs but just one event completely changed her whole life. It has become very thrilling and much longer but everything has its price. She had to do many a thing what she did not like. Watch with your own eyes what happened and how she dealt with it. Watch her path to power but also her descent.
+work in progress (chapters 1 to 5 are completed, some scenarios from chapter 6 are present)
+feedback thread: r.wesnoth.org/t37806
+git repository: https://github.com/konecnyjakub/For_Power"
+email="jakub.konecny2@centrum.cz"
+icon="misc/blank-hex.png~BLIT(scenery/circle-magic-glow.png~SCALE(55,55),5,15)~BLIT(units/undead-necromancers/necromancer+female-magic-3.png~RC(magenta>red)~SCALE(50,50),0,5)~BLIT(halo/undead/dark-magic-5.png~SCALE(60,60),0,10)~BLIT(units/undead-skeletal/revenant-dying-7.png~SCALE(50,50),10,12)~BLIT(units/human-loyalists/paladin/paladin.png~RC(magenta>blue)~FL()~SCALE(40,40),30,6)~BLIT(items/book5.png~FL()~SCALE(30,30),15,20)~DARKEN()"
+passphrase="XXX"
+title="For Power"
+translate=yes
+type="campaign"
+version="XXX"
+[feedback]
+  topic_id=37806
+[/feedback]

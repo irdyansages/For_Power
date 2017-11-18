@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="For Power" basedir="." default="release">
+  <target name="release">
+    <property name="pblFile" value="_server.pbl"/>
+    <loadfile property="version" file="dist/VERSION"/>
+    <loadfile property="passphrase" file=".passphrase"/>
+    <loadfile property="pbl" file="_server.pbl.template"/>
+    <propertyregex property="pbl" override="true" subject="${pbl}" pattern='passphrase="XXX"' replace='passphrase="${passphrase}"'/>
+    <propertyregex property="pbl" override="true" subject="${pbl}" pattern='version="XXX"' replace='version="${version}"'/>
+    <echo message="${pbl}" file="${pblFile}" append="false"/>
+    <echo message="PBL file created with version ${version}."/>
+  </target>
+</project>
