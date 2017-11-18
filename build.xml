@@ -9,5 +9,7 @@
     <propertyregex property="pbl" override="true" subject="${pbl}" pattern='version="XXX"' replace='version="${version}"'/>
     <echo message="${pbl}" file="${pblFile}" append="false"/>
     <echo message="PBL file created with version ${version}."/>
+    <replaceRegexp file="CHANGELOG" pattern='Version ([0-9]+\.)+[0-9]+(\+|-)dev' replace='Version ${version}'/>
+    <echo message="Written new version number to CHANGELOG."/>
   </target>
 </project>
