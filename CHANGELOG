@@ -1,5 +1,3 @@
-Version +dev/-dev means that those changes are only on github, not the add-ons server.
-
 Version 0.6.4.1+dev
 - lowered Lemyr High Paladin's experience in multiplyer to 60
 - changed experience of max level units with default amla to level * 50
