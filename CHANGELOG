@@ -11,6 +11,7 @@ Version 0.6.4.1+dev
 - Warlord's Armor in Cave (Chapter 5) now provides leadership on the unit's level, not always 3
 - fixed leadership abilities on Wesnoth 1.14
 - added 1 scenario to Chapter 6
+- added start_year and end_year to campaigns (they are not 100% accurate)
 
 Version 0.6.4.1 was on 1.12, 1.13 and 1.14 server
 
