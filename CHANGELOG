@@ -1,3 +1,6 @@
+Version 0.6.5.1+dev
+- changed implementation of frost and scourge weapon specials
+
 Version 0.6.5.1
 - mentioned resistance bonuses in descriptions of blessed trait, added help_text
 - fixed Clare as Gold Mage not being turn into lich in The Path of Revenge
