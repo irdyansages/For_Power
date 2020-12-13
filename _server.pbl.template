@@ -10,6 +10,7 @@ passphrase="XXX"
 title="For Power"
 type="campaign"
 version="XXX"
+tags=northlands,wesnoth,mage,orcs,undead,lich,immortality,morals,edge
 [feedback]
   topic_id=37806
 [/feedback]
