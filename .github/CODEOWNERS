@@ -8,7 +8,7 @@
 /_server.pbl.template   @irdyansages/release-managers-for-power
 /CHANGELOG.md           @irdyansages/release-managers-for-power
 /build.xml              @irdyansages/release-managers-for-power
-/dist/                  @irdyansages/release-managers-for-power     
+/dist/                  @irdyansages/release-managers-for-power
 /_server.ign            @irdyansages/release-managers-for-power
 .gitattributes          @irdyansages/release-managers-for-power
 
@@ -17,9 +17,9 @@
 
 # WML
 *.cfg                   @irdyansages/wml-wizards
-utils/story.cfg         @irdyansages/wml-wizards @irdyansages/lore-masters
-utils/deaths.cfg        @irdyansages/wml-wizards @irdyansages/lore-masters
-scenarios/*.cfg         @irdyansages/wml-wizards @irdyansages/lore-masters
+story.cfg               @irdyansages/wml-wizards @irdyansages/lore-masters
+deaths.cfg              @irdyansages/wml-wizards @irdyansages/lore-masters
+scenarios/              @irdyansages/wml-wizards @irdyansages/lore-masters
 
 # Maps
 *.map                   @irdyansages/map-makers
