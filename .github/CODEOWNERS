@@ -1,0 +1,25 @@
+# Project Management
+/.github/               @irdyansages/project-management
+/README.md              @irdyansages/project-management
+/COPYING.txt            @irdyansages/project-management
+.gitignore              @irdyansages/project-management
+
+# Release Management
+/_server.pbl.template   @irdyansages/release-managers-for-power
+/CHANGELOG.md           @irdyansages/release-managers-for-power
+/build.xml              @irdyansages/release-managers-for-power
+/dist/                  @irdyansages/release-managers-for-power     
+/_server.ign            @irdyansages/release-managers-for-power
+.gitattributes          @irdyansages/release-managers-for-power
+
+# Translations
+/translations/          @irdyansages/translations-masters
+
+# WML
+*.cfg                   @irdyansages/wml-wizards
+utils/story.cfg         @irdyansages/wml-wizards @irdyansages/lore-masters
+utils/deaths.cfg        @irdyansages/wml-wizards @irdyansages/lore-masters
+scenarios/*.cfg         @irdyansages/wml-wizards @irdyansages/lore-masters
+
+# Maps
+*.map                   @irdyansages/map-makers
