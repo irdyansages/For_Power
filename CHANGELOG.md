@@ -1,4 +1,4 @@
-Version 0.6.5.1+dev
+Version 0.6.5.2
 - changed implementation of frost and scourge weapon specials
 - fixed recruiting in Chapter 5
 - added background for campaigns (on Wesnoth 1.15)
