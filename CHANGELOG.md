@@ -2,6 +2,8 @@ Version 0.6.5.1+dev
 - changed implementation of frost and scourge weapon specials
 - fixed recruiting in Chapter 5
 - added background for campaigns (on Wesnoth 1.15)
+- added tags for add-on
+- added Czech translation for add-on's name and description
 
 Version 0.6.5.1
 - mentioned resistance bonuses in descriptions of blessed trait, added help_text
