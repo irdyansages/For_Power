@@ -1,3 +1,6 @@
+Version 0.6.5.2+dev
+- improved some dialogues
+
 Version 0.6.5.2 was on 1.14 and 1.16 server
 
 Version 0.6.5.2
