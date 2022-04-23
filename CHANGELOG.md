@@ -1,4 +1,4 @@
-Version 0.6.5.2+dev
+Version 0.6.5.3
 
 - improved some dialogues
 - fixed warnings about missing possible next scenarios
