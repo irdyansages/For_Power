@@ -1,5 +1,6 @@
 Version 0.6.5.2+dev
 - improved some dialogues
+- fixed warnings about missing possible next scenarios
 
 Version 0.6.5.2 was on 1.14 and 1.16 server
 
@@ -97,7 +98,7 @@ Version 0.6.3
 - Clare gets more advancements when starting a chapter from scratch, the player can now choose advancements also for other heroes
 - Bhaskara in scenario Avenger comes sooner but the enemy starts with more gold
 - increased enemies's gold and income in scenario Cleaning Home
-BC break: reworked advancements
+- BC break: reworked advancements
 - advancements adding strike for Clare's staff and missiles, Amiwen's faerie fire decrease damage now
 - made Clare's entangle and Merissa's chill tempest stronger
 - changed additional weapon specials for Clare's staff (misorcia instead of marksman) and Lemyr's sword (doom instead of marksman) and lance (knockback instead of first strike and marksman)
@@ -330,7 +331,7 @@ Version 0.5.2
 - Amiwen has 2 advancements in Chapter 5 when starting from scratch
 - descriptions of abilities follow the new format now
 - description of Jolla's unit types are translated now
--  guide in Chapter 5 (when starting from scratch) is on the recall list now
+- guide in Chapter 5 (when starting from scratch) is on the recall list now
 - written introduction for scenario March to the east
 
 Version 0.5.1
