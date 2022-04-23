@@ -1,3 +1,5 @@
+Version 0.6.5.3 was only on 1.16 server
+
 Version 0.6.5.3
 
 - improved some dialogues
