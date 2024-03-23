@@ -9,7 +9,7 @@ passphrase="XXX"
 title="For Power"
 type="campaign"
 version="XXX"
-tags=northlands,wesnoth,female protagonist,mage protagonist,mages,militia,orcs,undead,lich,immortality,morals,edge
+tags="northlands,wesnoth,female protagonist,mage protagonist,mages,militia,orcs,undead,lich,immortality,morals,edge"
 [feedback]
   topic_id=37806
 [/feedback]
