@@ -1,6 +1,7 @@
 Version 0.6.5.3+dev
 - updated for Wesnoth 1.18
 - fixed an event in scenario The Last Battle
+- gave player starting villages in Trolls' Caves (Chapter 3)
 
 Version 0.6.5.3 was only on 1.16 server
 
