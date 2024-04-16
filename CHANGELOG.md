@@ -5,6 +5,7 @@ Version 0.6.5.3+dev
 - gave player starting villages in Trolls' Caves (Chapter 3)
 - fixed Lemyr's amla better protected from physical blows not providing full heal
 - BC break: changed scenarios's ids to match their names
+- lowered enemy's gold in Avenger
 
 Version 0.6.5.3 was only on 1.16 server
 
