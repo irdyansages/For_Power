@@ -2,6 +2,7 @@ Version 0.6.5.4+dev
 
 - increased Lemyr's stats as High Paladin
 - changed icon for hard difficulty level for Chapters 2, 3 and 4
+- added warning about losing units from Chapter 1 to start of Chapter 3
 
 Version 0.6.5.4 was only on 1.18 server
 
