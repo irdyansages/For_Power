@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: For_Power-1.16\n"
+"Project-Id-Version: For_Power-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-02-20 14:22 UTC\n"
+"POT-Creation-Date: 2024-04-20 16:24 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,26 +10,26 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: For_Power/_main.cfg:25
+#: For_Power/_main.cfg:23
 msgid "To be continued..."
 msgstr ""
 
 #. [about]
-#: For_Power/_main.cfg:27
+#: For_Power/_main.cfg:25
 msgid "Author of this campaign:"
 msgstr ""
 
 #. [about]
-#: For_Power/_main.cfg:33
+#: For_Power/_main.cfg:31
 msgid "Senior advisor:"
 msgstr ""
 
 #. [about]
-#: For_Power/_main.cfg:40
+#: For_Power/_main.cfg:38
 msgid "Text revision:"
 msgstr ""
 
-#: For_Power/_main.cfg:62
+#: For_Power/_main.cfg:60
 msgid "Version:"
 msgstr ""
 
@@ -145,7 +145,7 @@ msgstr ""
 msgid "Defend the Village"
 msgstr ""
 
-#. [side]: type=Clare_Mage, id=Clare
+#. [side]: type=Clare_Mage, id=Clare, gender=female
 #. [side]: type=Sergeant, id=Glacyn
 #. [side]: type=Lemyr_Paladin, id=Lemyr
 #. [side]: type=Duelist, id=noble
@@ -164,14 +164,14 @@ msgstr ""
 msgid "Villagers"
 msgstr ""
 
-#. [side]: type=Clare_Mage, id=Clare
-#. [side]: type=Clare_Red Mage, id=Clare
-#. [side]: type=Dark Sorcerer, id=Clare
-#. [side]: type=Necromancer, id=Clare
-#. [side]: id=Clare, type=Dark Sorcerer, type=Clare_Red Mage
-#. [unit]: id=Clare, type=Clare_Lich
-#. [side]: id=Clare, type=Clare_Lich
-#. [side]: type=Clare_Lich, id=Clare
+#. [side]: type=Clare_Mage, id=Clare, gender=female
+#. [side]: type=Clare_Red Mage, id=Clare, gender=female
+#. [side]: type=Dark Sorcerer, id=Clare, gender=female
+#. [side]: type=Necromancer, id=Clare, gender=female
+#. [side]: id=Clare, gender=female, type=Dark Sorcerer, type=Clare_Red Mage
+#. [unit]: id=Clare, type=Clare_Lich, gender=female
+#. [side]: id=Clare, type=Clare_Lich, gender=female
+#. [side]: type=Clare_Lich, id=Clare, gender=female
 #. [side]
 #. [modify_side]
 #: For_Power/chapter1/scenarios/01_Defend_the_Village.cfg:25
@@ -263,8 +263,8 @@ msgstr ""
 #: For_Power/chapter2/scenarios/Epilogue.cfg:17
 #: For_Power/chapter3/scenarios/01_Unfriendly_Visit.cfg:19
 #: For_Power/chapter3/scenarios/01_Unfriendly_Visit.cfg:23
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:33
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:37
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:34
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:38
 #: For_Power/chapter3/scenarios/03_Meeting_with_Ravan.cfg:20
 #: For_Power/chapter3/scenarios/03_Meeting_with_Ravan.cfg:24
 #: For_Power/chapter3/scenarios/04_Orcs_Region.cfg:22
@@ -339,8 +339,8 @@ msgstr ""
 #. [unit]: type=Lemyr_Paladin, id=Lemyr
 #. [unit]: type=Lemyr_High Paladin, id=Lemyr
 #. [unit]: type=Lemyr_Lich, id=Lemyr
-#. [side]: type=Lemyr_Lich, id=Lemyr
-#. [side]: type=Lemyr_High Paladin, id=Lemyr
+#. [side]: type=Lemyr_Lich, id=Lemyr, gender=male
+#. [side]: type=Lemyr_High Paladin, id=Lemyr, gender=male
 #: For_Power/chapter1/scenarios/01_Defend_the_Village.cfg:43
 #: For_Power/chapter1/scenarios/15a_Back_Home.cfg:41
 #: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:41
@@ -352,7 +352,7 @@ msgstr ""
 #: For_Power/chapter1/scenarios/Epilogue_b.cfg:36
 #: For_Power/chapter2/scenarios/06_Dwarven_Doors.cfg:134
 #: For_Power/chapter3/scenarios/01_Unfriendly_Visit.cfg:134
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:573
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:574
 #: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:213
 #: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:162
 #: For_Power/chapter6/scenarios/01_Nothing_is_left_but_Sadness.cfg:159
@@ -416,7 +416,7 @@ msgstr ""
 #: For_Power/chapter1/scenarios/19a_The_Last_Battle.cfg:212
 #: For_Power/chapter2/scenarios/03_More_Orcs.cfg:173
 #: For_Power/chapter2/scenarios/07_West_Front.cfg:114
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:94
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:95
 #: For_Power/chapter3/scenarios/04_Orcs_Region.cfg:98
 #: For_Power/chapter4/scenarios/02_Bandits.cfg:94
 #: For_Power/chapter4/scenarios/08_Eastern_Lands2.cfg:240
@@ -874,10 +874,10 @@ msgstr ""
 msgid "Assassin"
 msgstr ""
 
-#. [unit]: type=Arch Mage, id=Haldar
-#. [side]: type=Arch Mage, id=Haldar
-#. [side]: type=Necromancer, id=Haldar
-#. [unit]: type=Necromancer, id=Haldar
+#. [unit]: type=Arch Mage, gender=male, id=Haldar
+#. [side]: type=Arch Mage, id=Haldar, gender=male
+#. [side]: type=Necromancer, id=Haldar, gender=male
+#. [unit]: type=Necromancer, gender=male, id=Haldar
 #: For_Power/chapter1/scenarios/05_A_Strange_Visitor.cfg:97
 #: For_Power/chapter1/scenarios/08_The_Teacher.cfg:34
 #: For_Power/chapter1/scenarios/08_The_Teacher.cfg:38
@@ -962,7 +962,7 @@ msgstr ""
 
 #. [message]: speaker=Haldar
 #: For_Power/chapter1/scenarios/05_A_Strange_Visitor.cfg:163
-msgid "It would be an honour. However, I have no books or tools on my person. If you wish to learn, you will have to travel to my home."
+msgid "It would be an honor. However, I have no books or tools on my person. If you wish to learn, you will have to travel to my home."
 msgstr ""
 
 #. [message]: speaker=Clare
@@ -1075,13 +1075,13 @@ msgstr ""
 msgid "On The Road"
 msgstr ""
 
-#. [side]: type=Outlaw FP, id=Tinry
+#. [side]: type=Outlaw FP, id=Tinry, gender=male
 #. [side]: type=Highwayman, id=Mubryn
 #. [side]
-#. [side]: type=Highwayman, id=bandit1
+#. [side]: type=Highwayman, id=bandit1, gender=male
 #. [side]: type=Fugitive, id=bandit2
 #. [scenario]: id=02_Bandits
-#. [side]: type=Highwayman, id=bandit
+#. [side]: type=Highwayman, id=bandit, gender=male
 #. [side]: type=Highwayman, id=Morcyn
 #: For_Power/chapter1/scenarios/06_On_The_Road.cfg:37
 #: For_Power/chapter1/scenarios/09a_Recruiting_Bandits.cfg:34
@@ -1097,10 +1097,10 @@ msgstr ""
 msgid "Bandits"
 msgstr ""
 
-#. [side]: type=Outlaw FP, id=Tinry
-#. [unit]: type=Fugitive, id=Tinry
-#. [unit]: type=Renegade, id=Tinry
-#. [unit]: type=Tinry_Shadow Prince, id=Tinry
+#. [side]: type=Outlaw FP, id=Tinry, gender=male
+#. [unit]: type=Fugitive, id=Tinry, gender=male
+#. [unit]: type=Renegade, id=Tinry, gender=male
+#. [unit]: type=Tinry_Shadow Prince, id=Tinry, gender=male
 #. [side]
 #: For_Power/chapter1/scenarios/06_On_The_Road.cfg:41
 #: For_Power/chapter2/scenarios/01_A_Troubled_Forest.cfg:142
@@ -1280,11 +1280,11 @@ msgstr ""
 msgid "You can now recruit footpads and thieves, to protect Clare and Tinry and to explore the scenario. You may also recall the ones from the previous scenario."
 msgstr ""
 
-#. [unit]: type=Fugitive, id=Merissa
-#. [unit]: type=Renegade, id=Merissa
-#. [unit]: type=Merissa_Lich, id=Merissa
-#. [side]: type=Merissa_Lich, id=Merissa
-#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:181
+#. [unit]: type=Fugitive, id=Merissa, gender=female
+#. [unit]: type=Renegade, id=Merissa, gender=female
+#. [unit]: type=Merissa_Lich, id=Merissa, gender=female
+#. [side]: type=Merissa_Lich, id=Merissa, gender=female
+#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:182
 #: For_Power/chapter3/scenarios/01_Unfriendly_Visit.cfg:163
 #: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:242
 #: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:248
@@ -1294,122 +1294,122 @@ msgid "Merissa"
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:194
+#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:195
 msgid "Hey there, Tinry. What you doing ‘round here?"
 msgstr ""
 
 #. [message]: speaker=Tinry
-#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:198
+#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:199
 msgid "Oh, hi, Merissa! I'm with this lady ‘ere. We're going to the Heart Mountains."
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:202
+#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:203
 msgid "She doesn't look like a noble lady to me. She looks like a mage."
 msgstr ""
 
 #. [message]: speaker=Tinry
-#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:206
+#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:207
 msgid "Well, yeah, but she doesn't talk nor act like us."
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:210
+#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:211
 msgid "Whatever. By the way why do you want to go to the Heart Mountains, girl?"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:214
+#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:215
 msgid "I am searching for a mage. A vile Orc slew my village's headman, a friend of mine, and the mage can help me avenge him."
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:218
+#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:219
 msgid "Orcs are all the same, so cruel. But, the mage you looking for, he ain't..."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:222
+#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:223
 msgid "a really good guy? Yes, Tinry already told me that much."
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:226
+#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:227
 msgid "Ah, right. What's your name, anyways?"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:230
+#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:231
 msgid "Clare. I am not keen on being called Lady."
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:234
+#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:235
 msgid "Ok. Well, if you want, I can join you. I know the region well, so I can be a good helper."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:238
+#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:239
 msgid "Thank you, you are most welcome to join my party."
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:242
+#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:243
 msgid "So, the mage. There's a shortcut, if you want it. Go down this road, straight to the mountain."
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:246
+#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:247
 msgid "And hey, Tinry, stop staring at her. I know she's pretty but she seems to be embarrassed by it despite not saying nothing."
 msgstr ""
 
 #. [message]: speaker=Tinry
-#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:250
+#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:251
 msgid "Heh? ... Alright, alright!"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:265
+#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:266
 msgid "I was planning a far longer path. Thank you for saving me the hike."
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:269
+#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:270
 msgid "You’re welcome, la- Clare. And one thing I heard someone saw some monsters in the river. I never saw them but be careful."
 msgstr ""
 
 #. [message]: speaker=Tinry
-#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:292
-msgid "Aaaahhh! Some monsters just emerged from the deep water! The rumours were true. They'll drown us!"
+#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:293
+msgid "Aaaahhh! Some monsters just emerged from the deep water! The rumors were true. They'll drown us!"
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:296
+#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:297
 msgid "Tinry, you scaredy-cat! You forgot we're pretty quick so we can avoid them but if they dare to attack us I'm sure your guys could handle them. These creatures aren't so strong ... I think."
 msgstr ""
 
 #. [message]: speaker=Tinry
-#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:300
+#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:301
 msgid "Ah, alright, alright. Let's go smite them, guys."
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:313
+#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:314
 msgid "I can feel the remnants of magic in the air. We have arrived. Well, thank you for your help, people, I could not get here without your help. But what is ahead is just for me. Wait for me here, I shall be back soon."
 msgstr ""
 
 #. [message]: speaker=Tinry
-#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:317
+#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:318
 msgid "Yes, ma'am!"
 msgstr ""
 
 #. [message]: speaker=Tinry
-#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:330
+#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:331
 msgid "There goes the last of our water."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:334
+#: For_Power/chapter1/scenarios/07_Seeking_The_Mage.cfg:335
 msgid "All the water in these mountains is infectious, so I suppose... This is it. We are doomed."
 msgstr ""
 
@@ -1716,7 +1716,7 @@ msgstr ""
 
 #. [message]: speaker=Haldar
 #: For_Power/chapter1/scenarios/09b_Learning_Dark_Arts.cfg:164
-msgid "But this is just a beginning. You learnt a few useful spells but your true power is not in you but in your minions."
+msgid "But this is just a beginning. You learned a few useful spells but your true power is not in you but in your minions."
 msgstr ""
 
 #. [message]: speaker=Clare
@@ -2718,7 +2718,7 @@ msgstr ""
 
 #. [message]: speaker=Clare
 #: For_Power/chapter1/scenarios/15b_The_Poison.cfg:142
-msgid "I am here. But ... where is the dragon? Well, maybe I teleported to a different place. Hmm, probably not but still, I should practise it more often."
+msgid "I am here. But ... where is the dragon? Well, maybe I teleported to a different place. Hmm, probably not but still, I should practice it more often."
 msgstr ""
 
 #. [message]: speaker=noble
@@ -2938,7 +2938,7 @@ msgstr ""
 msgid "This is hopeless. I will surely die, but without my poison."
 msgstr ""
 
-#. [scenario]: id=16a_Another_Orcish_Assault
+#. [scenario]: id=16a_Return_of_the_Orcs
 #: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:5
 msgid "Return of the Orcs"
 msgstr ""
@@ -2960,8 +2960,8 @@ msgstr ""
 #: For_Power/chapter2/scenarios/13b_The_Underground.cfg:176
 #: For_Power/chapter2/utils/deaths.cfg:7
 #: For_Power/chapter3/scenarios/01_Unfriendly_Visit.cfg:75
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:98
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:468
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:99
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:469
 #: For_Power/chapter3/scenarios/06_Audience_with_Morbivord.cfg:151
 #: For_Power/chapter3/scenarios/07_Lost_Friend.cfg:144
 #: For_Power/chapter3/scenarios/07_Lost_Friend.cfg:403
@@ -2976,7 +2976,7 @@ msgstr ""
 #: For_Power/chapter1/scenarios/18b_The_Truth.cfg:103
 #: For_Power/chapter1/utils/deaths.cfg:9
 #: For_Power/chapter2/utils/deaths.cfg:59
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:464
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:465
 #: For_Power/multiplayer/Seeking_Evil.cfg:293
 #: For_Power/multiplayer/Source_of_Evil.cfg:140
 msgid "Death of Lemyr"
@@ -3284,7 +3284,7 @@ msgstr ""
 
 #. [message]: speaker=Clare
 #: For_Power/chapter1/scenarios/17a_Conversation_with_the_Earl.cfg:146
-msgid "It is an honour to be asked, sir but I must decline your offer. All I want is to live in my village with my dear Lemyr."
+msgid "It is an honor to be asked, sir but I must decline your offer. All I want is to live in my village with my dear Lemyr."
 msgstr ""
 
 #. [message]: speaker=earl
@@ -3456,8 +3456,9 @@ msgstr ""
 #. [side]: type=Necromancer, id=necro1
 #. [side]: type=Necromancer, id=necro2
 #. [side]: type=Necromancer, id=necro3
-#. [side]: type=Dark Sorcerer, id=necro
-#. [side]: type=Dark Sorcerer, id=apprentice
+#. [side]: type=Dark Sorcerer, id=necro, gender=male
+#. [side]: type=Dark Sorcerer, id=apprentice, gender=male
+#. [side]: type=Necromancer, id=necro, gender=female
 #. [side]: type=Necromancer, id=necro
 #. [side]: type=Dark Adept, id=adept
 #: For_Power/chapter1/scenarios/18a_Damsel_in_Distress.cfg:100
@@ -3471,8 +3472,8 @@ msgstr ""
 #: For_Power/chapter2/scenarios/10_Undead_in_front_of_Dwarven_Doors.cfg:132
 #: For_Power/chapter2/scenarios/10_Undead_in_front_of_Dwarven_Doors.cfg:155
 #: For_Power/chapter3/scenarios/01_Unfriendly_Visit.cfg:50
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:51
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:71
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:52
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:72
 #: For_Power/chapter3/scenarios/12_At_Home.cfg:33
 #: For_Power/chapter4/scenarios/03_Swamp_of_Death.cfg:43
 #: For_Power/chapter4/scenarios/08_Eastern_Lands2.cfg:40
@@ -3823,7 +3824,7 @@ msgstr ""
 msgid "The Last Battle"
 msgstr ""
 
-#. [side]: id=Clare, type=Clare_Lich
+#. [side]: id=Clare, type=Clare_Lich, gender=female
 #. [side]: type=Lemyr_Paladin, id=Lemyr
 #. [side]: type=Grand Marshal, id=earl
 #: For_Power/chapter1/scenarios/19a_The_Last_Battle.cfg:19
@@ -4126,7 +4127,7 @@ msgstr ""
 msgid "Three legions of orcs arrived. There is no hope of defeating them now."
 msgstr ""
 
-#. [scenario]: id=19b_The_Necromancer
+#. [scenario]: id=19b_Necromancers_Hunt
 #: For_Power/chapter1/scenarios/19b_Necromancers_Hunt.cfg:19
 msgid "Necromancer('s) Hunt"
 msgstr ""
@@ -4287,7 +4288,7 @@ msgstr ""
 #: For_Power/chapter1/utils/deaths.cfg:104
 #: For_Power/chapter2/utils/deaths.cfg:93
 #: For_Power/chapter2/utils/deaths.cfg:111
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:509
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:510
 #: For_Power/chapter3/utils/deaths.cfg:25
 #: For_Power/chapter3/utils/deaths.cfg:43
 #: For_Power/chapter4/scenarios/11_Treasure_Hunters.cfg:445
@@ -4354,7 +4355,7 @@ msgstr ""
 #: For_Power/chapter2/utils/deaths.cfg:97
 #: For_Power/chapter2/utils/deaths.cfg:115
 #: For_Power/chapter2/utils/deaths.cfg:133
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:513
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:514
 #: For_Power/chapter3/utils/deaths.cfg:29
 #: For_Power/chapter3/utils/deaths.cfg:47
 #: For_Power/chapter3/utils/deaths.cfg:65
@@ -4430,7 +4431,7 @@ msgstr ""
 
 #. [part]
 #: For_Power/chapter1/utils/story.cfg:72
-msgid "Clare did not have a good feeling about travelling with these bandits but she knew that there was no other way."
+msgid "Clare did not have a good feeling about traveling with these bandits but she knew that there was no other way."
 msgstr ""
 
 #. [part]
@@ -4602,12 +4603,12 @@ msgstr ""
 msgid "A few years after defeating the orcish sovereign Clare wanted to go through some adventures. Accompany her and find out what she saw."
 msgstr ""
 
-#. [scenario]: id=01_Return_of_Troubles
+#. [scenario]: id=01_A_Troubled_Forest
 #: For_Power/chapter2/scenarios/01_A_Troubled_Forest.cfg:5
 msgid "A Troubled Forest"
 msgstr ""
 
-#. [side]: type=Clare_Lich, id=Clare
+#. [side]: type=Clare_Lich, id=Clare, gender=female
 #: For_Power/chapter2/scenarios/01_A_Troubled_Forest.cfg:21
 msgid "Mages"
 msgstr ""
@@ -4668,7 +4669,7 @@ msgstr ""
 
 #. [message]: speaker=Gaeril
 #: For_Power/chapter2/scenarios/01_A_Troubled_Forest.cfg:294
-msgid "We never refuse to provide a shelter to travellers but we are having some troubles. Would you mind helping us to deal with them?"
+msgid "We never refuse to provide a shelter to travelers but we are having some troubles. Would you mind helping us to deal with them?"
 msgstr ""
 
 #. [message]: speaker=Clare
@@ -4699,7 +4700,7 @@ msgstr ""
 #: For_Power/chapter2/scenarios/01_A_Troubled_Forest.cfg:431
 #: For_Power/chapter2/scenarios/13b_The_Underground.cfg:352
 #: For_Power/chapter5/scenarios/07_Cave.cfg:568
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:515
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:501
 msgid "You are welcome."
 msgstr ""
 
@@ -4764,9 +4765,9 @@ msgid "You can rest here. You helped us a lot. We will never forget about it."
 msgstr ""
 
 #. [unit]: type=Elvish Enchantress, id=Amiwen
-#. [unit]: type=Elvish Sylph, id=Amiwen
-#. [unit]: type=Amiwen_Elvish Seer, id=Amiwen
-#. [side]: type=Amiwen_Elvish Seer, id=Amiwen
+#. [unit]: type=Elvish Sylph, id=Amiwen, gender=female
+#. [unit]: type=Amiwen_Elvish Seer, id=Amiwen, gender=female
+#. [side]: type=Amiwen_Elvish Seer, id=Amiwen, gender=female
 #: For_Power/chapter2/scenarios/01_A_Troubled_Forest.cfg:414
 #: For_Power/chapter3/scenarios/01_Unfriendly_Visit.cfg:178
 #: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:257
@@ -4783,7 +4784,7 @@ msgstr ""
 
 #. [message]: speaker=Amiwen
 #: For_Power/chapter2/scenarios/01_A_Troubled_Forest.cfg:435
-msgid "Excellent. I have always wanted to explore the world outside our forest but travelling alone is not jolly at all. Oh, and by the way, my name is Amiwen."
+msgid "Excellent. I have always wanted to explore the world outside our forest but traveling alone is not jolly at all. Oh, and by the way, my name is Amiwen."
 msgstr ""
 
 #. [message]: speaker=Clare
@@ -4793,7 +4794,7 @@ msgstr ""
 
 #. [message]: speaker=Amiwen
 #: For_Power/chapter2/scenarios/01_A_Troubled_Forest.cfg:443
-msgid "Hm, I can sense that you too practise magic, Clare. I can teach you a thing or two if you like?"
+msgid "Hm, I can sense that you too practice magic, Clare. I can teach you a thing or two if you like?"
 msgstr ""
 
 #. [message]: speaker=Clare
@@ -4826,13 +4827,13 @@ msgstr ""
 msgid "This is hopeless. Our dead will never rest in peace."
 msgstr ""
 
-#. [side]: type=Clare_Lich, id=Clare
+#. [side]: type=Clare_Lich, id=Clare, gender=female
 #: For_Power/chapter2/scenarios/02_The_Northern_Alliance.cfg:21
-msgid "Travellers"
+msgid "Travelers"
 msgstr ""
 
 #. [side]: type=Dwarvish Steelclad, id=Augatol
-#. [side]: type=Clare_Lich, id=Clare
+#. [side]: type=Clare_Lich, id=Clare, gender=female
 #. [side]: type=Grand Marshal, id=protector
 #. [side]: type=General, id=Ralenyth
 #: For_Power/chapter2/scenarios/02_The_Northern_Alliance.cfg:40
@@ -4966,7 +4967,7 @@ msgstr ""
 #. [message]: speaker=Augatol
 #. [message]: speaker=Clare
 #: For_Power/chapter2/scenarios/02_The_Northern_Alliance.cfg:223
-#: For_Power/chapter3/scenarios/04_Orcs_Region.cfg:300
+#: For_Power/chapter3/scenarios/04_Orcs_Region.cfg:301
 #: For_Power/chapter3/scenarios/11_On_the_Way_Back.cfg:263
 msgid "Their reinforcements arrived. We are doomed."
 msgstr ""
@@ -5576,7 +5577,7 @@ msgstr ""
 #: For_Power/chapter2/scenarios/05_The_Countess.cfg:596
 #: For_Power/chapter2/scenarios/05_The_Countess.cfg:606
 #: For_Power/chapter2/scenarios/06_Dwarven_Doors.cfg:328
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:196
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:197
 #: For_Power/chapter3/scenarios/07_Lost_Friend.cfg:325
 msgid "A voice in your head"
 msgstr ""
@@ -5786,7 +5787,7 @@ msgstr ""
 
 #. [message]: speaker=Clare
 #: For_Power/chapter2/scenarios/06_Dwarven_Doors.cfg:226
-msgid "Nice to hear it, thank you. You are so kind, it may be the reason why I fell in love with you years ago. Though I did not realise it until now."
+msgid "Nice to hear it, thank you. You are so kind, it may be the reason why I fell in love with you years ago. Though I did not realize it until now."
 msgstr ""
 
 #. [message]: speaker=Lemyr
@@ -5951,12 +5952,12 @@ msgstr ""
 
 #. [message]: type=Swordsman
 #: For_Power/chapter2/scenarios/06_Dwarven_Doors.cfg:534
-msgid "Are you finished with the armour suits?"
+msgid "Are you finished with the armor suits?"
 msgstr ""
 
 #. [message]: type=Swordsman
 #: For_Power/chapter2/scenarios/06_Dwarven_Doors.cfg:542
-msgid "Ok let me see. (examining armour) They are very strong and nice."
+msgid "Ok let me see. (examining armor) They are very strong and nice."
 msgstr ""
 
 #. [message]: type=Dwarvish Runesmith
@@ -6006,7 +6007,7 @@ msgstr ""
 
 #. [message]: type=Swordsman
 #: For_Power/chapter2/scenarios/06_Dwarven_Doors.cfg:582
-msgid "Here you are. We will pick the armour up later. Good bye."
+msgid "Here you are. We will pick the armor up later. Good bye."
 msgstr ""
 
 #. [message]: type=Fencer
@@ -6054,7 +6055,7 @@ msgstr ""
 #. [message]: speaker=messenger
 #. [message]: speaker=assassin
 #: For_Power/chapter2/scenarios/06_Dwarven_Doors.cfg:661
-#: For_Power/chapter3/scenarios/04_Orcs_Region.cfg:265
+#: For_Power/chapter3/scenarios/04_Orcs_Region.cfg:266
 msgid "Yes, sir."
 msgstr ""
 
@@ -6224,7 +6225,7 @@ msgstr ""
 #: For_Power/chapter2/scenarios/09_Return_to_Dwarven_Doors.cfg:151
 #: For_Power/chapter2/scenarios/13b_The_Underground.cfg:180
 #: For_Power/chapter3/scenarios/01_Unfriendly_Visit.cfg:79
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:102
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:103
 msgid "Death of Amiwen, Merissa, Tinry or Lemyr"
 msgstr ""
 
@@ -6534,7 +6535,7 @@ msgstr ""
 
 #. [message]: speaker=Clare
 #: For_Power/chapter2/scenarios/10_Undead_in_front_of_Dwarven_Doors.cfg:300
-msgid "Wow. These undead are much more stronger than the ones what I summoned a few years ago even though I had no opportunity to practise it."
+msgid "Wow. These undead are much more stronger than the ones what I summoned a few years ago even though I had no opportunity to practice it."
 msgstr ""
 
 #. [message]: speaker=second_unit
@@ -6762,7 +6763,7 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: For_Power/chapter2/scenarios/12_Escape_from_Prison.cfg:195
-msgid "Clare was not glad at all that she had to use this horrible art of rising bodies of the dead once again but she was very aware that she could not handle this bad situation with only help of her friends. But she soon realised that she forgot the exact procedure so she had to learn it again from the book. Finally after three weeks, two corpses was rising from the ground inside their cell."
+msgid "Clare was not glad at all that she had to use this horrible art of rising bodies of the dead once again but she was very aware that she could not handle this bad situation with only help of her friends. But she soon realized that she forgot the exact procedure so she had to learn it again from the book. Finally after three weeks, two corpses was rising from the ground inside their cell."
 msgstr ""
 
 #. [message]: speaker=Clare
@@ -7134,7 +7135,7 @@ msgstr ""
 msgid "The Underground"
 msgstr ""
 
-#. [side]: type=Fugitive, id=outlaw
+#. [side]: type=Fugitive, id=outlaw, gender=female
 #. [side]: type=Giant Rat, id=rat
 #. [side]
 #: For_Power/chapter2/scenarios/13b_The_Underground.cfg:65
@@ -7296,7 +7297,7 @@ msgid "We have no hope to leave this place. We will roam this cave forever and a
 msgstr ""
 
 #. [side]: type=Necromancer, id=Mal-Ravanal
-#. [side]: type=Lich, id=Ravanal
+#. [side]: type=Lich, id=Ravanal, gender=male
 #. [side]: type=Necromancer, id=necro
 #. [side]: type=Draug, id=draug
 #. [scenario]: id=09_Mal_Ravanal
@@ -7442,7 +7443,7 @@ msgid ""
 "(Intermediate level, 11 scenarios)"
 msgstr ""
 
-#. [scenario]: id=01_End_of_Peace
+#. [scenario]: id=01_Unfriendly_Visit
 #: For_Power/chapter3/scenarios/01_Unfriendly_Visit.cfg:5
 msgid "Unfriendly Visit"
 msgstr ""
@@ -7549,220 +7550,220 @@ msgid "No, you cannot die!"
 msgstr ""
 
 #. [scenario]: id=02_More_Undead
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:18
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:19
 msgid "More Undead"
 msgstr ""
 
-#. [side]: type=Dark Sorcerer, id=apprentice
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:55
+#. [side]: type=Dark Sorcerer, id=apprentice, gender=male
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:56
 msgid "Maennyn"
 msgstr ""
 
-#. [side]: type=Necromancer, id=necro
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:75
+#. [side]: type=Necromancer, id=necro, gender=female
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:76
 #: For_Power/chapter3/scenarios/12_At_Home.cfg:37
 msgid "Yswniver"
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:144
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:145
 msgid "She arrived just like he said."
 msgstr ""
 
 #. [message]: speaker=necro
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:168
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:169
 msgid "Maybe he was a fool but I don't let you ruin my plans. You will pay!"
 msgstr ""
 
 #. [message]: speaker=Tinry
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:172
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:173
 msgid "This time there are two of them."
 msgstr ""
 
 #. [message]: speaker=necro
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:176
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:177
 msgid "Don't pay attention to him. He is just a pet. He can do nothing in the right way."
 msgstr ""
 
 #. [message]: speaker=apprentice
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:180
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:181
 msgid "Thank you very much for disparaging me, mistress."
 msgstr ""
 
 #. [message]: speaker=necro
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:184
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:185
 msgid "Enough talking. Prepare to fight."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:197
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:198
 msgid "The enemy is too strong. You cannot win. Let your friends slow them and save yourself."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:202
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:203
 msgid "I will never betray them. I will rather die together with them!"
 msgstr ""
 
 #. [message]: speaker=necro
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:216
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:217
 msgid "Ha ha I said it. Even his undead are physically handicapped."
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:346
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:347
 msgid "I am sorry for disappointing you, my love."
 msgstr ""
 
 #. [message]: speaker=necro
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:350
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:351
 msgid "Don't call me your love! You gave me nothing but troubles. I am happy you are finally gone!"
 msgstr ""
 
 #. [message]: speaker=necro
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:431
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:432
 msgid "It seems gods of darkness are with me tonight. Ha ha."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:435
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:436
 msgid "There are too many of them here. We cannot handle them."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:439
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:440
 msgid "Let me fight them. They will fall down before my sword and lance."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:443
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:444
 msgid "No! They will kill you for sure."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:447
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:448
 msgid "Do not worry about me. The Lords of Light watch over me."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:451
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:452
 msgid "Very well. "
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:451
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:452
 msgid "He is a true paladin but this is mad. He has no chance against this undead horde. Alas I cannot stop him."
 msgstr ""
 
 #. [objective]: condition=lose
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:472
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:473
 msgid "Death of Amiwen, Merissa or Tinry"
 msgstr ""
 
 #. [message]: speaker=necro
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:531
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:532
 msgid "I think I am done here."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:557
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:558
 msgid "I will not let you die, my love. Drink this potion and repeat my words."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:561
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:562
 msgid "Clare searched her clothes and after a few seconds she took a potion out. She handed him it and he drank it. She was slowly saying words in a foreign language and he repeated them."
 msgstr ""
 
 #. [message]: speaker=Amiwen
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:607
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:608
 msgid "What have you done to him? Is he an undead now?"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:611
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:612
 msgid "Yes, he is a lich now like me."
 msgstr ""
 
 #. [message]: speaker=Tinry
 #. [message]: speaker=Amiwen
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:615
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:619
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:616
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:620
 msgid "What?!"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:623
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:624
 msgid "I became a lich not so long time after I met Tinry and Merissa. I tried to keep it in secret. But now you all know it."
 msgstr ""
 
 #. [message]: speaker=Tinry
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:627
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:628
 msgid "But I have to ask again. How did you manage you still look like you did the day we met first time? I thought liches' body decays with time."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:631
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:632
 msgid "Usually yes but I used a poison which allows you to achieve it. It is very rare, but a few days ago I found it in one of my advisor's room."
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:635
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:636
 msgid "Can I become a lich too?"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:639
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:640
 msgid "If you really want it, yes. I can even teach you to use magic. And what about you, Tinry?"
 msgstr ""
 
 #. [message]: speaker=Tinry
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:643
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:644
 msgid "I don't want to become a lich but I was always interested in magic. Can you learn me it?"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:647
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:648
 msgid "Yes. No problem."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:651
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:652
 msgid "I do not like being an undead. I was a paladin and had to fight such creatures but now I am one of them."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:655
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:656
 msgid "Would you rather like to be dead? You can fight evil for eternity now. Think about it."
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:712
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:713
 msgid "Haha haha ..."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:716
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:717
 msgid "What the ..."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:720
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:721
 msgid "Strong magic is protecting her from any damage. She has prepared very well for this battle, there is no way to kill her."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:724
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:725
 msgid "Do not lose your faith, dear Clare. With the help of the Lords we shall finish her swiftly."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:728
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:729
 msgid "He is starting to get on my nerves with his strong beliefs. He cannot see that we are alone in this."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/02_More_Undead.cfg:728
+#: For_Power/chapter3/scenarios/02_More_Undead.cfg:729
 msgid "Oh, yes, my love. Thank you."
 msgstr ""
 
@@ -7771,7 +7772,7 @@ msgstr ""
 msgid "Meeting with Ravan"
 msgstr ""
 
-#. [side]: type=Arch Mage, id=Ravan
+#. [side]: type=Arch Mage, id=Ravan, gender=male
 #. [side]
 #: For_Power/chapter3/scenarios/03_Meeting_with_Ravan.cfg:36
 #: For_Power/chapter3/scenarios/03_Meeting_with_Ravan.cfg:40
@@ -7838,9 +7839,9 @@ msgstr ""
 #: For_Power/chapter3/scenarios/04_Orcs_Region.cfg:100
 #: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:90
 #: For_Power/chapter3/scenarios/09_To_Morbivords_Castle.cfg:62
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:332
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:529
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:635
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:333
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:530
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:636
 #: For_Power/chapter3/scenarios/11_On_the_Way_Back.cfg:123
 #: For_Power/chapter3/scenarios/12_At_Home.cfg:60
 #: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:155
@@ -7951,12 +7952,12 @@ msgid "Someone is hiding in this bush."
 msgstr ""
 
 #. [message]
-#: For_Power/chapter3/scenarios/04_Orcs_Region.cfg:261
+#: For_Power/chapter3/scenarios/04_Orcs_Region.cfg:262
 msgid "Ha ha. It is our assassin. Go to their leader and kill her!"
 msgstr ""
 
 #. [message]: speaker=assassin
-#: For_Power/chapter3/scenarios/04_Orcs_Region.cfg:290
+#: For_Power/chapter3/scenarios/04_Orcs_Region.cfg:291
 msgid "Prepare to die, little girl!"
 msgstr ""
 
@@ -7996,117 +7997,117 @@ msgid "Let us check it out."
 msgstr ""
 
 #. [message]: speaker=Tinry
-#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:153
+#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:155
 msgid "Trolls!"
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:157
+#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:159
 msgid "Don't be like a kid. There aren't so many of them here. And we are nimble even in caves."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:161
+#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:163
 msgid "Maybe you two are nimble but what about me? My horse is not used to move in caves."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:165
+#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:167
 msgid "Move behind us and try to heal our wounds. You can help us this way very much too and you can become better with it."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:169
+#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:171
 msgid "Very well. Let us go."
 msgstr ""
 
 #. [message]: speaker=troll
-#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:183
+#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:185
 msgid "What is this? ... Ha! Intruder! Kill them all!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:194
+#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:196
 msgid "Bad humans! They must kill poor trolls!"
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:198
+#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:200
 msgid "Maybe we do not have to kill them. Decide what will we do with them, Clare."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:202
+#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:204
 msgid "I think that we should ... "
 msgstr ""
 
 #. [option]
-#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:204
+#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:206
 msgid "spare them."
 msgstr ""
 
 #. [option]
-#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:212
+#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:214
 msgid "kill them all!"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:226
+#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:228
 msgid "I mean that they are not so bad. They just protect their territory."
 msgstr ""
 
 #. [message]: speaker=troll
-#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:231
+#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:233
 msgid "Thank you, humans. You aren't like the other ones."
 msgstr ""
 
 #. [message]: speaker=whelp
-#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:247
+#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:250
 msgid "I would like to see the world outside this cave. Can I go with them?"
 msgstr ""
 
 #. [message]: speaker=troll
-#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:251
+#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:254
 msgid "If they agree of course."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:255
+#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:258
 msgid "Err, yes."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:276
+#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:279
 msgid "I mean that he wanted to kill us all. We will show them no mercy as well."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:292
+#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:295
 msgid "It seems that they had a treasure here. Let us take it."
 msgstr ""
 
 #. [message]: speaker=Amiwen
-#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:309
+#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:312
 msgid "Can we leave this place quickly? I do not like caves."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:313
+#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:316
 msgid "Yes, of course."
 msgstr ""
 
 #. [message]: speaker=Amiwen
-#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:328
+#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:331
 msgid "I was afraid that we will never leave this cave."
 msgstr ""
 
 #. [message]: speaker=Ravan
-#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:332
+#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:335
 msgid "Do you not like caves or what?"
 msgstr ""
 
 #. [message]: speaker=Amiwen
-#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:336
+#: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:339
 msgid "No, they are very dark and close. It may be good for you, but I prefer bright and wide forests. Anyhow we are doomed."
 msgstr ""
 
@@ -8115,7 +8116,7 @@ msgstr ""
 msgid "Audience with Morbivord"
 msgstr ""
 
-#. [side]: type=General, id=Morbivord
+#. [side]: type=General, id=Morbivord, gender=male
 #. [modify_side]
 #. [side]
 #. [side]: type=General, id=enemy
@@ -8128,7 +8129,7 @@ msgstr ""
 msgid "Morbivord"
 msgstr ""
 
-#. [unit]: type=Arch Mage, id=Heldra
+#. [unit]: type=Arch Mage, gender=female, id=Heldra
 #: For_Power/chapter3/scenarios/06_Audience_with_Morbivord.cfg:84
 msgid "Heldra"
 msgstr ""
@@ -8198,7 +8199,7 @@ msgstr ""
 msgid "This is hopeless. We will never escape and they will kill us both."
 msgstr ""
 
-#. [scenario]: id=07_Back_in_Underground
+#. [scenario]: id=07_Lost_Friend
 #: For_Power/chapter3/scenarios/07_Lost_Friend.cfg:29
 msgid "Lost F(r)iend"
 msgstr ""
@@ -8285,22 +8286,22 @@ msgid "You can try it, maiden. Ha ha."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/07_Lost_Friend.cfg:500
+#: For_Power/chapter3/scenarios/07_Lost_Friend.cfg:501
 msgid "Yes! I finally found the surface. I started to hate this place maybe even the whole underground."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/07_Lost_Friend.cfg:522
+#: For_Power/chapter3/scenarios/07_Lost_Friend.cfg:523
 msgid "Damned Ravan. Where can he be?"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/07_Lost_Friend.cfg:527
+#: For_Power/chapter3/scenarios/07_Lost_Friend.cfg:528
 msgid "No! This cave is collapsing!"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/07_Lost_Friend.cfg:541
+#: For_Power/chapter3/scenarios/07_Lost_Friend.cfg:542
 msgid "I can see more undead coming from the surface. I am doomed."
 msgstr ""
 
@@ -8603,7 +8604,7 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: For_Power/chapter3/scenarios/09_To_Morbivords_Castle.cfg:66
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:336
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:337
 msgid "Death of Amiwen, Tinry or Lethalia"
 msgstr ""
 
@@ -8664,7 +8665,7 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: For_Power/chapter3/scenarios/09_To_Morbivords_Castle.cfg:192
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:552
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:553
 #: For_Power/chapter3/utils/deaths.cfg:93
 msgid "No. This is impossible!"
 msgstr ""
@@ -8675,226 +8676,226 @@ msgid "Final Confrontation"
 msgstr ""
 
 #. [objective]: condition=win
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:328
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:329
 msgid "Find Morbivord"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:351
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:352
 msgid "We are finally here. Let us find them and send them to the land of dead as fast as we can."
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:364
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:365
 msgid "This castle is so large."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:368
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:369
 msgid "No. It is just an illusion. They want us to be frustrated. We must keep going."
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:380
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:381
 #: For_Power/chapter6/utils/gold.cfg:36
 msgid "I have found some gold."
 msgstr ""
 
 #. [message]: speaker=Lethalia
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:398
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:399
 msgid "Halt. I think that we should not go any further. It is necessary that Ravan survives, and if he chooses to attack me, I might not have a choice but to kill him."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:402
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:403
 msgid "Why should Ravan survive?"
 msgstr ""
 
 #. [message]: speaker=Lethalia
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:406
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:407
 msgid "Because you cannot see the whole picture. He has the potential to drown the Empire into misrule, and that cannot be ignored. We have laid enough destruction around here to scare him and his pathetic little servant Morbivord into their holes, never to threaten this land again."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:410
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:411
 msgid "Why do you want Wesnothian kingdom to fell? In the chaos that would have followed, millions of lives would be snuffed out."
 msgstr ""
 
 #. [message]: speaker=Lethalia
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:414
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:415
 msgid "Millions of lives, yes. But there are worse possibilities. Its prolonged glory is causing their mages to become overly wise, learning things nobody should learn. Magical academies must be interrupted in their studies from time to time, or they will unintentionally cause more evil than a global war."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:418
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:419
 msgid "So you think that what you know is not anyone else allowed to learn? Do you want keep you in the position of the most powerful this way?"
 msgstr ""
 
 #. [message]: speaker=Lethalia
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:422
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:423
 msgid "No. I love the power I have, but it also brings responsibility. I have already done great failures, failures whose scale you cannot even comprehend. And one of its results is a doomsday prophecy. The Empire will cherish, growing into unimaginable heights, but at one point, they will learn how to change the world forever. Imagine what will be the first thing they will choose to do."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:426
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:427
 msgid "Will they destroy all evil? Will they become immortal?"
 msgstr ""
 
 #. [message]: speaker=Lethalia
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:430
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:431
 msgid "Immortality without using necromancy can be obtained only by demonology, that is an evil of a whole new level. But these mages are experimenting with it already. But they are aware of its dangers, so we can hope that they will be as cautious as they want to be. But they will attempt to destroy all evil. By making this world unsuitable for evil creatures, who are, almost globally, nocturnal. They will try to banish the night. By creating a new sun, or even more of them."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:434
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:435
 msgid "And this is bad?"
 msgstr ""
 
 #. [message]: speaker=Lethalia
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:438
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:439
 msgid "Yes. It has its odd sites. The world will become too hot to live in. Rivers will dry out and the whole land will turn into a desert. The evil will have a hard time, but also the good will have problems. There are animals to hunt in deserts, but crops will not grow there. An advantage to orcs. Countless men will die, and that will be an advantage for undead. Magic colleges will disintegrate, and random people will learn their secrets, accidentally summoning demons."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:442
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:443
 msgid "They would not do such a fooling thing."
 msgstr ""
 
 #. [message]: speaker=Lethalia
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:446
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:447
 msgid "Wizards understand the ways of magic, but not the ways of nature. Intense heat will wither the land, but they think it would make it possible to harvest twice per year. Sunlight makes you feel warm and good, but it can burn your skin."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:450
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:451
 msgid "Nice story, master bard. But it is too incredible."
 msgstr ""
 
 #. [message]: speaker=Lethalia
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:454
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:455
 msgid "Wizards would also fail to believe the full consequence of the creation of another sun. The creation of the second sun is foretold by a prophecy, it will happen, sooner or later. And I want it to become as late as possible. Because there are worse prophecies about things to come after that. Propagation of demonology. Worshipping demons. And then there is Götterdämmerung, the final event, when the demons will roam the land freely, flames and smoke will block the sun, bringing an endless winter, interrupted only by frequent volcanic activity."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:458
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:459
 msgid "You are trying to intimidate us. It is quite clear to me that either cooperate with Ravan, or he is just a pawn in your plan to destroy all civilization."
 msgstr ""
 
 #. [message]: speaker=Lethalia
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:462
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:463
 msgid "It has to be destroyed! It is growing way too strong!"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:466
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:467
 msgid "It is only based on lies, which you told previously."
 msgstr ""
 
 #. [message]: speaker=Lethalia
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:470
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:471
 msgid "Listen. I know that you are preserved liches. I am one of the two original ones. I have not taught it to anybody, but some of our soldiers must have learned from us too much. And passed the knowledge to you. But still, there is only a few beings of our kin. We must stick together. I was similar to you, Clare, and I was forced into lichdom by bad conditions of the world as well. I had no choice. I figured out a way to become a preserved lich with my friend, when we were trying to avoid the negative sides of being a lich. As the centuries passed, I have grown very wise, and aware of the dangers that lie ahead."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:474
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:475
 msgid "Over the centuries your power have just corrupted you. You have prepared treats that compel people to follow you. But we will not be tricked. We know how crowd manipulation works."
 msgstr ""
 
 #. [message]: speaker=Lethalia
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:478
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:479
 msgid "If you choose to fight me, you will not leave me a choice. I do not want to kill you because you are like me, but you might force me to do it. And, by the way, I was aware of the possibility that you would not believe the person who saved you from a load of superstitious elves, so I chose this place to start talking about it. Excellent place to fight a strong adversary, right?"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:482
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:483
 msgid "You will not intimidate us. We have superiority in numbers, for example. Two of us are able to cope with you."
 msgstr ""
 
 #. [message]: speaker=Lethalia
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:486
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:487
 msgid "I am offering you a truce. I will stop this undead threat by diplomacy and intimidation, and walk my own way, and you would leave. I do not want to fight you."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:490
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:491
 msgid "I cannot imagine that such evil walks this world for centuries, and no one stopped her yet. We will make legendary acts ... Prepare for death monster."
 msgstr ""
 
 #. [message]: speaker=Lethalia
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:494
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:495
 msgid "You are not giving me a choice. I am serious now. Go away, or you will suffer the consequences."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:498
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:499
 msgid "This can scare small children, but not us. On her!"
 msgstr ""
 
 #. [objective]: condition=win
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:525
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:526
 msgid "Destroy Lethalia"
 msgstr ""
 
 #. [objective]: condition=lose
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:533
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:639
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:534
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:640
 #: For_Power/chapter3/scenarios/11_On_the_Way_Back.cfg:127
 #: For_Power/chapter3/scenarios/12_At_Home.cfg:64
 msgid "Death of Amiwen or Tinry"
 msgstr ""
 
 #. [message]: speaker=Lethalia
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:607
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:608
 msgid "I am surprised... You are stronger than I thought. But I was prepared for this possibility as well. Goodbye. (teleporting away)"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:619
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:620
 msgid "I can feel that Morbivord and his wife are very close. On them."
 msgstr ""
 
 #. [objective]: condition=win
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:631
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:632
 msgid "Find and kill Morbivord and his wife"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:730
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:733
 msgid "You are the next, witch."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:755
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:758
 msgid "You are the next, earl."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:772
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:775
 msgid "It is done. But where is Ravan?"
 msgstr ""
 
 #. [message]: speaker=Amiwen
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:776
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:779
 msgid "I saw that Lethalia took him away with her."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:780
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:783
 msgid "I worry that he will cause troubles again but we can do nothing with it at this moment. Let us go back home."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:794
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:797
 msgid "Their spell works perfectly. We will never find them."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:808
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:811
 msgid "She is too strong. We will never kill her."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:822
+#: For_Power/chapter3/scenarios/10_Final_Confrontation.cfg:825
 msgid "They are too strong. We will never defeat them."
 msgstr ""
 
@@ -9055,7 +9056,7 @@ msgstr ""
 
 #. [part]
 #: For_Power/chapter3/scenarios/Epilogue.cfg:45
-msgid "Many years after these events while she was travelling the Northlands, she has found an orphan child. Around her lied many a dead corpse of both humans and orcs. Clare decided to take her from the place suffused with blood to her castle and raise her there with help of her friends. She named the child Jolla, after her friend from the Academy. Later, she realised that the child was special. For example, she wielded some magic powers."
+msgid "Many years after these events while she was traveling the Northlands, she has found an orphan child. Around her lied many a dead corpse of both humans and orcs. Clare decided to take her from the place suffused with blood to her castle and raise her there with help of her friends. She named the child Jolla, after her friend from the Academy. Later, she realized that the child was special. For example, she wielded some magic powers."
 msgstr ""
 
 #. [part]
@@ -9188,7 +9189,7 @@ msgstr ""
 msgid "Searching Adventures"
 msgstr ""
 
-#. [side]: type=Clare_Lich, id=Clare
+#. [side]: type=Clare_Lich, id=Clare, gender=female
 #: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:20
 #: For_Power/chapter4/scenarios/02_Bandits.cfg:22
 #: For_Power/chapter4/scenarios/03_Swamp_of_Death.cfg:22
@@ -9213,9 +9214,9 @@ msgstr ""
 msgid "Death of Jolla"
 msgstr ""
 
-#. [unit]: type=Blessed Mage, id=Jolla
-#. [unit]: type=Blessed Silver Mage, id=Jolla
-#. [side]: type=Jolla_Crusader, id=olderJolla
+#. [unit]: type=Blessed Mage, gender=female, id=Jolla
+#. [unit]: type=Blessed Silver Mage, gender=female, id=Jolla
+#. [side]: type=Jolla_Crusader, id=olderJolla, gender=female
 #: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:315
 #: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:283
 #: For_Power/chapter5/scenarios/05_An_Old_Friend.cfg:49
@@ -9368,11 +9369,11 @@ msgid "I will send one of my soldiers with you. He will guide you."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:571
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:573
 msgid "Well, it seems that nobody needs our help. I think that we can return to our castle and die from boredom there."
 msgstr ""
 
-#. [side]: type=Highwayman, id=bandit1
+#. [side]: type=Highwayman, id=bandit1, gender=male
 #. [side]: type=Highwayman, id=Morcyn
 #: For_Power/chapter4/scenarios/02_Bandits.cfg:47
 #: For_Power/chapter6/scenarios/03_Bandits_in_Troubles.cfg:46
@@ -9758,7 +9759,7 @@ msgstr ""
 msgid "City"
 msgstr ""
 
-#. [unit]: type=Great Mage, id=Vyrcyn
+#. [unit]: type=Great Mage, id=Vyrcyn, gender=male
 #: For_Power/chapter4/scenarios/05_Back_in_the_City.cfg:70
 msgid "Vyrcyn"
 msgstr ""
@@ -9883,8 +9884,8 @@ msgstr ""
 msgid "The Saurians"
 msgstr ""
 
-#. [side]: type=Saurian Flanker, id=frog1
-#. [side]: type=Saurian Flanker, id=frog2
+#. [side]: type=Saurian Flanker, id=frog1, gender=male
+#. [side]: type=Saurian Flanker, id=frog2, gender=male
 #. [modify_side]
 #: For_Power/chapter4/scenarios/06_The_Saurians.cfg:45
 #: For_Power/chapter4/scenarios/06_The_Saurians.cfg:64
@@ -10054,17 +10055,17 @@ msgstr ""
 msgid "Eastern Lands"
 msgstr ""
 
-#. [side]: type=Clare_Lich, id=Clare
+#. [side]: type=Clare_Lich, id=Clare, gender=female
 #: For_Power/chapter4/scenarios/07_Eastern_Lands.cfg:22
 #: For_Power/chapter4/scenarios/10_Escape_from_Eastern_Lands.cfg:21
 msgid "Foreigners"
 msgstr ""
 
-#. [side]: type=Silver Mage, id=wizard
-#. [side]: type=General, id=general
-#. [side]: type=Master at Arms, id=enemy1
+#. [side]: type=Silver Mage, id=wizard, gender=male
+#. [side]: type=General, id=general, gender=male
+#. [side]: type=Master at Arms, id=enemy1, gender=male
 #. [side]: type=Silver Mage, id=enemy2
-#. [side]: type=General, id=enemy3
+#. [side]: type=General, id=enemy3, gender=male
 #: For_Power/chapter4/scenarios/07_Eastern_Lands.cfg:39
 #: For_Power/chapter4/scenarios/07_Eastern_Lands.cfg:63
 #: For_Power/chapter4/scenarios/10_Escape_from_Eastern_Lands.cfg:39
@@ -10073,12 +10074,12 @@ msgstr ""
 msgid "Natives"
 msgstr ""
 
-#. [side]: type=Silver Mage, id=wizard
+#. [side]: type=Silver Mage, id=wizard, gender=male
 #: For_Power/chapter4/scenarios/07_Eastern_Lands.cfg:43
 msgid "Cyryn"
 msgstr ""
 
-#. [side]: type=General, id=general
+#. [side]: type=General, id=general, gender=male
 #: For_Power/chapter4/scenarios/07_Eastern_Lands.cfg:67
 msgid "Rheorraent"
 msgstr ""
@@ -10423,7 +10424,7 @@ msgstr ""
 msgid "Treasure Hunters"
 msgstr ""
 
-#. [side]: type=Highwayman, id=bandit
+#. [side]: type=Highwayman, id=bandit, gender=male
 #: For_Power/chapter4/scenarios/11_Treasure_Hunters.cfg:48
 msgid "Mugwyn"
 msgstr ""
@@ -10897,7 +10898,7 @@ msgstr ""
 
 #. [message]: speaker=Amiwen
 #: For_Power/chapter4/scenarios/13_New_Home.cfg:284
-msgid "Do not worry. I am not about to die. But I walk this world for more than half of the time what was granted me to live. I reached a level of power what only a few of my kind ever did. I learnt and saw a lot of things, I had a lot of fun with you all. I want these times to continue no matter where we live. Well, not all our moments were happy but I do not mind it."
+msgid "Do not worry. I am not about to die. But I walk this world for more than half of the time what was granted me to live. I reached a level of power what only a few of my kind ever did. I learned and saw a lot of things, I had a lot of fun with you all. I want these times to continue no matter where we live. Well, not all our moments were happy but I do not mind it."
 msgstr ""
 
 #. [message]: speaker=Clare
@@ -11050,8 +11051,8 @@ msgstr ""
 
 #. [advancement]: id=block
 #: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:214
-#: For_Power/units/heroes/Merissa_Lich.cfg:250
-#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:231
+#: For_Power/units/heroes/Merissa_Lich.cfg:248
+#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:229
 msgid "better at fencing"
 msgstr ""
 
@@ -11361,11 +11362,11 @@ msgstr ""
 msgid "Besieged"
 msgstr ""
 
-#. [side]: type=Clare_Lich, id=Clare
-#. [side]: type=General, id=mayor
-#. [side]: type=Jolla_Crusader, id=olderJolla
+#. [side]: type=Clare_Lich, id=Clare, gender=female
+#. [side]: type=General, id=mayor, gender=male
+#. [side]: type=Jolla_Crusader, id=olderJolla, gender=female
 #. [side]
-#. [side]: id=Clare, type=Clare_Lich
+#. [side]: id=Clare, type=Clare_Lich, gender=female
 #. [variation]: id=Blessed Silver Mage
 #: For_Power/chapter5/scenarios/03_Besieged.cfg:23
 #: For_Power/chapter5/scenarios/03_Besieged.cfg:85
@@ -11380,11 +11381,11 @@ msgstr ""
 #: For_Power/chapter5/scenarios/09_Cleaning_Home.cfg:39
 #: For_Power/chapter5/scenarios/Epilogue.cfg:16
 #: For_Power/multiplayer/Seeking_Evil.cfg:266
-#: For_Power/units/heroes/Blessed_Mage.cfg:1026
+#: For_Power/units/heroes/Blessed_Mage.cfg:1029
 msgid "Good"
 msgstr ""
 
-#. [side]: type=General, id=mayor
+#. [side]: type=General, id=mayor, gender=male
 #: For_Power/chapter5/scenarios/03_Besieged.cfg:89
 msgid "Leogwyn"
 msgstr ""
@@ -11411,7 +11412,7 @@ msgstr ""
 
 #. [message]: speaker=Lemyr
 #: For_Power/chapter5/scenarios/03_Besieged.cfg:175
-msgid "Yes but I can see another horde of undead."
+msgid "We did, indeed but I can see another horde of undead."
 msgstr ""
 
 #. [message]: speaker=Amiwen
@@ -11446,7 +11447,7 @@ msgstr ""
 
 #. [message]: speaker=Clare
 #: For_Power/chapter5/scenarios/03_Besieged.cfg:221
-msgid "And where can we get an army?"
+msgid "Yes, it might be possible with an army but where can we get one? You said yourself that they destroyed all nearby cities."
 msgstr ""
 
 #. [message]: speaker=mayor
@@ -11461,12 +11462,12 @@ msgstr ""
 
 #. [message]: speaker=mayor
 #: For_Power/chapter5/scenarios/03_Besieged.cfg:233
-msgid "Very well. Enter our city to discuss our strategy against these fiends. I will give you command of my soldiers as well."
+msgid "Excellent. Enter our city to discuss our strategy against these fiends. I will give you command of my soldiers as well."
 msgstr ""
 
 #. [message]: speaker=mayor
 #: For_Power/chapter5/scenarios/03_Besieged.cfg:250
-msgid "Are you their leader? Very well. I am Leogwyn, the mayor of our city and also leader of our militia. What's your name?"
+msgid "Are you their leader? Hmm ... very well. I am Leogwyn, the mayor of our city and also leader of our militia. What's your name?"
 msgstr ""
 
 #. [message]: speaker=unit
@@ -11496,7 +11497,7 @@ msgstr ""
 
 #. [message]: speaker=mayor
 #: For_Power/chapter5/scenarios/03_Besieged.cfg:274
-msgid "I really wonder who are you. Well, it's not my business. Anyhow, as I promised, take control of my soldiers. And feel free to take our villages. We have enough resources of income."
+msgid "I really wonder who are you. Oh, well, it's not my business. Anyhow, as I promised, take control of my soldiers. And feel free to take our villages. We have enough resources of income."
 msgstr ""
 
 #. [message]: speaker=mayor
@@ -11511,7 +11512,7 @@ msgstr ""
 
 #. [message]: speaker=mayor
 #: For_Power/chapter5/scenarios/03_Besieged.cfg:313
-msgid "What the hell was it?! Why is darkness everywhere around us?"
+msgid "What in the blazing Inferno was that?! Why is darkness everywhere around us?"
 msgstr ""
 
 #. [message]: speaker=cleric
@@ -11577,7 +11578,7 @@ msgstr ""
 #. [message]: speaker=mayor
 #: For_Power/chapter5/scenarios/03_Besieged.cfg:468
 #: For_Power/chapter5/scenarios/03_Besieged.cfg:530
-msgid "I send some of my soldiers with you. You will need them."
+msgid "I'll send some of my soldiers with you, you will need them."
 msgstr ""
 
 #. [message]: speaker=mayor
@@ -11595,8 +11596,13 @@ msgstr ""
 msgid "Yes, thank you very much."
 msgstr ""
 
+#. [message]: speaker=cleric
+#: For_Power/chapter5/scenarios/03_Besieged.cfg:540
+msgid "May the lords of light guide you on your mission."
+msgstr ""
+
 #. [message]: speaker=Clare
-#: For_Power/chapter5/scenarios/03_Besieged.cfg:572
+#: For_Power/chapter5/scenarios/03_Besieged.cfg:576
 msgid "No! The undead entered the city. They will raze it in no time. All is lost."
 msgstr ""
 
@@ -11609,8 +11615,9 @@ msgstr ""
 #. [side]: type=Necromancer, id=necro
 #. [side]: type=Lich, id=Ganesha
 #. [side]: type=Fire Dragon, id=dragon
-#. [side]: type=Dark Lord human weaker, id=Shyama
+#. [side]: type=Dark Lord human weaker, id=Shyama, gender=female
 #. [side]: type=Dark Lord human weaker, id=dark_lord
+#. [side]: type=Necromancer, id=necro, gender=female
 #. [side]: type=Dwarvish Lord, id=dwarf
 #. [side]: type=Elvish Hero, id=elf
 #: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:44
@@ -11916,7 +11923,7 @@ msgstr ""
 
 #. [message]: speaker=Clare
 #: For_Power/chapter5/scenarios/05_An_Old_Friend.cfg:311
-msgid "I named her Jolla in your honour. We found her in an orcish realm after we killed them all. We all raised her to be a good person. And she is somehow connected to the lords of light like you."
+msgid "I named her Jolla in your honor. We found her in an orcish realm after we killed them all. We all raised her to be a good person. And she is somehow connected to the lords of light like you."
 msgstr ""
 
 #. [message]: speaker=olderJolla
@@ -12139,7 +12146,7 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: For_Power/chapter5/scenarios/07_Cave.cfg:809
-msgid "This cave is ancient and lot of beings dwelt here over time. They left here some artefacts what can improve their wearer's properties and/or learn him some new things. All your units but the heroes can use them."
+msgid "This cave is ancient and lot of beings dwelt here over time. They left here some artefacts that can improve their wearer's properties and/or learn him some new things. All your units but the heroes can use them."
 msgstr ""
 
 #. [message]: speaker=narrator
@@ -12161,17 +12168,17 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: For_Power/chapter5/scenarios/07_Cave.cfg:857
-msgid "Gold has no use in this scenario (for you). But you can still recall your veterans and recruit some new units. To do it move Clare or older Jolla to a keep and right-click her and choose Recruit unit or Recall unit. There are some restriction - you can recruit/recall only 5 units per turn and recruit only 15 units in the whole scenario. And keep in mind that each leader has different recruit list."
+msgid "Gold is of no use for you in this scenario. But you can still recall your veterans and recruit some new units. To do it move Clare or older Jolla to a keep and right-click her and choose Recruit unit or Recall unit. There are some restriction - you can recruit/recall only 5 units per turn and recruit only 15 units in the whole scenario. And keep in mind that each leader has different recruit list."
 msgstr ""
 
 #. [message]: speaker=narrator
 #: For_Power/chapter5/scenarios/07_Cave.cfg:870
-msgid "In this cave you can find a few useful items for your soldiers (not for heroes). They improve the wearer's properties and/or give him new abilities."
+msgid "In this cave you can find a few useful items for your soldiers (not for heroes). They improve the wearer's properties and/or give them new abilities."
 msgstr ""
 
 #. [message]: speaker=narrator
 #: For_Power/chapter5/scenarios/07_Cave.cfg:883
-msgid "In this scenario older Jolla can heal your soldiers (but not herself and other heroes). Just right-click on the unit what needs healing and select Heal this unit. Alas you can use this option only 20 times."
+msgid "In this scenario older Jolla can heal your soldiers (but not herself and other heroes). Just right-click on the unit what needs healing and select Heal this unit. You can use this option only 20 times."
 msgstr ""
 
 #. [message]: speaker=olderJolla
@@ -12181,7 +12188,7 @@ msgstr ""
 
 #. [message]: speaker=Ganesha
 #: For_Power/chapter5/scenarios/07_Cave.cfg:1091
-msgid "Yes, you found me but it makes no sense. You all will go to the land of dead soon."
+msgid "Yes, you found me but it makes no difference. You all will go to the land of dead soon."
 msgstr ""
 
 #. [message]: speaker=olderJolla
@@ -12362,7 +12369,7 @@ msgstr ""
 
 #. [message]: speaker=Ganesha
 #: For_Power/chapter5/scenarios/07_Cave.cfg:1417
-msgid "As I said you can't defeat me. I wield really great powers what no one can match. You could spend this time for something more useful like I don't know maybe ..."
+msgid "As I said you can't defeat me. I wield really great powers that no one can match. You could spend this time for something more useful like I don't know maybe ..."
 msgstr ""
 
 #. [message]: speaker=olderJolla
@@ -12375,7 +12382,7 @@ msgstr ""
 msgid "Avenger"
 msgstr ""
 
-#. [side]: type=Dark Lord human weaker, id=Shyama
+#. [side]: type=Dark Lord human weaker, id=Shyama, gender=female
 #: For_Power/chapter5/scenarios/08_Avenger.cfg:88
 msgid "Shyama"
 msgstr ""
@@ -12391,337 +12398,337 @@ msgid "Death of Jolla, Amiwen or Bhaskara"
 msgstr ""
 
 #. [message]: speaker=Jolla
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:181
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:167
 msgid "We are nearly at home. Oh, I am so tired from all of this fighting. I cannot wait to go to bed and rest for a while."
 msgstr ""
 
 #. [message]: speaker=Amiwen
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:185
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:171
 msgid "I worry that you have to fight for a bit longer. Someone is blocking our way."
 msgstr ""
 
 #. [message]: speaker=Jolla
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:195
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:181
 msgid "A mere necromancer cannot postpone my rest for a long time."
 msgstr ""
 
 #. [message]: speaker=$puritan
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:214
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:200
 msgid "She is not a mere necromancer by any means. I am not sure what she is but she wields really great powers. It will not be easy to defeat her."
 msgstr ""
 
 #. [message]: speaker=Shyama
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:218
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:204
 msgid "You're right, I'm very powerful. I can kill two of your 'great' mages without problem. And not only this. Every damned evildoer around will help me with my vengeance on you."
 msgstr ""
 
 #. [message]: speaker=$puritan
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:222
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:208
 msgid "I have not the slightest idea what we have done you but we will send you to the land of dead with your minions quickly."
 msgstr ""
 
 #. [message]: speaker=Shyama
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:226
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:212
 msgid "Hahaha, I haven't heard anything so funny and nonsense for a long time. Do you know who I am?"
 msgstr ""
 
 #. [message]: speaker=$puritan
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:230
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:216
 msgid "No but I do not really care."
 msgstr ""
 
 #. [message]: speaker=Shyama
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:234
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:220
 msgid "My name is Shyama. I belong to a group of dark mages with unmatched powers. We're the dark lords. We seek to rule all Irdya ... well, we will one day, we're just waiting for the right time to show up. Until then ... we just relish watching our minions to cause havoc on the Great Continent and slaughter mere mortals."
 msgstr ""
 
 #. [message]: speaker=$puritan
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:238
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:224
 msgid "That sounds very horrible. I and my friends will do anything to put an end to your evil. Well, you were aware that we would do it if we knew about your aims so you wanted to send us to the land of dead. It is clear to me but I do not understand why right now and why are you speaking about your revenge."
 msgstr ""
 
 #. [message]: speaker=Shyama
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:242
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:228
 msgid "Don't get me wrong. We don't want to get rid of your friend Clare. She'll have an important role in the ongoing events so we wish to ... keep her in this world. Well, I meant the others want this, not me. They must forgive me but I can't let you walk this world anymore after you destroyed my dear Ganesha. I know you understand me, you would did it too if someone harmed you friend Lemyr. I must do it but I'll enjoy it too."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:246
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:232
 msgid "I ... you are a fool when you are challenging me. You have no chance at all. But enough talking. Slay her with all her minions!"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:311
-msgid "Who goes there? ... Jolla? Is it you? Thanks to gods!"
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:297
+msgid "Who goes there? ... Jolla? Is it you? Thanks to the lords of light!"
 msgstr ""
 
 #. [message]: speaker=olderJolla
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:315
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:301
 msgid "Yes, it is me, Clare. But can you tell me what is going on here? I thought that you all are already back at your place."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:319
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:305
 msgid "Well, we were heading there but that woman crossed our way. She wants to make us pay for that we have destroyed that lich Ganesha who was closed to her heart. Anyway, she is just one among many. Her group craves to do horrible things, we have to stop them ... well, just her for now as the others are not going to show up themselves. But she is very powerful and it seems that she commands endless legions of undead and I am not sure if we could be able to defeat her without your help. Well, if you want to do so ..."
 msgstr ""
 
 #. [message]: speaker=olderJolla
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:323
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:309
 msgid "Of course that I am going to help you, my friend. I have no reason to refuse to aid you as she is my enemy as well according to what you have just said to me."
 msgstr ""
 
 #. [message]: speaker=Shyama
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:327
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:313
 msgid "Who is that? Another do-gooder wishing to kill me? It doesn't matter anyway, I'll do deal with all of you quickly."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:371
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:357
 msgid "Look! It seems that her legions are endless. I am not sure if we can defeat her."
 msgstr ""
 
 #. [message]: speaker=olderJolla
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:375
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:361
 msgid "Trust the lords of light, my friend. They are with us. The good always prevails at the end."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:381
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:367
 msgid "Oh no! She has too many soldiers and Jolla with her friends is still not returning. I am not sure if we can defeat her."
 msgstr ""
 
-#. [unit]: type=Prophet, id=Bhaskara
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:390
+#. [unit]: type=Prophet, id=Bhaskara, gender=male
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:376
 msgid "Bhaskara"
 msgstr ""
 
 #. [message]: speaker=Bhaskara
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:404
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:390
 msgid "We have finally found you, fiend! It took us several years but now we can finally send you to the fiery wastelands of Urvatha and fulfil the God's will. Men, slay her!"
 msgstr ""
 
 #. [message]: speaker=Shyama
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:408
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:394
 msgid "I was awaiting you, Bhaskara. They told me about your endeavor but you have no chance against me at all. You'll soon join these fools in the land of dead."
 msgstr ""
 
 #. [message]: speaker=Bhaskara
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:412
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:398
 msgid "Who are you talking about? Oh my God ... three liches and they are fighting on the side of good. It is really weird."
 msgstr ""
 
 #. [message]: speaker=olderJolla
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:421
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:407
 msgid "You may trust them, brother. Yes, I was suprised by it as well but their hearts are still pure. "
 msgstr ""
 
 #. [message]: speaker=olderJolla
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:421
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:407
 msgid "At least, the darkness did not absorb them completly."
 msgstr ""
 
 #. [message]: speaker=Bhaskara
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:425
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:411
 msgid "I am not so sure about it but I think that you may be trusted, sister. So we accept your help against her but I will not let you lead my men. And when we are done with her we will leave once and for all."
 msgstr ""
 
 #. [message]: speaker=Jolla
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:431
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:417
 msgid "I am aware what they are but they raised me. They did many good deeds even before I was born and they still do. You may trust them."
 msgstr ""
 
 #. [message]: speaker=Bhaskara
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:435
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:421
 msgid "I know nothing about their deeds but I can see pureness in your heart, young one. So we accept your help against her but I will not let you lead my men. And when we are done with her we will leave once and for all."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:441
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:427
 msgid "It was not nice but I understand you. I do not either like what we are but there was no other way. And we still fight the evil. But enough talking, on her!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:458
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:444
 msgid "How is this possible?! ... Well, at least we'll be together, Ganesha. But you, Clare, ... I know everything about you ... your life story has been already written and you can't change it. You'll join us in the end ..."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:462
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:448
 msgid "What do you mean with it? ..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:466
-msgid "The necromancer was about to say something but her lips refused to work any longer, she was dying. Her hair became as black as the death itself, as well as her face. But she had smile on her face because she was to reunite with someone who was close to her. She did not realise at all that her body was falling to the cold ground. In her mind, she was already with her friend. After a few seconds, she has breathed her last."
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:452
+msgid "The necromancer was about to say something but her lips refused to work any longer, she was dying. Her hair became as black as the death itself, just like as her face. But she had smile on her face because she was to reunite with someone who was close to her. She did not realize at all that her body was falling to the cold ground. In her mind, she was already with her friend. After a few seconds, she has breathed her last."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:475
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:461
 msgid "Speak! Speak! I want to know it!"
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:479
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:465
 msgid "Clare, she cannot say anything anymore. Her soul has left this world for good."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:483
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:469
 msgid "It is no complication for me at all. I am able to drag her back to our world to hear what I long to know."
 msgstr ""
 
 #. [message]: speaker=Jolla
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:487
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:473
 msgid "You really can? ... Well, I should not be so surprised by it. You did it to yourself. I just ..."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:491
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:477
 msgid "But the question is if you really want to do such a thing. I was in belief that you want to have nothing to do with this horrible art anymore."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:495
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:481
 msgid "That is what I thought as well but ... I do not know what is wrong with me. Well, but after thinking about her last words for a while I think that she could mean that once I will join the dark side. It is possible, anger and hatred burn my soul for so long. I am falling ..."
 msgstr ""
 
 #. [message]: speaker=Amiwen
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:499
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:485
 msgid "We are not going to let you fall to the darkness. We will help you fight it. You can overcome it, you can be again so good person as you once were."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:503
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:489
 msgid "I am not so sure about it ..."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:507
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:493
 msgid "Of course you can, Clare! ... Well, with our help. You know that we all will be by your side until the end of our days. We are not going to leave you, especially at your hour of need."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:511
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:497
 msgid "... Thank you very much. It is so nice to hear it, really. I may not give up now."
 msgstr ""
 
 #. [message]: speaker=olderJolla
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:527
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:513
 msgid "Oh, I caught you finally. But this place is not your home, is it? So what was going on here? I can smell ... death."
 msgstr ""
 
 #. [message]: speaker=Bhaskara
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:531
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:517
 msgid "You smell it right, sister. Many a man lost their lives at this place, not only recently but over centuries too. I was told, by the Lord, that this place attracted dark archons since time immemorial. I know not why but that is not important. Now, forces of light and darkness clashed here once again. The enemy appeared to be a worthy opponent for my men but we were victorious in the end with help of these people which you seem to know."
 msgstr ""
 
 #. [message]: speaker=olderJolla
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:535
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:521
 msgid "Well, not so much. I used to know just one of them and when we were younger. I met her again just a few days ago and I was a bit surprised how she changed. But where are my good manners, I forgot to introduce myself. I am Jolla."
 msgstr ""
 
 #. [message]: speaker=Bhaskara
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:539
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:525
 msgid "And my name is Bhaskara. I am pleased to meet you but unfortunately I have not got time to talk to you."
 msgstr ""
 
 #. [message]: speaker=Bhaskara
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:545
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:531
 msgid "So, the enemy have been vanquished finally. Thank you for your help, people, she was a bit more powerful than I expected. But now I have to return to my land so farewell."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:549
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:535
 msgid "For your help?! We did ..."
 msgstr ""
 
 #. [message]: speaker=olderJolla
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:553
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:539
 msgid "Clare, my friend, let him believe that it was you who helped him. He just cannot accept that he was helping someone like you. Not that I blame him ..."
 msgstr ""
 
 #. [message]: speaker=olderJolla
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:557
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:543
 msgid "We were glad that we could be of help to you, brother. May the lords of light guide your path."
 msgstr ""
 
 #. [message]: speaker=Bhaskara
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:561
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:547
 msgid "Yours too, sister, yours too."
 msgstr ""
 
 #. [message]: speaker=Amiwen
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:592
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:578
 msgid "Well, I suppose that it is the time for us to return home too. We still have one fight before us and after that our deserved rest ... for some time."
 msgstr ""
 
 #. [message]: speaker=Jolla
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:596
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:582
 msgid "Oh, yes! I forgot about that battle we have to go through. Well but I believe that you will love that place as well, Jolla."
 msgstr ""
 
 #. [message]: speaker=olderJolla
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:600
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:586
 msgid "May be but whoever are you going to face I am ready for them. Let us go ahead, do not waste more time here."
 msgstr ""
 
 #. [message]: speaker=Bhaskara
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:612
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:598
 msgid "$unit.name, fear not of what is to come. You were a good and brave man who loyally served to the God. He will warmly welcome you in his halls."
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:616
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:602
 msgid "Thank you. This is what I needed to hear. And also that this devil will go where she belongs as well."
 msgstr ""
 
 #. [message]: speaker=Bhaskara
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:620
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:606
 msgid "I may assure you, my friend that no one of us will rest until we do so."
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:624
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:610
 msgid "Good. Now I may leave this world in peace."
 msgstr ""
 
 #. [message]: speaker=Shyama
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:643
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:629
 msgid "All of your men have fallen to us, Bhaskara. Can you see it now? You never had a real chance to defeat us. Maybe it's the time for you to finally acknowledge it and leave me for all."
 msgstr ""
 
 #. [message]: speaker=Bhaskara
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:647
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:633
 msgid "Never! I will fight until the end, your end. Lord, bless your Chosen one."
 msgstr ""
 
 #. [message]: speaker=Bhaskara
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:679
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:665
 msgid "Urvatha awaits your foul soul, devil."
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:690
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:676
 msgid "I have ... failed. Please, forgive me."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:701
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:687
 msgid "Without him, we have no chance to defeat her."
 msgstr ""
 
 #. [message]: speaker=Shyama
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:710
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:696
 msgid "You have fought pretty well but you're no challenge for the power of dark lords. Your soldiers still have the will to fight but I can break it very easily."
 msgstr ""
 
 #. [message]: speaker=Shyama
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:722
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:708
 msgid "Now there will be no dawn until the end of the days, haha."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter5/scenarios/08_Avenger.cfg:726
+#: For_Power/chapter5/scenarios/08_Avenger.cfg:712
 msgid "Everything is lost now."
 msgstr ""
 
@@ -12817,7 +12824,7 @@ msgstr ""
 
 #. [message]: speaker=olderJolla
 #: For_Power/chapter5/scenarios/09_Cleaning_Home.cfg:299
-msgid "You are indeed right, elf. I have seen a few necromancers breaking the barriers between our world and the world of dead. Many ghosts escaped each time but I have learnt a spell which can close the gate. I still remember it. I can close it but I need you all to keep the ghosts who already escaped away from me. I will sneak with my friends to the portal and seal it."
+msgid "You are indeed right, elf. I have seen a few necromancers breaking the barriers between our world and the world of dead. Many ghosts escaped each time but I have learned a spell which can close the gate. I still remember it. I can close it but I need you all to keep the ghosts who already escaped away from me. I will sneak with my friends to the portal and seal it."
 msgstr ""
 
 #. [message]: speaker=Clare
@@ -12892,7 +12899,7 @@ msgstr ""
 
 #. [message]: speaker=Jolla
 #: For_Power/chapter5/scenarios/09_Cleaning_Home.cfg:515
-msgid "Yes, that thing is gone, no more ghosts can escape anymore. Excellent job! But should be our next course of action?"
+msgid "Yes, that thing is gone, no more ghosts can escape anymore. Excellent job! But what should be our next course of action?"
 msgstr ""
 
 #. [message]: speaker=olderJolla
@@ -12957,7 +12964,7 @@ msgstr ""
 
 #. [message]: speaker=Jolla
 #: For_Power/chapter5/scenarios/09_Cleaning_Home.cfg:688
-msgid "It might be so but your skin is already a bit wrinkled and almost all your hair are grey."
+msgid "It might be so but your skin is already a bit wrinkled and almost all your hair are gray."
 msgstr ""
 
 #. [message]: speaker=olderJolla
@@ -12982,7 +12989,7 @@ msgstr ""
 
 #. [message]: speaker=Clare
 #: For_Power/chapter5/scenarios/09_Cleaning_Home.cfg:708
-msgid "Have a safe journey, friend."
+msgid "Have a safe journey, my friend."
 msgstr ""
 
 #. [message]: speaker=Lemyr
@@ -13027,7 +13034,7 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: For_Power/chapter5/scenarios/09_Cleaning_Home.cfg:791
-msgid "Clare closed her eyes for a second but when she opened her again the look in her eyes was completely different. It resembled a mad mass-killer rather than a young woman full of fear and remorses. Well, she was also full of hatred but she could not kill masses without hesitation. However it changed in a second and she was even ready kill all her friends."
+msgid "Clare closed her eyes for a second but when she opened them again, the look in her eyes was completely different. It resembled a mad mass-killer rather than a young woman full of fear and remorses. Well, she was already also full of hatred but she could not kill masses without hesitation. However it changed in a second and she was even ready kill all her friends."
 msgstr ""
 
 #. [message]: speaker=Clare
@@ -13464,7 +13471,7 @@ msgstr ""
 
 #. [message]: speaker=messenger
 #: For_Power/chapter6/scenarios/01_Nothing_is_left_but_Sadness.cfg:430
-msgid "My name is $messenger_name. My liege, Earl Lendec'h tasked me with finding sages Clare and Lemyr. From what he heard they're the only people who can save us all. I doubted if the rumours were true but ..."
+msgid "My name is $messenger_name. My liege, Earl Lendec'h tasked me with finding sages Clare and Lemyr. From what he heard they're the only people who can save us all. I doubted if the rumors were true but ..."
 msgstr ""
 
 #. [message]: speaker=Clare
@@ -13504,7 +13511,7 @@ msgstr ""
 
 #. [message]: speaker=messenger
 #: For_Power/chapter6/scenarios/01_Nothing_is_left_but_Sadness.cfg:466
-msgid "Some rumours about your power got to my lord but he somehow doubts you two - well or four - could stop them without an army. Unfortunately his earldom also under attack so he can't just give you command of his men. You have to find someone yourself, sorry."
+msgid "Some rumors about your power got to my lord but he somehow doubts you two - well or four - could stop them without an army. Unfortunately his earldom also under attack so he can't just give you command of his men. You have to find someone yourself, sorry."
 msgstr ""
 
 #. [message]: speaker=Clare
@@ -13631,7 +13638,7 @@ msgstr ""
 
 #. [message]
 #: For_Power/chapter6/scenarios/02_New_Threat.cfg:165
-msgid "Some travellers, I suppose. We should take 'em down easily."
+msgid "Some travelers, I suppose. We should take 'em down easily."
 msgstr ""
 
 #. [message]
@@ -14191,81 +14198,91 @@ msgstr ""
 msgid "This unit's presence is so darkly ominous that all adjacent enemies struggle with despair, dealing "
 msgstr ""
 
-#. [dummy]: id=soul eater
-#: For_Power/macros/abilities.cfg:56
-msgid "soul eater"
+#. [leadership]: id=despair
+#: For_Power/macros/abilities.cfg:44
+msgid "This unit decreases the damage that adjacent enemy units deal in combat."
 msgstr ""
 
 #. [dummy]: id=soul eater
 #: For_Power/macros/abilities.cfg:57
-msgid "female^soul eater"
+msgid "soul eater"
 msgstr ""
 
 #. [dummy]: id=soul eater
 #: For_Power/macros/abilities.cfg:58
+msgid "female^soul eater"
+msgstr ""
+
+#. [dummy]: id=soul eater
+#: For_Power/macros/abilities.cfg:59
 msgid "When this unit kills a certain amount of beings, it obtains special advancements."
 msgstr ""
 
-#. [resistance]: id=conviction
-#: For_Power/macros/abilities.cfg:68
-msgid "conviction "
-msgstr ""
-
-#. [resistance]: id=conviction
-#: For_Power/macros/abilities.cfg:69
-msgid "female^conviction "
+#. [dummy]: id=soul eater
+#: For_Power/macros/abilities.cfg:60
+msgid "This unit obtains special advancements, as it kills more and more beings."
 msgstr ""
 
 #. [resistance]: id=conviction
 #: For_Power/macros/abilities.cfg:70
+msgid "conviction "
+msgstr ""
+
+#. [resistance]: id=conviction
+#: For_Power/macros/abilities.cfg:71
+msgid "female^conviction "
+msgstr ""
+
+#. [resistance]: id=conviction
+#: For_Power/macros/abilities.cfg:72
 msgid "This unit's presence is so darkly ominous that all adjacent enemies struggle with the guilt of their evil deeds, reducing their resistances by "
 msgstr ""
 
 #. [resistance]: id=shield
-#: For_Power/macros/abilities.cfg:86
+#: For_Power/macros/abilities.cfg:88
 msgid "shield "
 msgstr ""
 
 #. [resistance]: id=shield
-#: For_Power/macros/abilities.cfg:87
+#: For_Power/macros/abilities.cfg:89
 msgid "female^shield "
 msgstr ""
 
 #. [resistance]: id=shield
-#: For_Power/macros/abilities.cfg:88
+#: For_Power/macros/abilities.cfg:90
 msgid "This unit's presence is so glorious that all adjacent allies are hounoured and inspired by them, increasing their resistances by "
 msgstr ""
 
 #. [leadership]: id=lightbringer
-#: For_Power/macros/abilities.cfg:183
+#: For_Power/macros/abilities.cfg:185
 msgid "lightbringer"
 msgstr ""
 
 #. [leadership]: id=lightbringer
-#: For_Power/macros/abilities.cfg:184
+#: For_Power/macros/abilities.cfg:186
 msgid "female^lighbringer"
 msgstr ""
 
 #. [leadership]: id=lightbringer
-#: For_Power/macros/abilities.cfg:185
+#: For_Power/macros/abilities.cfg:187
 msgid "This unit emits strong aura of light which affects all adjacent units. Hostile chaotic units will deal 20% less damage and take 8 damage at the start of our turn when are around this unit. Allied lawful units will regain 2 hitpoints after getting hit when around this unit."
-msgstr ""
-
-#. [leadership]: id=bandit_leadership
-#: For_Power/macros/abilities.cfg:222
-#: For_Power/macros/abilities.cfg:278
-msgid "leadership"
-msgstr ""
-
-#. [leadership]: id=bandit_leadership
-#: For_Power/macros/abilities.cfg:223
-#: For_Power/macros/abilities.cfg:279
-msgid "female^leadership"
 msgstr ""
 
 #. [leadership]: id=bandit_leadership
 #: For_Power/macros/abilities.cfg:224
 #: For_Power/macros/abilities.cfg:280
+msgid "leadership"
+msgstr ""
+
+#. [leadership]: id=bandit_leadership
+#: For_Power/macros/abilities.cfg:225
+#: For_Power/macros/abilities.cfg:281
+msgid "female^leadership"
+msgstr ""
+
+#. [leadership]: id=bandit_leadership
+#: For_Power/macros/abilities.cfg:226
+#: For_Power/macros/abilities.cfg:282
 msgid ""
 "This unit can lead our own outlaw units that are next to it, making them fight better.\n"
 "\n"
@@ -14273,261 +14290,281 @@ msgid ""
 msgstr ""
 
 #. [resistance]: id=bandit_shield
-#: For_Power/macros/abilities.cfg:347
+#: For_Power/macros/abilities.cfg:349
 msgid "scare "
 msgstr ""
 
 #. [resistance]: id=bandit_shield
-#: For_Power/macros/abilities.cfg:348
+#: For_Power/macros/abilities.cfg:350
 msgid "female^scare "
 msgstr ""
 
 #. [resistance]: id=bandit_shield
-#: For_Power/macros/abilities.cfg:349
+#: For_Power/macros/abilities.cfg:351
 msgid "This unit's presence is so horrible that all adjacent bandits are hounoured and inspired by them, increasing their resistances by +"
 msgstr ""
 
 #. [illuminates]: id=darkens
-#: For_Power/macros/abilities.cfg:371
+#: For_Power/macros/abilities.cfg:373
 msgid "darkens"
 msgstr ""
 
 #. [illuminates]: id=darkens
-#: For_Power/macros/abilities.cfg:372
+#: For_Power/macros/abilities.cfg:374
 msgid ""
 "This unit darkens the surrounding area, making chaotic units fight better, and lawful units fight worse.\n"
 "\n"
 "Any units adjacent to this unit will fight as if it were dusk when it is day, and as if it were night when it is dusk."
 msgstr ""
 
+#. [illuminates]: id=darkens
+#: For_Power/macros/abilities.cfg:377
+msgid "Darkens decreases the lighting level in adjacent areas."
+msgstr ""
+
 #. [regenerate]: id=regenerates_slightly2
-#: For_Power/macros/abilities.cfg:382
-#: For_Power/units/humans/Witch.cfg:40
+#: For_Power/macros/abilities.cfg:385
+#: For_Power/units/humans/Witch.cfg:38
 msgid "regenerates slightly"
 msgstr ""
 
 #. [regenerate]: id=regenerates_slightly2
-#: For_Power/macros/abilities.cfg:383
-#: For_Power/units/humans/Witch.cfg:41
+#: For_Power/macros/abilities.cfg:386
+#: For_Power/units/humans/Witch.cfg:39
 msgid "female^regenerates slightly"
 msgstr ""
 
 #. [regenerate]: id=regenerates_slightly2
 #. [regenerate]: id=recuperation
-#: For_Power/macros/abilities.cfg:384
-#: For_Power/macros/elementals.cfg:567
-#: For_Power/units/humans/Witch.cfg:42
+#: For_Power/macros/abilities.cfg:387
+#: For_Power/macros/elementals.cfg:541
+#: For_Power/units/humans/Witch.cfg:40
 msgid "The unit will heal itself 4 HP per turn. If it is poisoned, it will remove the poison instead of healing."
 msgstr ""
 
 #. [resistance]: id=guardian
-#: For_Power/macros/abilities.cfg:395
+#: For_Power/macros/abilities.cfg:399
 msgid "guardian "
 msgstr ""
 
 #. [resistance]: id=guardian
-#: For_Power/macros/abilities.cfg:396
+#: For_Power/macros/abilities.cfg:400
 msgid "female^guardian "
 msgstr ""
 
 #. [resistance]: id=guardian
-#: For_Power/macros/abilities.cfg:397
+#: For_Power/macros/abilities.cfg:401
 msgid "This unit’s resistances are increased by "
 msgstr ""
 
 #. [resistance]: id=guardian
-#: For_Power/macros/abilities.cfg:398
+#: For_Power/macros/abilities.cfg:402
 msgid "This unit's resistances are increased by "
 msgstr ""
 
 #. [dummy]: id=penetrate
-#: For_Power/macros/abilities.cfg:411
+#: For_Power/macros/abilities.cfg:415
 msgid "penetrates"
 msgstr ""
 
 #. [dummy]: id=penetrate
-#: For_Power/macros/abilities.cfg:412
+#: For_Power/macros/abilities.cfg:416
 msgid "female^penetrates"
 msgstr ""
 
 #. [dummy]: id=penetrate
-#: For_Power/macros/abilities.cfg:413
+#: For_Power/macros/abilities.cfg:417
 msgid "This unit gains 1 movement after attacking, allowing it to slowly progress through ranks of enemies if it can survive their attacks."
 msgstr ""
 
 #. [dummy]: id=hit and run weaker
 #. [dummy]: id=hit and run
-#: For_Power/macros/abilities.cfg:420
-#: For_Power/macros/abilities.cfg:428
+#: For_Power/macros/abilities.cfg:424
+#: For_Power/macros/abilities.cfg:432
 msgid "hit and run"
 msgstr ""
 
 #. [dummy]: id=hit and run weaker
-#: For_Power/macros/abilities.cfg:421
+#: For_Power/macros/abilities.cfg:425
 msgid "This unit regains half of its max MP after attacking."
 msgstr ""
 
 #. [dummy]: id=hit and run
-#: For_Power/macros/abilities.cfg:429
+#: For_Power/macros/abilities.cfg:433
 msgid "This unit regains its max MP after attacking."
 msgstr ""
 
 #. [dummy]: id=push
-#: For_Power/macros/abilities.cfg:436
+#: For_Power/macros/abilities.cfg:440
 msgid "push"
 msgstr ""
 
 #. [dummy]: id=push
-#: For_Power/macros/abilities.cfg:437
+#: For_Power/macros/abilities.cfg:441
 msgid "When an ally standing next to this unit finishes attacking, it gains one movement point."
 msgstr ""
 
 #. [regenerate]: id=sylvan_spark
-#: For_Power/macros/abilities.cfg:445
+#: For_Power/macros/abilities.cfg:449
 msgid "sylvan spark"
 msgstr ""
 
 #. [regenerate]: id=sylvan_spark
-#: For_Power/macros/abilities.cfg:446
+#: For_Power/macros/abilities.cfg:450
 msgid "While in vegetated terrains, the unit will heal itself 5 hp per turn. If it is poisoned, it will remove the poison instead of healing."
 msgstr ""
 
 #. [dummy]: id=source of power
-#: For_Power/macros/abilities.cfg:460
+#: For_Power/macros/abilities.cfg:464
 msgid "source of power"
 msgstr ""
 
 #. [dummy]: id=source of power
-#: For_Power/macros/abilities.cfg:461
+#: For_Power/macros/abilities.cfg:465
 msgid "This unit can channel flowing energy so whenever an adjacent unit takes at least 15 damage, he/she increases his/her own damage by 1 for next turn."
 msgstr ""
 
 #. [slow]: id=shockwave
-#: For_Power/macros/abilities.cfg:468
+#: For_Power/macros/abilities.cfg:472
 msgid "shockwave"
 msgstr ""
 
 #. [slow]: id=shockwave
-#: For_Power/macros/abilities.cfg:469
+#: For_Power/macros/abilities.cfg:473
 msgid "This attack is so strong that it slows the target, and creates a shock wave that knocks all units adjacent to the attacker back, slows them too and damages them for 8 impact damage. Works only offensively."
 msgstr ""
 
+#. [slow]: id=shockwave
+#: For_Power/macros/abilities.cfg:474
+msgid "One of the unit's attacks can not only slow its target but also all adjacent units. All the additional targets also take damage and are knocked back."
+msgstr ""
+
 #. [damage]: id=explosive
-#: For_Power/macros/abilities.cfg:476
+#: For_Power/macros/abilities.cfg:481
 msgid "explosive"
 msgstr ""
 
 #. [damage]: id=explosive
-#: For_Power/macros/abilities.cfg:477
+#: For_Power/macros/abilities.cfg:482
 msgid "When this attack is used, all units adjacent to the target take 75% of the damage."
 msgstr ""
 
 #. [slow]: id=frost
-#: For_Power/macros/abilities.cfg:484
+#: For_Power/macros/abilities.cfg:489
 msgid "frost"
 msgstr ""
 
 #. [slow]: id=frost
-#: For_Power/macros/abilities.cfg:485
+#: For_Power/macros/abilities.cfg:490
 msgid "female^frost"
 msgstr ""
 
 #. [slow]: id=frost
-#: For_Power/macros/abilities.cfg:486
+#: For_Power/macros/abilities.cfg:491
 msgid "When this attack is used, the target will not only be slowed but it will also take 3 damage every turn until it dies or advances. Works only on offense."
 msgstr ""
 
 #. [poison]: id=poison_g
-#: For_Power/macros/abilities.cfg:494
+#: For_Power/macros/abilities.cfg:499
 msgid "poison"
 msgstr ""
 
 #. [poison]: id=poison_g
-#: For_Power/macros/abilities.cfg:495
+#: For_Power/macros/abilities.cfg:500
 msgid "This attack poisons not only the living but also the undead. Poisoned units lose 8 HP every turn until they are cured or are reduced to 1 HP. Poison cannot, of itself, kill a unit."
 msgstr ""
 
 #. [dummy]: id=leeches
-#: For_Power/macros/abilities.cfg:502
+#: For_Power/macros/abilities.cfg:508
 msgid "leeches"
 msgstr ""
 
 #. [dummy]: id=leeches
-#: For_Power/macros/abilities.cfg:503
+#: For_Power/macros/abilities.cfg:509
 msgid "This unit drains health from living units, healing itself for half the amount of damage it deals (rounded down). It can also leech the magic bound in the undeath of non-living foes."
 msgstr ""
 
 #. [dummy]: id=curse
 #. [attack]: type=arcane
-#: For_Power/macros/abilities.cfg:510
-#: For_Power/units/humans/Witch.cfg:76
+#: For_Power/macros/abilities.cfg:517
+#: For_Power/units/humans/Witch.cfg:75
 msgid "curse"
 msgstr ""
 
 #. [dummy]: id=curse
-#: For_Power/macros/abilities.cfg:511
+#: For_Power/macros/abilities.cfg:518
 msgid "When this attack hits, the enemy's resistances are reduced by 15% until the end of turn. Does not stack."
 msgstr ""
 
+#. [dummy]: id=curse
+#: For_Power/macros/abilities.cfg:519
+msgid "One of this unit's attacks reduces the enemy's resistance unit the end of turn."
+msgstr ""
+
 #. [damage]: id=misorcia
-#: For_Power/macros/abilities.cfg:518
+#: For_Power/macros/abilities.cfg:526
 msgid "misorcia"
 msgstr ""
 
 #. [damage]: id=misorcia
-#: For_Power/macros/abilities.cfg:519
+#: For_Power/macros/abilities.cfg:527
 msgid "This attack does double damage to orcs."
 msgstr ""
 
 #. [dummy]: id=knockback
-#: For_Power/macros/abilities.cfg:530
+#: For_Power/macros/abilities.cfg:538
 msgid "knockback"
 msgstr ""
 
 #. [dummy]: id=knockback
-#: For_Power/macros/abilities.cfg:531
+#: For_Power/macros/abilities.cfg:539
 msgid "When this attack is used offensively, at the end of the fight the enemy will be knocked back."
 msgstr ""
 
 #. [dummy]: id=doom
-#: For_Power/macros/abilities.cfg:538
+#: For_Power/macros/abilities.cfg:546
 msgid "doom"
 msgstr ""
 
 #. [dummy]: id=doom
-#: For_Power/macros/abilities.cfg:539
+#: For_Power/macros/abilities.cfg:547
 msgid "If this attack hits, opponent's resistances will drop by 5% until he advances."
 msgstr ""
 
+#. [dummy]: id=doom
+#: For_Power/macros/abilities.cfg:548
+msgid "One of this unit's attacks reduces the enemy's resistances until he adances."
+msgstr ""
+
 #. [damage]: id=earth guardian
-#: For_Power/macros/abilities.cfg:546
+#: For_Power/macros/abilities.cfg:555
 msgid "earth guardian"
 msgstr ""
 
 #. [damage]: id=earth guardian
-#: For_Power/macros/abilities.cfg:547
+#: For_Power/macros/abilities.cfg:556
 msgid "When this attack is used, the user is transformed into a moving block of rock, taking 20% less physical damage."
 msgstr ""
 
 #. [damage]: id=horror
-#: For_Power/macros/abilities.cfg:561
+#: For_Power/macros/abilities.cfg:570
 msgid "horror"
 msgstr ""
 
 #. [damage]: id=horror
-#: For_Power/macros/abilities.cfg:562
+#: For_Power/macros/abilities.cfg:571
 msgid "When this attack is used, the user's appearance will become so horrible, that the enemy will deal 50% less damage."
 msgstr ""
 
 #. [dummy]: id=scourge
 #. [attack]: type=impact
-#: For_Power/macros/abilities.cfg:571
+#: For_Power/macros/abilities.cfg:580
 #: For_Power/units/humans/Blackguard.cfg:33
 msgid "scourge"
 msgstr ""
 
 #. [dummy]: id=scourge
-#: For_Power/macros/abilities.cfg:572
+#: For_Power/macros/abilities.cfg:581
 msgid "This attack causes its targets to take small but continuous damage. Affected units lose 4 HP every turn until they are cured. This curse can kill its targets."
 msgstr ""
 
@@ -14548,34 +14585,7 @@ msgstr ""
 msgid "+1 damage"
 msgstr ""
 
-#: For_Power/macros/elementals.cfg:5
-msgid " This unit regenerates {HP} HP per turn when on lava terrain."
-msgstr ""
-
-#: For_Power/macros/elementals.cfg:9
-msgid ""
-" This unit regenerates 8 HP per turn by absorbing energy from burning forests. Any time this unit starts a turn on a dry forrest (non-snow), it burns the trees, leaving none left.\n"
-"\n"
-"Due to the cold of snow, the elemental does not burn hot enough to melt it."
-msgstr ""
-
-#: For_Power/macros/elementals.cfg:15
-msgid " This unit regenerates {HP} HP per turn when on water and swamp terrain."
-msgstr ""
-
-#: For_Power/macros/elementals.cfg:19
-msgid " The unit will heal itself 6 HP per turn on sand or dirt terrain."
-msgstr ""
-
-#: For_Power/macros/elementals.cfg:23
-msgid " The unit will heal itself 4 HP per turn on mountain and hill terrain."
-msgstr ""
-
-#: For_Power/macros/elementals.cfg:27
-msgid " The unit will heal itself 4 HP per turn on dirt and grass terrain."
-msgstr ""
-
-#: For_Power/macros/elementals.cfg:30
+#: For_Power/macros/elementals.cfg:4
 msgid ""
 "Lava elementals are made out molten, living rock. They are rare and have only been know to be created by extremely powerful demons that live in the depths of the earth. They are resistant to most attacks, and using their ability to reshape their molten form, they are able to recover from damage. The lava elementals are large creatures and are slow. As a result, they make an easy target.\n"
 "\n"
@@ -14584,71 +14594,71 @@ msgid ""
 "Unlike other elementals that are neutral in alignment, the lava elemental is chaotic, obediently serving the demon that summoned them."
 msgstr ""
 
-#: For_Power/macros/elementals.cfg:37
+#: For_Power/macros/elementals.cfg:11
 msgid "Formed from water, the "
 msgstr ""
 
-#: For_Power/macros/elementals.cfg:37
+#: For_Power/macros/elementals.cfg:11
 msgid " warrior can call upon the forces of nature to rend its foes. It is able to generate an eletrical field around itself, sparking deadly lightning bolts than can burn a foe. Unfortunately for it, the lightning storm is hard to control and has a lower chance to hit than other water based elementals that may magically direct the bolt. It may only be created by the hand of a powerful water lord."
 msgstr ""
 
 #. [trait]: id=elemental
-#: For_Power/macros/elementals.cfg:174
+#: For_Power/macros/elementals.cfg:148
 msgid "elemental"
 msgstr ""
 
 #. [trait]: id=elemental
-#: For_Power/macros/elementals.cfg:175
+#: For_Power/macros/elementals.cfg:149
 msgid "female^elemental"
 msgstr ""
 
 #. [trait]: id=elemental
-#: For_Power/macros/elementals.cfg:176
+#: For_Power/macros/elementals.cfg:150
 msgid "Immune to drain, poison and plague"
 msgstr ""
 
 #. [race]: id=elemental
-#: For_Power/macros/elementals.cfg:186
+#: For_Power/macros/elementals.cfg:160
 msgid "race^Elemental"
 msgstr ""
 
 #. [race]: id=elemental
-#: For_Power/macros/elementals.cfg:187
+#: For_Power/macros/elementals.cfg:161
 msgid "race+female^Elemental"
 msgstr ""
 
 #. [race]: id=elemental
-#: For_Power/macros/elementals.cfg:188
+#: For_Power/macros/elementals.cfg:162
 msgid "race^Elementals"
 msgstr ""
 
 #. [race]: id=elemental
-#: For_Power/macros/elementals.cfg:189
+#: For_Power/macros/elementals.cfg:163
 msgid "Elementals are manifestations from the essence of nature that have been animated to life by magic."
 msgstr ""
 
 #. [regenerate]: id=recuperation
-#: For_Power/macros/elementals.cfg:565
+#: For_Power/macros/elementals.cfg:539
 msgid "recuperates"
 msgstr ""
 
 #. [regenerate]: id=recuperation
-#: For_Power/macros/elementals.cfg:566
+#: For_Power/macros/elementals.cfg:540
 msgid "female^recuperates"
 msgstr ""
 
 #. [hides]: id=ensconce
-#: For_Power/macros/elementals.cfg:576
+#: For_Power/macros/elementals.cfg:550
 msgid "ensconce"
 msgstr ""
 
 #. [hides]: id=ensconce
-#: For_Power/macros/elementals.cfg:577
+#: For_Power/macros/elementals.cfg:551
 msgid "female^ensconce"
 msgstr ""
 
 #. [hides]: id=ensconce
-#: For_Power/macros/elementals.cfg:578
+#: For_Power/macros/elementals.cfg:552
 msgid ""
 "This unit can hide in hill and mountain terrain, and remain undetected by its enemies.\n"
 "\n"
@@ -14658,152 +14668,189 @@ msgid ""
 msgstr ""
 
 #. [regenerate]
-#: For_Power/macros/elementals.cfg:604
+#: For_Power/macros/elementals.cfg:578
 msgid "burn wood"
 msgstr ""
 
 #. [regenerate]
-#: For_Power/macros/elementals.cfg:605
+#: For_Power/macros/elementals.cfg:579
 msgid "The unit will heal itself 8 HP per turn by absorbing fire from burning dry forests (non-ice). The burning destroys the forest in the process."
 msgstr ""
 
 #. [regenerate]
-#: For_Power/macros/elementals.cfg:618
+#: For_Power/macros/elementals.cfg:580
+msgid ""
+" This unit regenerates 8 HP per turn by absorbing energy from burning forests. Any time this unit starts a turn on a dry forrest (non-snow), it burns the trees, leaving none left.\n"
+"\n"
+"Due to the cold of snow, the elemental does not burn hot enough to melt it."
+msgstr ""
+
+#. [regenerate]
+#: For_Power/macros/elementals.cfg:595
 msgid "absorb water"
 msgstr ""
 
 #. [regenerate]
-#: For_Power/macros/elementals.cfg:619
+#: For_Power/macros/elementals.cfg:596
 msgid "The unit will heal itself per turn on water and swamp terrains (Amount varies per unit)."
 msgstr ""
 
 #. [regenerate]
-#: For_Power/macros/elementals.cfg:632
+#: For_Power/macros/elementals.cfg:597
+msgid " This unit regenerates {HP} HP per turn when on water and swamp terrain."
+msgstr ""
+
+#. [regenerate]
+#: For_Power/macros/elementals.cfg:610
 msgid "assimilate rock"
 msgstr ""
 
 #. [regenerate]
-#: For_Power/macros/elementals.cfg:633
+#: For_Power/macros/elementals.cfg:611
 msgid "The unit will heal itself 6 HP per turn on mountain, cave and hill terrains."
 msgstr ""
 
 #. [regenerate]
-#: For_Power/macros/elementals.cfg:646
+#: For_Power/macros/elementals.cfg:612
+msgid " The unit will heal itself 4 HP per turn on mountain and hill terrain."
+msgstr ""
+
+#. [regenerate]
+#: For_Power/macros/elementals.cfg:625
 msgid "dust recuperation"
 msgstr ""
 
 #. [regenerate]
-#: For_Power/macros/elementals.cfg:647
+#: For_Power/macros/elementals.cfg:626
 msgid "The unit will heal itself 6 HP per turn on sand or dirt terrain."
 msgstr ""
 
 #. [regenerate]
-#: For_Power/macros/elementals.cfg:660
+#: For_Power/macros/elementals.cfg:627
+msgid " The unit will heal itself 6 HP per turn on sand or dirt terrain."
+msgstr ""
+
+#. [regenerate]
+#: For_Power/macros/elementals.cfg:640
 msgid "dirt recuperation"
 msgstr ""
 
 #. [regenerate]
-#: For_Power/macros/elementals.cfg:661
+#: For_Power/macros/elementals.cfg:641
 msgid "The unit will heal itself 4 HP per turn on grass or dirt terrain."
 msgstr ""
 
 #. [regenerate]
-#: For_Power/macros/elementals.cfg:674
+#: For_Power/macros/elementals.cfg:642
+msgid " The unit will heal itself 4 HP per turn on dirt and grass terrain."
+msgstr ""
+
+#. [regenerate]
+#: For_Power/macros/elementals.cfg:655
 msgid "absorb lava"
 msgstr ""
 
 #. [regenerate]
-#: For_Power/macros/elementals.cfg:675
+#: For_Power/macros/elementals.cfg:656
 msgid "The unit will heal itself per turn on lava terrain (Amount varies per unit)."
 msgstr ""
 
+#. [regenerate]
+#: For_Power/macros/elementals.cfg:657
+msgid " This unit regenerates {HP} HP per turn when on lava terrain."
+msgstr ""
+
+#: For_Power/macros/redeem.cfg:4
+msgid "One of this unit's attacks has a chance to instantly kill the opponent. After a certain number of kills with this attack, the unit's resistances and hitpoints will be increased and chances to instantly kill opponents will be improved."
+msgstr ""
+
 #. [damage]: id=redeem 1
-#: For_Power/macros/redeem.cfg:6
+#: For_Power/macros/redeem.cfg:9
 msgid "redeem (1)"
 msgstr ""
 
 #. [damage]: id=redeem 1
-#: For_Power/macros/redeem.cfg:7
+#: For_Power/macros/redeem.cfg:10
 msgid "The target of this attack is fully absorbed into the attacker's soul, a much better place than the world he was taken from. The attacker will grow stronger after a certain number of redeems. Level 0 targets are absorbed with a 100% chance to succeed, level 1 targets are absorbed with a 90% chance to be absorbed, level 2 targets are absorbed with a 40% chance, level 3 targets are absorbed with a 20% chance, level 4 targets are absorbed with a 5% chance and level 5 targets are absorbed with a 1% chance. Experience is not gained. After redeeming 10 souls, this unit's resistances and hitpoints will be increased and chances to absorb souls will be improved."
 msgstr ""
 
 #. [damage]: id=redeem 2
-#: For_Power/macros/redeem.cfg:14
+#: For_Power/macros/redeem.cfg:18
 msgid "redeem (2)"
 msgstr ""
 
 #. [damage]: id=redeem 2
-#: For_Power/macros/redeem.cfg:15
+#: For_Power/macros/redeem.cfg:19
 msgid "The target of this attack is fully absorbed into the attacker's soul, a much better place than the world he was taken from. The attacker will grow stronger after a certain number of redeems. Level 0 and level 1 targets are absorbed with a 100% chance to succeed, level 2 targets are absorbed with a 90% chance to be absorbed, level 3 targets are absorbed with a 50% chance, level 4 targets are absorbed with a 25% chance and level 5 targets are absorbed with a 10% chance. Experience is not gained. After redeeming 15 souls, this unit's resistances and hitpoints will be increased and chances to absorb souls will be improved."
 msgstr ""
 
 #. [damage]: id=redeem 3
-#: For_Power/macros/redeem.cfg:22
+#: For_Power/macros/redeem.cfg:27
 msgid "redeem (3)"
 msgstr ""
 
 #. [damage]: id=redeem 3
-#: For_Power/macros/redeem.cfg:23
+#: For_Power/macros/redeem.cfg:28
 msgid "The target of this attack is fully absorbed into the attacker's soul, a much better place than the world he was taken from. The attacker will grow stronger after a certain number of redeems. Targets bellow level 3 are absorbed with a 100% chance to succeed, level 3 targets are absorbed with a 80% chance, level 4 targets are absorbed with a 60% chance and level 5 targets are absorbed with a 45% chance. Experience is not gained. After redeeming 22 souls, this unit's resistances and hitpoints will be increased and chances to absorb souls will be improved."
 msgstr ""
 
 #. [damage]: id=redeem 4
-#: For_Power/macros/redeem.cfg:30
+#: For_Power/macros/redeem.cfg:36
 msgid "redeem (4)"
 msgstr ""
 
 #. [damage]: id=redeem 4
-#: For_Power/macros/redeem.cfg:31
+#: For_Power/macros/redeem.cfg:37
 msgid "The target of this attack is fully absorbed into the attacker's soul, a much better place than the world he was taken from. The attacker will grow stronger after a certain number of redeems. Targets bellow level 4 are absorbed with a 100% chance to succeed, level 4 targets are absorbed with a 85% chance and level 5 targets are absorbed with a 60% chance. Experience is not gained. After redeeming 33 souls, this unit's resistances and hitpoints will be increased and chances to absorb souls will be improved."
 msgstr ""
 
 #. [damage]: id=redeem 5
-#: For_Power/macros/redeem.cfg:38
+#: For_Power/macros/redeem.cfg:45
 msgid "redeem (5)"
 msgstr ""
 
 #. [damage]: id=redeem 5
-#: For_Power/macros/redeem.cfg:39
+#: For_Power/macros/redeem.cfg:46
 msgid "The target of this attack is fully absorbed into the attacker's soul, a much better place than the world he was taken from. The attacker will grow stronger after a certain number of redeems. Targets bellow level 5 are absorbed with a 100% chance to succeed and level 5 targets are absorbed with a 80% chance. Experience is not gained. After redeeming 49 souls, this unit's resistances and hitpoints will be increased and chances to absorb souls will be improved."
 msgstr ""
 
 #. [damage]: id=redeem 6
-#: For_Power/macros/redeem.cfg:46
+#: For_Power/macros/redeem.cfg:54
 msgid "redeem (6)"
 msgstr ""
 
 #. [damage]: id=redeem 6
-#: For_Power/macros/redeem.cfg:47
+#: For_Power/macros/redeem.cfg:55
 msgid "The target of this attack is fully absorbed into the attacker's soul, a much better place than the world he was taken from. The attacker will grow stronger after a certain number of redeems. All targets are absorbed with a 100% chance to succeed. Experience is not gained. After redeeming 73 souls, this unit's resistances and hitpoints will be increased and new advancements will become available."
 msgstr ""
 
 #. [damage]: id=redeem 7
-#: For_Power/macros/redeem.cfg:54
+#: For_Power/macros/redeem.cfg:63
 msgid "redeem (7)"
 msgstr ""
 
 #. [damage]: id=redeem 7
-#: For_Power/macros/redeem.cfg:55
+#: For_Power/macros/redeem.cfg:64
 msgid "The target of this attack is fully absorbed into the attacker's soul, a much better place than the world he was taken from. The attacker will grow stronger after a certain number of redeems. All targets are absorbed with a 100% chance to succeed. Experience is not gained. With each next level of redeem, this unit will gain only 2 more hitpoints."
 msgstr ""
 
 #. [floating_text]
-#: For_Power/macros/redeem.cfg:218
+#: For_Power/macros/redeem.cfg:228
 msgid "Redeem failed!"
 msgstr ""
 
 #. [chance_to_hit]: id=focused
-#: For_Power/macros/redeem.cfg:410
+#: For_Power/macros/redeem.cfg:420
 msgid "focused"
 msgstr ""
 
 #. [chance_to_hit]: id=focused
-#: For_Power/macros/redeem.cfg:411
+#: For_Power/macros/redeem.cfg:421
 msgid "This attack always has at least a 80% chance to hit."
 msgstr ""
 
 #. [unstore_unit]
-#: For_Power/macros/redeem.cfg:621
+#: For_Power/macros/redeem.cfg:631
 msgid "Redeem recharged!"
 msgstr ""
 
@@ -14903,11 +14950,11 @@ msgid ""
 "At the start, all players choose 5 initial amlas for their leaders. Race of enemies in each wave is randomly chosen but you should not face the same enemies two times in a row. In the tower in the middle, you can see when next wave of enemies will arrive and of what creatures it will be composed of. You have to defeat all enemies in 35 turns."
 msgstr ""
 
-#. [side]: type=Clare_Lich, id=Clare
-#. [side]: type=Lemyr_Lich, id=Lemyr
-#. [side]: type=Merissa_Lich, id=Merissa
-#. [side]: type=Amiwen_Elvish Seer, id=Amiwen
-#. [side]: type=Lemyr_High Paladin, id=Lemyr
+#. [side]: type=Clare_Lich, id=Clare, gender=female
+#. [side]: type=Lemyr_Lich, id=Lemyr, gender=male
+#. [side]: type=Merissa_Lich, id=Merissa, gender=female
+#. [side]: type=Amiwen_Elvish Seer, id=Amiwen, gender=female
+#. [side]: type=Lemyr_High Paladin, id=Lemyr, gender=male
 #. [modify_side]
 #. [side]
 #: For_Power/multiplayer/Gauntlet.cfg:352
@@ -15096,8 +15143,8 @@ msgstr ""
 msgid "Seeking Evil"
 msgstr ""
 
-#. [side]: type=Necromancer, id=necro
-#. [unit]: type=Necromancer, id=necro
+#. [side]: type=Necromancer, id=necro, gender=female
+#. [unit]: type=Necromancer, id=necro, gender=female
 #: For_Power/multiplayer/Seeking_Evil.cfg:128
 #: For_Power/multiplayer/Source_of_Evil.cfg:317
 msgid "Cilith"
@@ -15474,12 +15521,12 @@ msgstr ""
 msgid "Source of Evil"
 msgstr ""
 
-#. [side]: type=Elvish Sylph, id=Luthien
+#. [side]: type=Elvish Sylph, id=Luthien, gender=female
 #: For_Power/multiplayer/Source_of_Evil.cfg:75
 msgid "Twisted good"
 msgstr ""
 
-#. [side]: type=Elvish Sylph, id=Luthien
+#. [side]: type=Elvish Sylph, id=Luthien, gender=female
 #: For_Power/multiplayer/Source_of_Evil.cfg:79
 msgid "Luthien"
 msgstr ""
@@ -15734,25 +15781,25 @@ msgid ""
 "Both scenarios are relatively short."
 msgstr ""
 
-#. [unit_type]: id=Dark Lord human weaker, race=human
-#. [unit_type]: id=Dark Lord human, race=human
-#. [unit_type]: id=Dark Lord, race=undead
+#. [unit_type]: id=Dark Lord human weaker, gender=male,female, race=human
+#. [unit_type]: id=Dark Lord human, gender=male,female, race=human
+#. [unit_type]: id=Dark Lord, gender=male,female, race=undead
 #: For_Power/units/dark-lords/human-weaker.cfg:5
 #: For_Power/units/dark-lords/human.cfg:5
 #: For_Power/units/dark-lords/lich.cfg:5
 msgid "Dark Lord"
 msgstr ""
 
-#. [unit_type]: id=Dark Lord human weaker, race=human
-#. [unit_type]: id=Dark Lord human, race=human
-#. [unit_type]: id=Dark Lord, race=undead
+#. [unit_type]: id=Dark Lord human weaker, gender=male,female, race=human
+#. [unit_type]: id=Dark Lord human, gender=male,female, race=human
+#. [unit_type]: id=Dark Lord, gender=male,female, race=undead
 #: For_Power/units/dark-lords/human-weaker.cfg:22
 #: For_Power/units/dark-lords/human.cfg:22
 #: For_Power/units/dark-lords/lich.cfg:21
 msgid "These are the commanders of dark legions. Most of their soldiers obey them because of fear. They possess unmatched powers and spread despair and darkness wherever they come. Fortunately most of the time they spend in their lairs and send only their minions to cause havoc. If you encounter one of them then you may be sure that the end of the world is near."
 msgstr ""
 
-#. [female]
+#. [female]: gender=female
 #: For_Power/units/dark-lords/human-weaker.cfg:245
 #: For_Power/units/dark-lords/human.cfg:245
 #: For_Power/units/dark-lords/lich.cfg:175
@@ -15843,22 +15890,22 @@ msgstr ""
 
 #. [attack]: type=fire
 #: For_Power/units/elementals/Fire_Elemental.cfg:32
-#: For_Power/units/elementals/Fire_Wisp.cfg:35
+#: For_Power/units/elementals/Fire_Wisp.cfg:34
 msgid "fire breath"
 msgstr ""
 
 #. [unit_type]: id=Fire Wisp, race=elemental
-#: For_Power/units/elementals/Fire_Wisp.cfg:6
+#: For_Power/units/elementals/Fire_Wisp.cfg:5
 msgid "Fire Wisp"
 msgstr ""
 
 #. [unit_type]: id=Fire Wisp, race=elemental
-#: For_Power/units/elementals/Fire_Wisp.cfg:21
+#: For_Power/units/elementals/Fire_Wisp.cfg:20
 msgid "Fire Wisps are minor elementals of flame. They like to frolic in pools of lava, and take great delight in burning anything they can reach."
 msgstr ""
 
 #. [attack]: type=fire
-#: For_Power/units/elementals/Fire_Wisp.cfg:26
+#: For_Power/units/elementals/Fire_Wisp.cfg:25
 msgid "fire claw"
 msgstr ""
 
@@ -15882,14 +15929,14 @@ msgstr ""
 msgid "Rock piles are minor earth elementals made out of solid, living rock. They are resistant to most attacks, but due to their size, have low a defense."
 msgstr ""
 
-#. [unit_type]: id=Water Elemental, race=elemental
+#. [unit_type]: id=Water Elemental, race=elemental, gender=female
 #: For_Power/units/elementals/Water_Elemental.cfg:5
 msgid "Water Elemental"
 msgstr ""
 
-#. [unit_type]: id=Water Elemental, race=elemental
+#. [unit_type]: id=Water Elemental, race=elemental, gender=female
 #: For_Power/units/elementals/Water_Elemental.cfg:21
-msgid "Water animated into the form of a woman. The water elemental is a formidable that resists many attacks and can heal when in water. "
+msgid "Water animated into the form of a woman. The water elemental is a formidable that resists many attacks and can heal when in water."
 msgstr ""
 
 #. [attack]: type=impact
@@ -15923,118 +15970,118 @@ msgstr ""
 msgid "Whirlwind"
 msgstr ""
 
-#. [unit_type]: id=Amiwen_Elvish Seer, race=elf
-#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:7
+#. [unit_type]: id=Amiwen_Elvish Seer, race=elf, gender=female
+#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:5
 msgid "female^Elvish Seer"
 msgstr ""
 
-#. [unit_type]: id=Amiwen_Elvish Seer, race=elf
-#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:22
+#. [unit_type]: id=Amiwen_Elvish Seer, race=elf, gender=female
+#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:20
 msgid "Sometimes, an elf can get so close to the faerie world, that it grants her a knowledge all the other beings never even dreamed about. This allows her to be both a good healer and a powerful spell-caster."
 msgstr ""
 
 #. [advancement]: id=melee
-#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:375
+#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:373
 msgid "better at melee combat"
 msgstr ""
 
 #. [advancement]: id=melee_speed
-#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:389
+#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:387
 msgid "faster at melee combat"
 msgstr ""
 
 #. [advancement]: id=web
-#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:404
+#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:402
 msgid "doing more damage with spiderwebs"
 msgstr ""
 
 #. [advancement]: id=web_speed
-#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:418
+#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:416
 msgid "faster with spiderwebs"
 msgstr ""
 
 #. [advancement]: id=faerie1
 #. [advancement]: id=faerie2_speed
 #. [advancement]: id=faerie3_speed
-#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:434
-#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:465
-#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:481
+#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:432
+#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:463
+#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:479
 msgid "casting faerie fire faster"
 msgstr ""
 
 #. [advancement]: id=faerie2
-#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:450
+#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:448
 msgid "causing more havoc with faerie fire"
 msgstr ""
 
 #. [advancement]: id=wings1
-#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:497
-msgid "more dextrous (+1 movement, 1% better defences on all terrains)"
+#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:495
+msgid "more dextrous (+1 movement, 1% better defenses on all terrains)"
 msgstr ""
 
 #. [advancement]: id=wings2
-#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:530
-msgid "more dextrous (2% better defences on all terrains)"
+#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:528
+msgid "more dextrous (2% better defenses on all terrains)"
 msgstr ""
 
 #. [advancement]: id=woods
-#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:559
+#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:557
 msgid "female^more attuned to the woods"
 msgstr ""
 
 #. [advancement]: id=regeneration
-#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:582
+#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:580
 msgid "female^able to heal self in woods"
 msgstr ""
 
 #. [advancement]: id=guardian_attack
-#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:598
+#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:596
 msgid "female^able to transform into forest guardian during combat"
 msgstr ""
 
 #. [effect]: type=blade
-#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:605
+#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:603
 msgid "nature's fury"
 msgstr ""
 
 #. [advancement]: id=guardian_power
-#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:621
+#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:619
 msgid "doing more damage in guardian form"
 msgstr ""
 
 #. [advancement]: id=guardian_slow
-#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:636
+#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:634
 msgid "female^able to slow enemies in guardian form"
 msgstr ""
 
 #. [advancement]: id=guardian_poison
-#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:654
+#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:652
 msgid "female^able to poison enemies in guardian form"
 msgstr ""
 
 #. [advancement]: id=armour
-#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:672
+#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:670
 msgid "female^better protected from magical attacks (2% better resistances)"
 msgstr ""
 
 #. [advancement]: id=armour2
-#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:691
+#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:689
 msgid "female^better protected from physical blows (5% better resistances)"
 msgstr ""
 
 #. [advancement]: id=health
 #. [advancement]: id=health2
 #. [advancement]: id=health1
-#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:710
-#: For_Power/units/heroes/Blessed_Mage.cfg:788
-#: For_Power/units/heroes/Blessed_Mage.cfg:802
-#: For_Power/units/heroes/Crusader.cfg:272
-#: For_Power/units/heroes/Merissa_Lich.cfg:296
+#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:708
+#: For_Power/units/heroes/Blessed_Mage.cfg:791
+#: For_Power/units/heroes/Blessed_Mage.cfg:805
+#: For_Power/units/heroes/Crusader.cfg:270
+#: For_Power/units/heroes/Merissa_Lich.cfg:294
 msgid "more healthy"
 msgstr ""
 
 #. [advancement]: id=heal2
-#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:725
+#: For_Power/units/heroes/Amiwen_Elvish_Seer.cfg:723
 msgid "female^able to heal allies better"
 msgstr ""
 
@@ -16057,348 +16104,348 @@ msgstr ""
 #. [advancement]: id=staff3
 #. [advancement]: id=staff4
 #. [advancement]: id=staff1
-#: For_Power/units/heroes/Blessed_Mage.cfg:583
-#: For_Power/units/heroes/Blessed_Mage.cfg:598
-#: For_Power/units/heroes/Blessed_Mage.cfg:646
-#: For_Power/units/heroes/Clare_Lich.cfg:364
-#: For_Power/units/heroes/Clare_Lich.cfg:397
-#: For_Power/units/heroes/Clare_Lich.cfg:430
-#: For_Power/units/heroes/Clare_Lich.cfg:461
+#: For_Power/units/heroes/Blessed_Mage.cfg:586
+#: For_Power/units/heroes/Blessed_Mage.cfg:601
+#: For_Power/units/heroes/Blessed_Mage.cfg:649
+#: For_Power/units/heroes/Clare_Lich.cfg:362
+#: For_Power/units/heroes/Clare_Lich.cfg:395
+#: For_Power/units/heroes/Clare_Lich.cfg:428
+#: For_Power/units/heroes/Clare_Lich.cfg:459
 msgid "striking harder with staff"
 msgstr ""
 
 #. [advancement]: id=staff3_marksman
-#: For_Power/units/heroes/Blessed_Mage.cfg:613
+#: For_Power/units/heroes/Blessed_Mage.cfg:616
 msgid "more precise with staff"
 msgstr ""
 
 #. [advancement]: id=staff3_attacks
 #. [advancement]: id=staff4_attacks
-#: For_Power/units/heroes/Blessed_Mage.cfg:631
-#: For_Power/units/heroes/Clare_Lich.cfg:445
-#: For_Power/units/heroes/Clare_Lich.cfg:476
+#: For_Power/units/heroes/Blessed_Mage.cfg:634
+#: For_Power/units/heroes/Clare_Lich.cfg:443
+#: For_Power/units/heroes/Clare_Lich.cfg:474
 msgid "striking faster with staff"
 msgstr ""
 
 #. [advancement]: id=magic2
 #. [advancement]: id=magic3_speed
-#: For_Power/units/heroes/Blessed_Mage.cfg:661
-#: For_Power/units/heroes/Blessed_Mage.cfg:692
+#: For_Power/units/heroes/Blessed_Mage.cfg:664
+#: For_Power/units/heroes/Blessed_Mage.cfg:695
 msgid "casting spells faster"
 msgstr ""
 
 #. [advancement]: id=magic3
 #. [advancement]: id=magic4
 #. [advancement]: id=magic5
-#: For_Power/units/heroes/Blessed_Mage.cfg:677
-#: For_Power/units/heroes/Blessed_Mage.cfg:707
-#: For_Power/units/heroes/Blessed_Mage.cfg:722
+#: For_Power/units/heroes/Blessed_Mage.cfg:680
+#: For_Power/units/heroes/Blessed_Mage.cfg:710
+#: For_Power/units/heroes/Blessed_Mage.cfg:725
 msgid "doing more damage with spells"
 msgstr ""
 
 #. [advancement]: id=regeneration
 #. [advancement]: id=regeneration1
-#: For_Power/units/heroes/Blessed_Mage.cfg:737
-#: For_Power/units/heroes/Clare_Lich.cfg:811
+#: For_Power/units/heroes/Blessed_Mage.cfg:740
+#: For_Power/units/heroes/Clare_Lich.cfg:809
 #: For_Power/units/heroes/Lemyr.cfg:656
-#: For_Power/units/heroes/Lemyr_Lich.cfg:613
-#: For_Power/units/heroes/Merissa_Lich.cfg:348
+#: For_Power/units/heroes/Lemyr_Lich.cfg:612
+#: For_Power/units/heroes/Merissa_Lich.cfg:346
 msgid "regenerating 4 additional hitpoints per turn"
 msgstr ""
 
 #. [advancement]: id=regeneration2
-#: For_Power/units/heroes/Blessed_Mage.cfg:759
+#: For_Power/units/heroes/Blessed_Mage.cfg:762
 msgid "female^immune to poison, drain and plague"
 msgstr ""
 
 #. [advancement]: id=heal
-#: For_Power/units/heroes/Blessed_Mage.cfg:774
+#: For_Power/units/heroes/Blessed_Mage.cfg:777
 msgid "female^able to heal allies"
 msgstr ""
 
 #. [advancement]: id=path_of_light
-#: For_Power/units/heroes/Blessed_Mage.cfg:818
+#: For_Power/units/heroes/Blessed_Mage.cfg:821
 msgid "following the path of light"
 msgstr ""
 
 #. [advancement]: id=holy_magic
-#: For_Power/units/heroes/Blessed_Mage.cfg:844
+#: For_Power/units/heroes/Blessed_Mage.cfg:847
 msgid "female^user of holy magic (sets alignment to lawful)"
 msgstr ""
 
 #. [advancement]: id=shield
-#: For_Power/units/heroes/Blessed_Mage.cfg:872
+#: For_Power/units/heroes/Blessed_Mage.cfg:875
 msgid "female^able to make allies resist damage better (20% to resistances)"
 msgstr ""
 
 #. [advancement]: id=leadership
-#: For_Power/units/heroes/Blessed_Mage.cfg:904
+#: For_Power/units/heroes/Blessed_Mage.cfg:907
 #: For_Power/units/heroes/Lemyr.cfg:486
-#: For_Power/units/heroes/Lemyr_Lich.cfg:701
+#: For_Power/units/heroes/Lemyr_Lich.cfg:700
 msgid "inspiring allies to fight better"
 msgstr ""
 
 #. [advancement]: id=leadership2
-#: For_Power/units/heroes/Blessed_Mage.cfg:936
+#: For_Power/units/heroes/Blessed_Mage.cfg:939
 #: For_Power/units/heroes/Lemyr.cfg:502
-#: For_Power/units/heroes/Lemyr_Lich.cfg:717
+#: For_Power/units/heroes/Lemyr_Lich.cfg:716
 msgid "inspiring allies to fight much better"
 msgstr ""
 
 #. [advancement]: id=illumination
-#: For_Power/units/heroes/Blessed_Mage.cfg:958
+#: For_Power/units/heroes/Blessed_Mage.cfg:961
 #: For_Power/units/heroes/Lemyr.cfg:562
-#: For_Power/units/heroes/Lemyr_Lich.cfg:799
+#: For_Power/units/heroes/Lemyr_Lich.cfg:798
 msgid "illuminating"
 msgstr ""
 
 #. [advancement]: id=illumination2
-#: For_Power/units/heroes/Blessed_Mage.cfg:990
+#: For_Power/units/heroes/Blessed_Mage.cfg:993
 #: For_Power/units/heroes/Lemyr.cfg:578
-#: For_Power/units/heroes/Lemyr_Lich.cfg:815
+#: For_Power/units/heroes/Lemyr_Lich.cfg:814
 msgid "spreading aura of light"
 msgstr ""
 
 #. [advancement]: id=movement
 #. [advancement]: id=speed
-#: For_Power/units/heroes/Blessed_Mage.cfg:1013
-#: For_Power/units/heroes/Clare_Lich.cfg:628
-#: For_Power/units/heroes/Crusader.cfg:345
+#: For_Power/units/heroes/Blessed_Mage.cfg:1016
+#: For_Power/units/heroes/Clare_Lich.cfg:626
+#: For_Power/units/heroes/Crusader.cfg:343
 #: For_Power/units/heroes/Lemyr.cfg:609
-#: For_Power/units/heroes/Lemyr_Lich.cfg:548
-#: For_Power/units/heroes/Merissa_Lich.cfg:220
-#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:261
+#: For_Power/units/heroes/Lemyr_Lich.cfg:546
+#: For_Power/units/heroes/Merissa_Lich.cfg:218
+#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:259
 msgid "faster"
 msgstr ""
 
-#. [unit_type]: id=Clare_Lich, race=undead
-#. [unit_type]: id=Merissa_Lich, race=undead
-#: For_Power/units/heroes/Clare_Lich.cfg:7
-#: For_Power/units/heroes/Merissa_Lich.cfg:7
+#. [unit_type]: id=Clare_Lich, race=undead, gender=female
+#. [unit_type]: id=Merissa_Lich, race=undead, gender=female
+#: For_Power/units/heroes/Clare_Lich.cfg:5
+#: For_Power/units/heroes/Merissa_Lich.cfg:5
 msgid "female^Preserved Lich"
 msgstr ""
 
-#. [unit_type]: id=Clare_Lich, race=undead
-#: For_Power/units/heroes/Clare_Lich.cfg:28
+#. [unit_type]: id=Clare_Lich, race=undead, gender=female
+#: For_Power/units/heroes/Clare_Lich.cfg:26
 msgid ""
-"Preserved liches are an exotic kind of liches, they are far more powerful than mere liches. Only a few of them roam the world and each of them possesses completly different powers. They kept their weapons and abilities which they wielded in life but as they can exist for millennia they may master them and even learn a lot of new things.\n"
+"Preserved liches are an exotic kind of liches, they are far more powerful than mere liches. Only a few of them roam the world and each of them possesses completely different powers. They kept their weapons and abilities which they wielded in life but as they can exist for millennia they may master them and even learn a lot of new things.\n"
 "\n"
-"This particular preserved lich was once a Silver Mage. She holds a staff and can cast missiles. She can learn 2 more spells: entangle and shadow wave. As a magic user herself, she can learn to protect her better from spells. If she decides to explore the dark side, she will be able to decrease damage and resistnaces of nearby enemies, do a few new things with her staff and even become invisible during night."
+"This particular preserved lich was once a Silver Mage. She holds a staff and can cast missiles. She can learn 2 more spells: entangle and shadow wave. As a magic user herself, she can learn to protect her better from spells. If she decides to explore the dark side, she will be able to decrease damage and resistances of nearby enemies, do a few new things with her staff and even become invisible during night."
 msgstr ""
 
 #. [advancement]: id=staff1_misorcia
-#: For_Power/units/heroes/Clare_Lich.cfg:379
+#: For_Power/units/heroes/Clare_Lich.cfg:377
 msgid "dealing more damage to orcs with staff"
 msgstr ""
 
 #. [advancement]: id=staff2_plague
-#: For_Power/units/heroes/Clare_Lich.cfg:412
+#: For_Power/units/heroes/Clare_Lich.cfg:410
 msgid "creating undead with staff"
 msgstr ""
 
 #. [advancement]: id=staff4_plague
-#: For_Power/units/heroes/Clare_Lich.cfg:492
+#: For_Power/units/heroes/Clare_Lich.cfg:490
 msgid "creating better undead with staff"
 msgstr ""
 
 #. [advancement]: id=missile1
 #. [advancement]: id=missile2_speed
-#: For_Power/units/heroes/Clare_Lich.cfg:511
-#: For_Power/units/heroes/Clare_Lich.cfg:542
+#: For_Power/units/heroes/Clare_Lich.cfg:509
+#: For_Power/units/heroes/Clare_Lich.cfg:540
 msgid "casting missiles faster"
 msgstr ""
 
 #. [advancement]: id=missile2
-#: For_Power/units/heroes/Clare_Lich.cfg:527
+#: For_Power/units/heroes/Clare_Lich.cfg:525
 msgid "causing more havoc with missile"
 msgstr ""
 
 #. [advancement]: id=entangle1
-#: For_Power/units/heroes/Clare_Lich.cfg:558
+#: For_Power/units/heroes/Clare_Lich.cfg:556
 msgid "female^able to entangle enemies"
 msgstr ""
 
 #. [advancement]: id=entangle2
-#: For_Power/units/heroes/Clare_Lich.cfg:580
+#: For_Power/units/heroes/Clare_Lich.cfg:578
 msgid "harming enemies more when entangling"
 msgstr ""
 
 #. [advancement]: id=entangle3_marksman
-#: For_Power/units/heroes/Clare_Lich.cfg:595
+#: For_Power/units/heroes/Clare_Lich.cfg:593
 msgid "more precise when entangling"
 msgstr ""
 
 #. [advancement]: id=entangle4_speed
-#: For_Power/units/heroes/Clare_Lich.cfg:613
+#: For_Power/units/heroes/Clare_Lich.cfg:611
 msgid "faster with entangling"
 msgstr ""
 
 #. [advancement]: id=movement3
-#: For_Power/units/heroes/Clare_Lich.cfg:642
+#: For_Power/units/heroes/Clare_Lich.cfg:640
 msgid "female^able to muster enough mental powers to levitate through hard terrains"
 msgstr ""
 
 #. [advancement]: id=armour
-#: For_Power/units/heroes/Clare_Lich.cfg:675
+#: For_Power/units/heroes/Clare_Lich.cfg:673
 msgid "female^better protected from magical attacks (2 or 3% better resistances)"
 msgstr ""
 
 #. [advancement]: id=armour2
-#: For_Power/units/heroes/Clare_Lich.cfg:694
+#: For_Power/units/heroes/Clare_Lich.cfg:692
 msgid "female^better protected from physical blows (1% better resistances)"
 msgstr ""
 
 #. [advancement]: id=possessed
-#: For_Power/units/heroes/Clare_Lich.cfg:713
+#: For_Power/units/heroes/Clare_Lich.cfg:711
 msgid "studying secrets of life and death (more hitpoints but worse arcane resistance)"
 msgstr ""
 
 #. [advancement]: id=drain
-#: For_Power/units/heroes/Clare_Lich.cfg:734
+#: For_Power/units/heroes/Clare_Lich.cfg:732
 msgid "female^able to drain life force from living enemies (but worse arcane resistance)"
 msgstr ""
 
 #. [advancement]: id=cold
-#: For_Power/units/heroes/Clare_Lich.cfg:760
+#: For_Power/units/heroes/Clare_Lich.cfg:758
 msgid "female^cold-hearted (better cold resistance)"
 msgstr ""
 
 #. [advancement]: id=cold1
-#: For_Power/units/heroes/Clare_Lich.cfg:777
+#: For_Power/units/heroes/Clare_Lich.cfg:775
 msgid "female^more cold-hearted (better cold resistance)"
 msgstr ""
 
 #. [advancement]: id=fire
-#: For_Power/units/heroes/Clare_Lich.cfg:794
+#: For_Power/units/heroes/Clare_Lich.cfg:792
 msgid "female^better protected from fire"
 msgstr ""
 
 #. [advancement]: id=regeneration1
 #. [advancement]: id=regeneration2
-#: For_Power/units/heroes/Clare_Lich.cfg:833
+#: For_Power/units/heroes/Clare_Lich.cfg:831
 #: For_Power/units/heroes/Lemyr.cfg:678
-#: For_Power/units/heroes/Lemyr_Lich.cfg:635
-#: For_Power/units/heroes/Merissa_Lich.cfg:370
+#: For_Power/units/heroes/Lemyr_Lich.cfg:634
+#: For_Power/units/heroes/Merissa_Lich.cfg:368
 msgid "regenerating 2 additional hitpoints per turn"
 msgstr ""
 
 #. [advancement]: id=regeneration2
 #. [advancement]: id=regeneration3
-#: For_Power/units/heroes/Clare_Lich.cfg:855
-#: For_Power/units/heroes/Clare_Lich.cfg:877
-#: For_Power/units/heroes/Lemyr_Lich.cfg:657
-#: For_Power/units/heroes/Lemyr_Lich.cfg:679
+#: For_Power/units/heroes/Clare_Lich.cfg:853
+#: For_Power/units/heroes/Clare_Lich.cfg:875
+#: For_Power/units/heroes/Lemyr_Lich.cfg:656
+#: For_Power/units/heroes/Lemyr_Lich.cfg:678
 msgid "regenerating 3 additional hitpoints per turn"
 msgstr ""
 
 #. [advancement]: id=darkness
-#: For_Power/units/heroes/Clare_Lich.cfg:899
+#: For_Power/units/heroes/Clare_Lich.cfg:897
 msgid "female^connected with darkness (spread despair but worse arcane resistance)"
 msgstr ""
 
 #. [advancement]: id=darkness1
-#: For_Power/units/heroes/Clare_Lich.cfg:922
+#: For_Power/units/heroes/Clare_Lich.cfg:920
 msgid "female^more connected with darkness (spread even greater despair and invisible during the night but worse arcane resistance)"
 msgstr ""
 
 #. [advancement]: id=shadowwave1
-#: For_Power/units/heroes/Clare_Lich.cfg:952
+#: For_Power/units/heroes/Clare_Lich.cfg:950
 msgid "female^able to cast shadow wave"
 msgstr ""
 
 #. [advancement]: id=shadowwave2
-#: For_Power/units/heroes/Clare_Lich.cfg:975
+#: For_Power/units/heroes/Clare_Lich.cfg:973
 msgid "doing more damage with shadow wave"
 msgstr ""
 
 #. [advancement]: id=shadowwave3
-#: For_Power/units/heroes/Clare_Lich.cfg:990
+#: For_Power/units/heroes/Clare_Lich.cfg:988
 msgid "casting shadow wave faster"
 msgstr ""
 
 #. [advancement]: id=shadowwave4
-#: For_Power/units/heroes/Clare_Lich.cfg:1005
+#: For_Power/units/heroes/Clare_Lich.cfg:1003
 msgid "hitting more enemies with shadow wave"
 msgstr ""
 
 #. [advancement]: id=conviction
-#: For_Power/units/heroes/Clare_Lich.cfg:1024
+#: For_Power/units/heroes/Clare_Lich.cfg:1022
 msgid "decreasing resistances of adjacent enemies by 15%"
 msgstr ""
 
 #. [advancement]: id=conviction1
-#: For_Power/units/heroes/Clare_Lich.cfg:1040
+#: For_Power/units/heroes/Clare_Lich.cfg:1038
 msgid "decreasing resistances of adjacent enemies by 20%"
 msgstr ""
 
 #. [advancement]: id=conviction2
-#: For_Power/units/heroes/Clare_Lich.cfg:1062
+#: For_Power/units/heroes/Clare_Lich.cfg:1060
 msgid "decreasing resistances of adjacent enemies by 25%"
 msgstr ""
 
 #. [advancement]: id=conviction3
-#: For_Power/units/heroes/Clare_Lich.cfg:1084
+#: For_Power/units/heroes/Clare_Lich.cfg:1082
 msgid "decreasing resistances of adjacent enemies by 30%"
 msgstr ""
 
 #. [advancement]: id=conviction4
-#: For_Power/units/heroes/Clare_Lich.cfg:1106
+#: For_Power/units/heroes/Clare_Lich.cfg:1104
 msgid "decreasing resistances of adjacent enemies by 35%"
 msgstr ""
 
 #. [advancement]: id=primeval_force
-#: For_Power/units/heroes/Clare_Lich.cfg:1128
+#: For_Power/units/heroes/Clare_Lich.cfg:1126
 msgid "female^connected with primeval forces"
 msgstr ""
 
 #. [advancement]: id=primeval_force_attack
-#: For_Power/units/heroes/Clare_Lich.cfg:1143
+#: For_Power/units/heroes/Clare_Lich.cfg:1141
 msgid "female^able to transform into phantom"
 msgstr ""
 
 #. [effect]: type=cold
-#: For_Power/units/heroes/Clare_Lich.cfg:1149
+#: For_Power/units/heroes/Clare_Lich.cfg:1147
 msgid "primeval force"
 msgstr ""
 
 #. [advancement]: id=primeval_force_damage
-#: For_Power/units/heroes/Clare_Lich.cfg:1166
+#: For_Power/units/heroes/Clare_Lich.cfg:1164
 msgid "doing more damage in phantom form"
 msgstr ""
 
 #. [advancement]: id=primeval_force_curse
-#: For_Power/units/heroes/Clare_Lich.cfg:1181
+#: For_Power/units/heroes/Clare_Lich.cfg:1179
 msgid "female^able to lower enemy resistances in phantom form"
 msgstr ""
 
 #. [advancement]: id=primeval_force_drain
-#: For_Power/units/heroes/Clare_Lich.cfg:1199
+#: For_Power/units/heroes/Clare_Lich.cfg:1197
 msgid "draining enemy's life force in phantom form"
 msgstr ""
 
 #. [variation]: id=Clare_Lich
-#: For_Power/units/heroes/Clare_Lich.cfg:1216
+#: For_Power/units/heroes/Clare_Lich.cfg:1214
 msgid "Redeemer"
 msgstr ""
 
 #. [attack]: type=arcane
-#: For_Power/units/heroes/Clare_Lich.cfg:1241
-#: For_Power/units/heroes/Lemyr_Lich.cfg:72
+#: For_Power/units/heroes/Clare_Lich.cfg:1239
+#: For_Power/units/heroes/Lemyr_Lich.cfg:70
 msgid "redeem"
 msgstr ""
 
-#. [unit_type]: id=Jolla_Crusader, race=human
-#: For_Power/units/heroes/Crusader.cfg:7
+#. [unit_type]: id=Jolla_Crusader, race=human, gender=female
+#: For_Power/units/heroes/Crusader.cfg:5
 msgid "female^Crusader"
 msgstr ""
 
-#. [unit_type]: id=Jolla_Crusader, race=human
-#: For_Power/units/heroes/Crusader.cfg:21
+#. [unit_type]: id=Jolla_Crusader, race=human, gender=female
+#: For_Power/units/heroes/Crusader.cfg:19
 msgid "After spending her lifetime fighting against evil schemes and scouring libraries with long forgotten knowledge, this old lady has achieved level of power never seen before. The years on the battlefield also taught her to protect her and her brothers and sisters-in-arms from harm. Despite her old age, she continues to bring light and hope to the world in these troubled times."
 msgstr ""
 
 #. [advancement]: id=mace
-#: For_Power/units/heroes/Crusader.cfg:220
+#: For_Power/units/heroes/Crusader.cfg:218
 msgid "better with morning star"
 msgstr ""
 
@@ -16406,51 +16453,51 @@ msgstr ""
 #. [advancement]: id=magic4
 #. [advancement]: id=magic5
 #. [advancement]: id=magic6
-#: For_Power/units/heroes/Crusader.cfg:235
+#: For_Power/units/heroes/Crusader.cfg:233
 #: For_Power/units/heroes/Lemyr.cfg:794
 #: For_Power/units/heroes/Lemyr.cfg:809
 #: For_Power/units/heroes/Lemyr.cfg:839
-#: For_Power/units/heroes/Lemyr_Lich.cfg:921
+#: For_Power/units/heroes/Lemyr_Lich.cfg:920
 msgid "better with lightbeam"
 msgstr ""
 
 #. [advancement]: id=healing
-#: For_Power/units/heroes/Crusader.cfg:250
+#: For_Power/units/heroes/Crusader.cfg:248
 msgid "female^able to heal allies more"
 msgstr ""
 
 #. [advancement]: id=divinerage
-#: For_Power/units/heroes/Crusader.cfg:286
+#: For_Power/units/heroes/Crusader.cfg:284
 msgid "female^able to unleash (and control) her anger in battle"
 msgstr ""
 
 #. [effect]: type=fire
-#: For_Power/units/heroes/Crusader.cfg:293
+#: For_Power/units/heroes/Crusader.cfg:291
 msgid "divine rage"
 msgstr ""
 
 #. [berserk]: id=berserk
-#: For_Power/units/heroes/Crusader.cfg:303
+#: For_Power/units/heroes/Crusader.cfg:301
 msgid "Whether used offensively or defensively, this attack presses the engagement until one of the combatants is slain, or 3 rounds of attacks have occurred."
 msgstr ""
 
 #. [damage]: id=burning light
-#: For_Power/units/heroes/Crusader.cfg:308
+#: For_Power/units/heroes/Crusader.cfg:306
 msgid "burning light"
 msgstr ""
 
 #. [damage]: id=burning light
-#: For_Power/units/heroes/Crusader.cfg:309
+#: For_Power/units/heroes/Crusader.cfg:307
 msgid "This attack does more damage on chaotic units."
 msgstr ""
 
 #. [advancement]: id=divinerage2
-#: For_Power/units/heroes/Crusader.cfg:327
+#: For_Power/units/heroes/Crusader.cfg:325
 msgid "female^able to better control her anger in battle"
 msgstr ""
 
 #. [advancement]: id=resist_arcane
-#: For_Power/units/heroes/Crusader.cfg:359
+#: For_Power/units/heroes/Crusader.cfg:357
 msgid "female^better protected from arcane damage (10% better resistance)"
 msgstr ""
 
@@ -16514,37 +16561,37 @@ msgstr ""
 
 #. [advancement]: id=healing
 #: For_Power/units/heroes/Lemyr.cfg:524
-#: For_Power/units/heroes/Lemyr_Lich.cfg:761
+#: For_Power/units/heroes/Lemyr_Lich.cfg:760
 msgid "able to heal allies more"
 msgstr ""
 
 #. [advancement]: id=healing2
 #: For_Power/units/heroes/Lemyr.cfg:546
-#: For_Power/units/heroes/Lemyr_Lich.cfg:783
+#: For_Power/units/heroes/Lemyr_Lich.cfg:782
 msgid "able to cure allies"
 msgstr ""
 
 #. [advancement]: id=armour
 #: For_Power/units/heroes/Lemyr.cfg:623
-#: For_Power/units/heroes/Lemyr_Lich.cfg:576
+#: For_Power/units/heroes/Lemyr_Lich.cfg:574
 msgid "better protected from physical blows (2% better resistances)"
 msgstr ""
 
 #. [advancement]: id=hardy
 #: For_Power/units/heroes/Lemyr.cfg:642
-#: For_Power/units/heroes/Lemyr_Lich.cfg:562
+#: For_Power/units/heroes/Lemyr_Lich.cfg:560
 msgid "more hardy"
 msgstr ""
 
 #. [advancement]: id=armour2
 #: For_Power/units/heroes/Lemyr.cfg:700
-#: For_Power/units/heroes/Lemyr_Lich.cfg:594
+#: For_Power/units/heroes/Lemyr_Lich.cfg:593
 msgid "better protected from magical attacks (1 or 2% better resistances)"
 msgstr ""
 
 #. [advancement]: id=magic1
 #: For_Power/units/heroes/Lemyr.cfg:719
-#: For_Power/units/heroes/Lemyr_Lich.cfg:846
+#: For_Power/units/heroes/Lemyr_Lich.cfg:845
 msgid "able to use lightbeam"
 msgstr ""
 
@@ -16552,8 +16599,8 @@ msgstr ""
 #. [advancement]: id=magic3
 #: For_Power/units/heroes/Lemyr.cfg:739
 #: For_Power/units/heroes/Lemyr.cfg:758
-#: For_Power/units/heroes/Lemyr_Lich.cfg:866
-#: For_Power/units/heroes/Lemyr_Lich.cfg:885
+#: For_Power/units/heroes/Lemyr_Lich.cfg:865
+#: For_Power/units/heroes/Lemyr_Lich.cfg:884
 msgid "better with lightbeam (also increases chance to hit)"
 msgstr ""
 
@@ -16564,15 +16611,15 @@ msgstr ""
 msgid "faster with lightbeam"
 msgstr ""
 
-#. [unit_type]: id=Lemyr_Lich, race=undead
-#: For_Power/units/heroes/Lemyr_Lich.cfg:7
+#. [unit_type]: id=Lemyr_Lich, race=undead, gender=male
+#: For_Power/units/heroes/Lemyr_Lich.cfg:5
 msgid "Preserved Lich"
 msgstr ""
 
-#. [unit_type]: id=Lemyr_Lich, race=undead
-#: For_Power/units/heroes/Lemyr_Lich.cfg:28
+#. [unit_type]: id=Lemyr_Lich, race=undead, gender=male
+#: For_Power/units/heroes/Lemyr_Lich.cfg:26
 msgid ""
-"Preserved liches are an exotic kind of liches, they are far more powerful than mere liches. Only a few of them roam the world and each of them possesses completly different powers. They kept their weapons and abilities which they wielded in life but as they can exist for millennia they may master them and even learn a lot of new things.\n"
+"Preserved liches are an exotic kind of liches, they are far more powerful than mere liches. Only a few of them roam the world and each of them possesses completely different powers. They kept their weapons and abilities which they wielded in life but as they can exist for millennia they may master them and even learn a lot of new things.\n"
 "\n"
 "This particular preserved lich was once a Paladin. He still uses his sword and lance to fight the evil. Once he advances on the path of light, he can learn a lot of new abilities which will make him a great leader/supporter. He can also learn to cast lightbeam."
 msgstr ""
@@ -16583,264 +16630,264 @@ msgstr ""
 #. [advancement]: id=sword4
 #. [advancement]: id=sword5
 #. [advancement]: id=sword6
-#: For_Power/units/heroes/Lemyr_Lich.cfg:329
-#: For_Power/units/heroes/Lemyr_Lich.cfg:360
-#: For_Power/units/heroes/Lemyr_Lich.cfg:393
-#: For_Power/units/heroes/Lemyr_Lich.cfg:408
-#: For_Power/units/heroes/Lemyr_Lich.cfg:423
-#: For_Power/units/heroes/Lemyr_Lich.cfg:454
+#: For_Power/units/heroes/Lemyr_Lich.cfg:327
+#: For_Power/units/heroes/Lemyr_Lich.cfg:358
+#: For_Power/units/heroes/Lemyr_Lich.cfg:391
+#: For_Power/units/heroes/Lemyr_Lich.cfg:406
+#: For_Power/units/heroes/Lemyr_Lich.cfg:421
+#: For_Power/units/heroes/Lemyr_Lich.cfg:452
 msgid "striking harder with sword"
 msgstr ""
 
 #. [advancement]: id=sword1_speed
 #. [advancement]: id=sword5_speed
-#: For_Power/units/heroes/Lemyr_Lich.cfg:344
-#: For_Power/units/heroes/Lemyr_Lich.cfg:438
+#: For_Power/units/heroes/Lemyr_Lich.cfg:342
+#: For_Power/units/heroes/Lemyr_Lich.cfg:436
 msgid "striking faster with sword"
 msgstr ""
 
 #. [advancement]: id=sword2_doom
-#: For_Power/units/heroes/Lemyr_Lich.cfg:375
+#: For_Power/units/heroes/Lemyr_Lich.cfg:373
 msgid "lowering enemy's resistances with sword"
 msgstr ""
 
 #. [advancement]: id=lance1
 #. [advancement]: id=lance2
 #. [advancement]: id=lance3
-#: For_Power/units/heroes/Lemyr_Lich.cfg:469
-#: For_Power/units/heroes/Lemyr_Lich.cfg:500
-#: For_Power/units/heroes/Lemyr_Lich.cfg:533
+#: For_Power/units/heroes/Lemyr_Lich.cfg:467
+#: For_Power/units/heroes/Lemyr_Lich.cfg:498
+#: For_Power/units/heroes/Lemyr_Lich.cfg:531
 msgid "striking harder with lance"
 msgstr ""
 
 #. [advancement]: id=lance1_speed
-#: For_Power/units/heroes/Lemyr_Lich.cfg:484
+#: For_Power/units/heroes/Lemyr_Lich.cfg:482
 msgid "striking faster with lance"
 msgstr ""
 
 #. [advancement]: id=lance2_knockback
-#: For_Power/units/heroes/Lemyr_Lich.cfg:515
+#: For_Power/units/heroes/Lemyr_Lich.cfg:513
 msgid "knocking back enemies with lance"
 msgstr ""
 
 #. [advancement]: id=leadership3
-#: For_Power/units/heroes/Lemyr_Lich.cfg:739
+#: For_Power/units/heroes/Lemyr_Lich.cfg:738
 msgid "inspiring allies to fight even much better"
 msgstr ""
 
 #. [advancement]: id=magic3_speed
 #. [advancement]: id=magic4_speed
-#: For_Power/units/heroes/Lemyr_Lich.cfg:905
-#: For_Power/units/heroes/Lemyr_Lich.cfg:936
+#: For_Power/units/heroes/Lemyr_Lich.cfg:904
+#: For_Power/units/heroes/Lemyr_Lich.cfg:935
 msgid "casting lightbeam faster"
 msgstr ""
 
 #. [advancement]: id=shield
-#: For_Power/units/heroes/Lemyr_Lich.cfg:952
+#: For_Power/units/heroes/Lemyr_Lich.cfg:951
 msgid "able to make allies resist damage better (15% to resistances)"
 msgstr ""
 
 #. [advancement]: id=shield2
-#: For_Power/units/heroes/Lemyr_Lich.cfg:968
+#: For_Power/units/heroes/Lemyr_Lich.cfg:967
 msgid "able to make allies resist damage better (20% to resistances)"
 msgstr ""
 
 #. [advancement]: id=shield3
-#: For_Power/units/heroes/Lemyr_Lich.cfg:990
+#: For_Power/units/heroes/Lemyr_Lich.cfg:989
 msgid "able to make allies resist damage better (25% to resistances)"
 msgstr ""
 
 #. [advancement]: id=shield4
-#: For_Power/units/heroes/Lemyr_Lich.cfg:1012
+#: For_Power/units/heroes/Lemyr_Lich.cfg:1011
 msgid "able to make allies resist damage better (30% to resistances)"
 msgstr ""
 
 #. [advancement]: id=shield5
-#: For_Power/units/heroes/Lemyr_Lich.cfg:1034
+#: For_Power/units/heroes/Lemyr_Lich.cfg:1033
 msgid "able to make allies resist damage better (35% to resistances)"
 msgstr ""
 
 #. [advancement]: id=guardian
-#: For_Power/units/heroes/Lemyr_Lich.cfg:1056
+#: For_Power/units/heroes/Lemyr_Lich.cfg:1055
 msgid "10% to all resistances if there are adjacent allies"
 msgstr ""
 
 #. [advancement]: id=guardian2
-#: For_Power/units/heroes/Lemyr_Lich.cfg:1072
+#: For_Power/units/heroes/Lemyr_Lich.cfg:1071
 msgid "15% to all resistances if there are adjacent allies"
 msgstr ""
 
 #. [advancement]: id=guardian3
-#: For_Power/units/heroes/Lemyr_Lich.cfg:1094
+#: For_Power/units/heroes/Lemyr_Lich.cfg:1093
 msgid "20% to all resistances if there are adjacent allies"
 msgstr ""
 
 #. [advancement]: id=guardian_attack
-#: For_Power/units/heroes/Lemyr_Lich.cfg:1116
+#: For_Power/units/heroes/Lemyr_Lich.cfg:1115
 msgid "able to transform into earth guardian during combat"
 msgstr ""
 
 #. [effect]: type=impact
-#: For_Power/units/heroes/Lemyr_Lich.cfg:1123
+#: For_Power/units/heroes/Lemyr_Lich.cfg:1122
 msgid "earth's fury"
 msgstr ""
 
 #. [advancement]: id=guardian_drain
-#: For_Power/units/heroes/Lemyr_Lich.cfg:1139
+#: For_Power/units/heroes/Lemyr_Lich.cfg:1138
 msgid "able to drain life force in guardian form"
 msgstr ""
 
 #. [advancement]: id=guardian_scourge
-#: For_Power/units/heroes/Lemyr_Lich.cfg:1157
+#: For_Power/units/heroes/Lemyr_Lich.cfg:1156
 msgid "making enemies bleed in guardian form"
 msgstr ""
 
-#. [unit_type]: id=Merissa_Lich, race=undead
-#: For_Power/units/heroes/Merissa_Lich.cfg:28
+#. [unit_type]: id=Merissa_Lich, race=undead, gender=female
+#: For_Power/units/heroes/Merissa_Lich.cfg:26
 msgid ""
-"Preserved liches are an exotic kind of liches, they are far more powerful than mere liches. Only a few of them roam the world and each of them possesses completly different powers. They kept their weapons and abilities which they wielded in life but as they can exist for millennia they may master them and even learn a lot of new things.\n"
+"Preserved liches are an exotic kind of liches, they are far more powerful than mere liches. Only a few of them roam the world and each of them possesses completely different powers. They kept their weapons and abilities which they wielded in life but as they can exist for millennia they may master them and even learn a lot of new things.\n"
 "\n"
-"This particular preserved lich was once an infamous criminal but once she met Clare, she decided to do good deeds with her new friend. She learnt to use a quarterstaff and a special spell. She is quite fast and nimble but she did not reach her limits in either yet. She can also learn to use chill tempest. Despite her intention to change her ways, she still has some connection with the underworld and many criminals will aid her if she asks and they might even fight better under her command."
+"This particular preserved lich was once an infamous criminal but once she met Clare, she decided to do good deeds with her new friend. She learned to use a quarterstaff and a special spell. She is quite fast and nimble but she did not reach her limits in either yet. She can also learn to use chill tempest. Despite her intention to change her ways, she still has some connection with the underworld and many criminals will aid her if she asks and they might even fight better under her command."
 msgstr ""
 
 #. [attack]: type=impact
-#: For_Power/units/heroes/Merissa_Lich.cfg:46
-#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:40
+#: For_Power/units/heroes/Merissa_Lich.cfg:44
+#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:38
 msgid "quarterstaff"
 msgstr ""
 
 #. [attack]: type=impact
-#: For_Power/units/heroes/Merissa_Lich.cfg:55
-#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:49
+#: For_Power/units/heroes/Merissa_Lich.cfg:53
+#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:47
 msgid "magic blast"
 msgstr ""
 
 #. [advancement]: id=quarterstaff
 #. [advancement]: id=quarterstaff4
 #. [advancement]: id=quarterstaff3
-#: For_Power/units/heroes/Merissa_Lich.cfg:112
-#: For_Power/units/heroes/Merissa_Lich.cfg:159
-#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:125
-#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:155
-#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:170
+#: For_Power/units/heroes/Merissa_Lich.cfg:110
+#: For_Power/units/heroes/Merissa_Lich.cfg:157
+#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:123
+#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:153
+#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:168
 msgid "striking harder with quarterstaff"
 msgstr ""
 
 #. [advancement]: id=quarterstaff2
 #. [advancement]: id=quarterstaff3
-#: For_Power/units/heroes/Merissa_Lich.cfg:127
-#: For_Power/units/heroes/Merissa_Lich.cfg:143
-#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:140
+#: For_Power/units/heroes/Merissa_Lich.cfg:125
+#: For_Power/units/heroes/Merissa_Lich.cfg:141
+#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:138
 msgid "striking faster with quarterstaff"
 msgstr ""
 
 #. [advancement]: id=magic
 #. [advancement]: id=magic3
-#: For_Power/units/heroes/Merissa_Lich.cfg:174
-#: For_Power/units/heroes/Merissa_Lich.cfg:205
-#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:185
-#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:216
+#: For_Power/units/heroes/Merissa_Lich.cfg:172
+#: For_Power/units/heroes/Merissa_Lich.cfg:203
+#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:183
+#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:214
 msgid "doing more damage with magic blast"
 msgstr ""
 
 #. [advancement]: id=magic2
-#: For_Power/units/heroes/Merissa_Lich.cfg:189
-#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:200
+#: For_Power/units/heroes/Merissa_Lich.cfg:187
+#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:198
 msgid "casting magic blast faster"
 msgstr ""
 
 #. [advancement]: id=skirmisher
-#: For_Power/units/heroes/Merissa_Lich.cfg:234
+#: For_Power/units/heroes/Merissa_Lich.cfg:232
 msgid "female^able to sneak through hordes of enemies"
 msgstr ""
 
 #. [advancement]: id=nightstalk
-#: For_Power/units/heroes/Merissa_Lich.cfg:280
+#: For_Power/units/heroes/Merissa_Lich.cfg:278
 msgid "female^invisible during night"
 msgstr ""
 
 #. [advancement]: id=armour_physical1
-#: For_Power/units/heroes/Merissa_Lich.cfg:310
+#: For_Power/units/heroes/Merissa_Lich.cfg:308
 msgid "female^better protected from physical blows (3% better resistances)"
 msgstr ""
 
 #. [advancement]: id=armour_magical1
-#: For_Power/units/heroes/Merissa_Lich.cfg:329
+#: For_Power/units/heroes/Merissa_Lich.cfg:327
 msgid "female^better protected from magical attacks (3% better resistances)"
 msgstr ""
 
 #. [advancement]: id=drain1
-#: For_Power/units/heroes/Merissa_Lich.cfg:392
+#: For_Power/units/heroes/Merissa_Lich.cfg:390
 msgid "female^able to drain life force from living enemies"
 msgstr ""
 
 #. [advancement]: id=chill1
-#: For_Power/units/heroes/Merissa_Lich.cfg:411
+#: For_Power/units/heroes/Merissa_Lich.cfg:409
 msgid "female^able to cast chill tempest"
 msgstr ""
 
 #. [advancement]: id=chill2
-#: For_Power/units/heroes/Merissa_Lich.cfg:434
+#: For_Power/units/heroes/Merissa_Lich.cfg:432
 msgid "casting chill tempest faster"
 msgstr ""
 
 #. [advancement]: id=chill3
-#: For_Power/units/heroes/Merissa_Lich.cfg:449
+#: For_Power/units/heroes/Merissa_Lich.cfg:447
 msgid "doing more damage with casting chill tempest"
 msgstr ""
 
 #. [advancement]: id=chill5
-#: For_Power/units/heroes/Merissa_Lich.cfg:464
+#: For_Power/units/heroes/Merissa_Lich.cfg:462
 msgid "freezing enemies with chill tempest"
 msgstr ""
 
 #. [advancement]: id=leadership1
-#: For_Power/units/heroes/Merissa_Lich.cfg:482
+#: For_Power/units/heroes/Merissa_Lich.cfg:480
 msgid "inspiring fellow bandits to fight better"
 msgstr ""
 
 #. [advancement]: id=leadership2
-#: For_Power/units/heroes/Merissa_Lich.cfg:498
+#: For_Power/units/heroes/Merissa_Lich.cfg:496
 msgid "inspiring fellow bandits to fight much better"
 msgstr ""
 
 #. [advancement]: id=shield
-#: For_Power/units/heroes/Merissa_Lich.cfg:520
+#: For_Power/units/heroes/Merissa_Lich.cfg:518
 msgid "female^able to make fellow bandits resist pain better (20% to resistances)"
 msgstr ""
 
 #. [advancement]: id=movement1
-#: For_Power/units/heroes/Merissa_Lich.cfg:536
+#: For_Power/units/heroes/Merissa_Lich.cfg:534
 msgid "female^able to move after attacking enemy"
 msgstr ""
 
 #. [advancement]: id=movement2
-#: For_Power/units/heroes/Merissa_Lich.cfg:552
+#: For_Power/units/heroes/Merissa_Lich.cfg:550
 msgid "female^able to move more after attacking enemy"
 msgstr ""
 
 #. [advancement]: id=movement3
-#: For_Power/units/heroes/Merissa_Lich.cfg:574
+#: For_Power/units/heroes/Merissa_Lich.cfg:572
 msgid "female^able to move even more after attacking enemy"
 msgstr ""
 
 #. [advancement]: id=movement_leadership
-#: For_Power/units/heroes/Merissa_Lich.cfg:596
+#: For_Power/units/heroes/Merissa_Lich.cfg:594
 msgid "allowing nearby allies to move after attacking enemy"
 msgstr ""
 
-#. [unit_type]: id=Tinry_Shadow Prince, race=human
-#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:7
+#. [unit_type]: id=Tinry_Shadow Prince, race=human, gender=male
+#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:5
 msgid "Shadow Prince"
 msgstr ""
 
-#. [unit_type]: id=Tinry_Shadow Prince, race=human
-#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:27
+#. [unit_type]: id=Tinry_Shadow Prince, race=human, gender=male
+#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:25
 msgid "After years of life as a criminal, the outlaw gains pride and no longer feels the need to behave like a brute. To teach the others that they are superior too, they learn some magic, and practice fighting with a staff that they used when learning magic. Their authority above other criminals is so great, that they can hide in any settlement."
 msgstr ""
 
 #. [advancement]: id=nightstalk
-#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:275
+#: For_Power/units/heroes/Tinry_Shadow_Prince.cfg:273
 msgid "invisible during night"
 msgstr ""
 
@@ -16851,16 +16898,16 @@ msgstr ""
 
 #. [unit_type]: id=Blackguard, race=human
 #: For_Power/units/humans/Blackguard.cfg:19
-msgid "Blackguards are either outlaws who were even knighted for causing severe havoc in a land by a rival landlord, or knights whose love for war and gold has gone far beyond reason. They do not behave like knights, rather like a twisted opposite of knights. Clad in black armour, radiating darkness, preferring to fight in the dead of night, attacking by surprise and scaring enemies by their appearance."
+msgid "Blackguards are either outlaws who were even knighted for causing severe havoc in a land by a rival landlord, or knights whose love for war and gold has gone far beyond reason. They do not behave like knights, rather like a twisted opposite of knights. Clad in black armor, radiating darkness, preferring to fight in the dead of night, attacking by surprise and scaring enemies by their appearance."
 msgstr ""
 
-#. [unit_type]: id=Gold Mage, race=human
+#. [unit_type]: id=Gold Mage, race=human, gender=male,female
 #: For_Power/units/humans/Mage_Gold.cfg:6
 msgid "Gold Mage"
 msgstr ""
 
-#. [unit_type]: id=Gold Mage, race=human
-#: For_Power/units/humans/Mage_Gold.cfg:27
+#. [unit_type]: id=Gold Mage, race=human, gender=male,female
+#: For_Power/units/humans/Mage_Gold.cfg:21
 msgid ""
 "Amongst the various Magi orders, the Silver one is certain the most enigmatic, surpassed in its mysteriousity only by the Gold order. Only the best Silver Magi could aspire to become Gold Magi, and being one of them is perhaps an even greater honor than being a Great Mage.\n"
 "Instead of focusing their studies on the brute force of their missiles, they follow a secret path of training, that leads them to learning better protection spells and improving their fighting technique, not forgetting their teleport spells.\n"
@@ -16869,52 +16916,52 @@ msgid ""
 "Gold magi are often more physically adept than other magi, and their skills are of undeniable use on the battlefield, if one can manage to induce the mage to apply them."
 msgstr ""
 
-#. [unit_type]: id=Gold Mage, race=human
-#: For_Power/units/humans/Mage_Gold.cfg:31
-msgid "SPECIAL_NOTE^ Gold Magi are well-attuned to their magical natures and are highly resistant to non-physical damage."
+#. [special_note]
+#: For_Power/units/humans/Mage_Gold.cfg:27
+msgid "SPECIAL_NOTE^Gold Magi are well-attuned to their magical natures and are highly resistant to non-physical damage."
 msgstr ""
 
-#. [female]
-#: For_Power/units/humans/Mage_Gold.cfg:275
+#. [female]: gender=female
+#: For_Power/units/humans/Mage_Gold.cfg:272
 msgid "female^Gold Mage"
 msgstr ""
 
-#. [unit_type]: id=Prophet, race=human
+#. [unit_type]: id=Prophet, race=human, gender=male,female
 #: For_Power/units/humans/Prophet.cfg:5
 msgid "Prophet"
 msgstr ""
 
-#. [unit_type]: id=Prophet, race=human
-#: For_Power/units/humans/Prophet.cfg:31
+#. [unit_type]: id=Prophet, race=human, gender=male,female
+#: For_Power/units/humans/Prophet.cfg:21
 msgid "Formerly either Paladins who decided to expand their knowledge of white magic or Magi of Light who decided that evil has to be defeated also by weapons of war, Prophets are the pious knights who both care about destroying the evil and about helping any righteous person."
 msgstr ""
 
 #. [female]
-#: For_Power/units/humans/Prophet.cfg:216
+#: For_Power/units/humans/Prophet.cfg:206
 msgid "female^Prophet"
 msgstr ""
 
-#. [unit_type]: id=Renegade, race=human
+#. [unit_type]: id=Renegade, race=human, gender=male,female
 #: For_Power/units/humans/Renegade.cfg:5
 msgid "Renegade"
 msgstr ""
 
-#. [unit_type]: id=Renegade, race=human
-#: For_Power/units/humans/Renegade.cfg:26
+#. [unit_type]: id=Renegade, race=human, gender=male,female
+#: For_Power/units/humans/Renegade.cfg:20
 msgid "Some criminals become so notorious that nobody will let them in. The only way to enter towns for them is stealth, and so they can hide in villages. And if somebody discovers them, he will be mauled dead."
 msgstr ""
 
-#. [female]
-#: For_Power/units/humans/Renegade.cfg:115
+#. [female]: gender=female
+#: For_Power/units/humans/Renegade.cfg:109
 msgid "female^Renegade"
 msgstr ""
 
-#. [unit_type]: id=Rogue Mage, race=human
+#. [unit_type]: id=Rogue Mage, race=human, gender=male
 #: For_Power/units/humans/Rogue_Mage.cfg:5
 msgid "Rogue Mage"
 msgstr ""
 
-#. [unit_type]: id=Rogue Mage, race=human
+#. [unit_type]: id=Rogue Mage, race=human, gender=male
 #: For_Power/units/humans/Rogue_Mage.cfg:18
 msgid "Some mages are thrown out of the mage’s guild for attempting to practice forbidden arts. Now completely outside the law, these rogue mages do whatever necessary to support their study of black magic. Although not as skilled as mages with more formal training, their magic can be quite lethal, while their banditry has resulted in moderate skill with the short sword."
 msgstr ""
@@ -16924,12 +16971,12 @@ msgstr ""
 msgid "ice blast"
 msgstr ""
 
-#. [unit_type]: id=Shadow Lord, race=human
+#. [unit_type]: id=Shadow Lord, race=human, gender=male
 #: For_Power/units/humans/Shadow_Lord.cfg:5
 msgid "Shadow Lord"
 msgstr ""
 
-#. [unit_type]: id=Shadow Lord, race=human
+#. [unit_type]: id=Shadow Lord, race=human, gender=male
 #: For_Power/units/humans/Shadow_Lord.cfg:22
 msgid "Few humans fathom the secrets of light and dark magic and retain their sanity. Those that can master that balance become Shadow Lords, fully existing neither in the world of light nor the world of darkness. No longer needing physical weapons, they are fearsome to both their enemies and those they lord over."
 msgstr ""
@@ -16950,28 +16997,28 @@ msgstr ""
 msgid "shadow blast"
 msgstr ""
 
-#. [unit_type]: id=Shadow Mage, race=human
+#. [unit_type]: id=Shadow Mage, race=human, gender=male
 #: For_Power/units/humans/Shadow_Mage.cfg:5
 msgid "Shadow Mage"
 msgstr ""
 
-#. [unit_type]: id=Shadow Mage, race=human
+#. [unit_type]: id=Shadow Mage, race=human, gender=male
 #: For_Power/units/humans/Shadow_Mage.cfg:21
 msgid "Years of violence and brutality to support the study of forbidden magical arts have turned the shadow mages into feared fighters. Now completely enthralled with power, they have been known to command small followings of henchmen. They are outmatched in direct magical combat with their magic-using peers, instead channeling their energies into devastating melee attacks. Despite their offensive power, the corruption in their souls has begun to adversely affect their health."
 msgstr ""
 
-#. [unit_type]: id=Witch, race=human
-#: For_Power/units/humans/Witch.cfg:7
+#. [unit_type]: id=Witch, race=human, gender=female
+#: For_Power/units/humans/Witch.cfg:5
 msgid "Witch"
 msgstr ""
 
-#. [unit_type]: id=Witch, race=human
-#: For_Power/units/humans/Witch.cfg:33
+#. [unit_type]: id=Witch, race=human, gender=female
+#: For_Power/units/humans/Witch.cfg:31
 msgid "A woman with mysterious skills. Her motives and loyalties are obscure, she may be dangerous!"
 msgstr ""
 
 #. [attack]: type=cold
-#: For_Power/units/humans/Witch.cfg:63
+#: For_Power/units/humans/Witch.cfg:62
 msgid "sip"
 msgstr ""
 
@@ -17012,7 +17059,7 @@ msgstr ""
 
 #. [unit_type]: id=Cult Regular
 #: For_Power/units/humans/cult.cfg:106
-msgid "After years in the cult, these members gained respects of both their younger comrades and their masters. Their knowledge of dark magic is very high and they are physicaly very fit. In absense of leaders of the cult, they are given command of their junior comrades."
+msgid "After years in the cult, these members gained respects of both their younger comrades and their masters. Their knowledge of dark magic is very high and they are physically very fit. In absence of leaders of the cult, they are given command of their junior comrades."
 msgstr ""
 
 #. [female]
@@ -17020,17 +17067,17 @@ msgstr ""
 msgid "female^Cult Regular"
 msgstr ""
 
-#. [unit_type]: id=Cult Leader, race=human
+#. [unit_type]: id=Cult Leader, gender=male,female, race=human
 #: For_Power/units/humans/cult.cfg:153
 msgid "Cult Leader"
 msgstr ""
 
-#. [unit_type]: id=Cult Leader, race=human
+#. [unit_type]: id=Cult Leader, gender=male,female, race=human
 #: For_Power/units/humans/cult.cfg:177
 msgid "These are the leaders of dark cults. They have both strong bodies and strong wills. They are trusted by dark lords who gave them unmatched powers. After decades of lifetime, they mastered the dark arts of necromancy. They are highly both respected and feared by members of their cults who they command with iron will."
 msgstr ""
 
-#. [female]
+#. [female]: gender=female
 #: For_Power/units/humans/cult.cfg:398
 msgid "female^Cult Leader"
 msgstr ""
