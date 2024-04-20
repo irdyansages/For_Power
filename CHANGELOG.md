@@ -1,4 +1,6 @@
-Version 0.6.5.3+dev
+Version 0.6.5.4 was only on 1.18 server
+
+Version 0.6.5.4
 
 - updated for Wesnoth 1.18
 - fixed an event in scenario The Last Battle
