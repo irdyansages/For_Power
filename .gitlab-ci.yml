@@ -40,5 +40,5 @@ publish:gitlab:
     - echo "Creating GitLab release"
   release:
     tag_name: $CI_COMMIT_TAG
-    name: "For Power CI_COMMIT_TAG"
+    name: "For Power $CI_COMMIT_TAG"
     description: "./dist/RELEASE_NOTES"
