@@ -1,3 +1,7 @@
+Version 0.6.5.4+dev
+
+- increased Lemyr's stats as High Paladin
+
 Version 0.6.5.4 was only on 1.18 server
 
 Version 0.6.5.4
