@@ -1,4 +1,4 @@
-Version 0.6.5.4+dev
+Version 0.6.5.5
 
 - increased Lemyr's stats as High Paladin
 - changed icon for hard difficulty level for Chapters 2, 3 and 4
