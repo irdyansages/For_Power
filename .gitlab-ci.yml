@@ -1,6 +1,7 @@
 stages:
   - test
   - publish
+  - announce
 
 .test_job: &test_job
   stage: test
@@ -31,8 +32,8 @@ publish:1.18:
     WESNOTH_VERSION: "1.18"
     SERVER_PORT: "1.18.x"
 
-publish:gitlab:
-  stage: publish
+announce:gitlab:
+  stage: announce
   image: registry.gitlab.com/gitlab-org/release-cli:latest
   only:
     - tags@irdyansages/For_Power
