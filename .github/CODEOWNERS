@@ -5,12 +5,14 @@
 .gitignore              @irdyansages/project-management
 
 # Release Management
-/_server.pbl.template   @irdyansages/release-managers-for-power
+/_server.pbl		@irdyansages/release-managers-for-power
 /CHANGELOG.md           @irdyansages/release-managers-for-power
 /build.xml              @irdyansages/release-managers-for-power
 /dist/                  @irdyansages/release-managers-for-power
-/_server.ign            @irdyansages/release-managers-for-power
 .gitattributes          @irdyansages/release-managers-for-power
+
+# Continous integeration
+/.gitlab-ci.yml         @konecnyjakub
 
 # Translations
 /translations/          @irdyansages/translations-masters
