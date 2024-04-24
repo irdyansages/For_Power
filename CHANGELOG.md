@@ -1,3 +1,7 @@
+Version 0.6.5.5+dev
+
+- added achievements
+
 Version 0.6.5.5
 
 - increased Lemyr's stats as High Paladin
