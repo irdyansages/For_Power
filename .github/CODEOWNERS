@@ -7,12 +7,12 @@
 # Release Management
 /_server.pbl		@irdyansages/release-managers-for-power
 /CHANGELOG.md           @irdyansages/release-managers-for-power
-/build.xml              @irdyansages/release-managers-for-power
 /dist/                  @irdyansages/release-managers-for-power
 .gitattributes          @irdyansages/release-managers-for-power
 
 # Continous integeration
-/.gitlab-ci.yml         @konecnyjakub
+/.gitlab-ci.yml         @irdyansages/devops
+/.github/workflows/	@irdyansages/devops
 
 # Translations
 /translations/          @irdyansages/translations-masters
