@@ -1,6 +1,7 @@
 Version 0.6.5.5+dev
 
 - added achievements
+- changed implementation of rune teleports in Damsel in Distress
 
 Version 0.6.5.5
 
