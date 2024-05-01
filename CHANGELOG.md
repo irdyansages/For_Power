@@ -4,6 +4,7 @@ Version 0.6.5.5+dev
 - changed implementation of rune teleports in Damsel in Distress
 - fixed older Jolla's advancement better with morning star
 - rebalanced scenario Cleaning Home
+- fixed Clare's amla connected with primeval forces not providing full heal
 
 Version 0.6.5.5
 
