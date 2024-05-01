@@ -3,6 +3,7 @@ Version 0.6.5.5+dev
 - added achievements
 - changed implementation of rune teleports in Damsel in Distress
 - fixed older Jolla's advancement better with morning star
+- rebalanced scenario Cleaning Home
 
 Version 0.6.5.5
 
