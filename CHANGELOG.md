@@ -5,6 +5,7 @@ Version 0.6.5.5+dev
 - fixed older Jolla's advancement better with morning star
 - rebalanced scenario Cleaning Home
 - fixed Clare's amla connected with primeval forces not providing full heal
+- added more items for scenario Cave
 
 Version 0.6.5.5
 
