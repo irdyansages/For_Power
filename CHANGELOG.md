@@ -6,6 +6,7 @@ Version 0.6.5.5+dev
 - rebalanced scenario Cleaning Home
 - fixed Clare's amla connected with primeval forces not providing full heal
 - added more items for scenario Cave
+- added animation for Clare's attack primeval force
 
 Version 0.6.5.5
 
