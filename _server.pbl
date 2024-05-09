@@ -13,9 +13,9 @@ tags="northlands,wesnoth,female protagonist,mage protagonist,mages,militia,orcs,
   topic_id=37806
 [/feedback]
 [translation]
-  language="cs"
-  title="Pro Sílu"
-  description="Osud má někdy velmi zvláštní smysl pro humor. Někteří lidé chtějí být dobří, ale on má pro ně připravené něco jiného. To byl i případ mladé čarodějky Kláry ze Serverních zemí.
+    language="cs"
+    title="Pro Sílu"
+    description="Osud má někdy velmi zvláštní smysl pro humor. Někteří lidé chtějí být dobří, ale on má pro ně připravené něco jiného. To byl i případ mladé čarodějky Kláry ze Serverních zemí.
 Ta chtěla jen chránit svou rodnou vesnici před stále agresivnějšími skřety, ale jediná událost zcela změnila její život. Ten se stal velmi vzrušujícím a mnohem delším, ale vše má svou cenu. Musela dělat mnoho věcí, které se jí nelíbily. Sleduj na vlastní oči, co se stalo a jak se s tím vypořádala. Sleduj její cestu k moci, ale také její pád.
 ve vývoji (kapitoly 1 až 5 jsou dokončené, je tu i několik scénářů z kapitoly 6)
 git repositář: https://github.com/irdyansages/For_Power"
