@@ -23,7 +23,7 @@ Version 0.6.5.4
 - fixed an event in scenario The Last Battle
 - gave player starting villages in Trolls' Caves (Chapter 3)
 - fixed Lemyr's amla better protected from physical blows not providing full heal
-- BC break: changed scenarios's ids to match their names
+- BC break: changed scenarios' ids to match their names
 - lowered enemy's gold in Avenger
 
 Version 0.6.5.3 was only on 1.16 server
@@ -60,7 +60,7 @@ Version 0.6.5
 - added 2 more advancements for Jolla Crusader
 - changed Amiwen's traits to loyal and healthy, lowered Amiwen Elvish Seer's experience to 60
 - fixed Aspirant having magical weapon special on staff
-- added campaign difficulty, scenario count and add-on's version to campaigns's description
+- added campaign difficulty, scenario count and add-on's version to campaigns' description
 - Glacyn can no longer recruit level 0 units in Chapter 1
 - improved some dialogues
 - made the assassin in Chapter 1 level 3
@@ -185,7 +185,7 @@ Version 0.6.1f
 
 - renamed scenario Morbivord's Castle to Audience with Morbivord
 - Clare explains why she cannot just teleport away in Audience with Morbivord, she tells a bit more at end of initial dialogue
-- fix for scenario West Front (Chapter 2) where the lich rised a lua error instead of undead army
+- fix for scenario West Front (Chapter 2) where the lich raised a lua error instead of undead army
 
 Version 0.6.1e
 
@@ -296,7 +296,7 @@ Version 0.5.8 (0.6.0)
 - Amiwen's, Lemyr's and Merissa's advancements adding a strike decreases damage (per strike) now
 - Merissa can now learn new special for chill tempest
 - Clare's advancements casting shadow wave better now increase damage by 2
-- weapon special redeem now contains its level in name and amount of kills needed for next level in description, redeem has cooldown
+- weapon special redeem now contains its level in name and amount of kills needed for next level in description, redeem has cool down
 - Mal-Ravanal and "enemy" leaders in scenarios The Underground and Possessed people cannot be redeemed
 - rewritten initial dialogue in scenario Mal-Ravanal, lowered time limit, enemy gets reinforcements sooner it that scenario
 - Clare now finds Jolla after Chapter 4 not during it
@@ -309,7 +309,7 @@ Version 0.5.7.5
 
 Version 0.5.7.3
 
-- fixed Chapter 3 not being playble after 0.5.7.1
+- fixed Chapter 3 not being playable after 0.5.7.1
 
 Version 0.5.7.2
 
@@ -342,7 +342,7 @@ Version 0.5.5.3
 
 Version 0.5.5.2
 
-- changed enemies's recruit list for orcs in Chapter 1
+- changed enemies' recruit list for orcs in Chapter 1
 - clearer objectives for scenario Seeking The Mage
 - made the map for scenario Return of troubles smaller, removed some villages
 
@@ -402,7 +402,7 @@ Version 0.5.3
 
 Version 0.5.2
 
-- improved writting
+- improved writing
 - in scenario Besieged the cleric gets back his movement points when (and if) he joins the player
 - Amiwen has 2 advancements in Chapter 5 when starting from scratch
 - descriptions of abilities follow the new format now
@@ -414,7 +414,7 @@ Version 0.5.1
 
 - created first four scenarios in Chapter 5
 - created second multiplayer scenario
-- improved writting in Chapter 1
+- improved writing in Chapter 1
 - improved some maps in Chapter 2
 - new dialogue in scenario Ghosts
 - removed a note about death knights in scenario Ghosts
@@ -513,7 +513,7 @@ Version 0.3.0
 Version 0.2.12
 
 - shorted time limit in Chapter 1
-- added time over dialogs in Chapter 1
+- added time over dialogues in Chapter 1
 - three new scenarios in chapter two
 
 Version 0.2.11
