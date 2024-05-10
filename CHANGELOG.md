@@ -1,3 +1,8 @@
+Version 0.6.5.6+dev
+
+- renamed Merissa and Tinry's amla better at fencing
+- changed icon for multiplayer campaign
+
 Version 0.6.5.6
 
 - added achievements
