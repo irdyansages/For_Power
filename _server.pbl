@@ -7,7 +7,7 @@ email="jakub.konecny2@centrum.cz"
 icon="misc/blank-hex.png~BLIT(scenery/circle-magic-glow.png~SCALE(55,55),5,15)~BLIT(units/undead-necromancers/necromancer+female-magic-3.png~RC(magenta>red)~SCALE(50,50),0,5)~BLIT(halo/undead/dark-magic-5.png~SCALE(60,60),0,10)~BLIT(units/undead-skeletal/revenant/revenant-dying-7.png~SCALE(50,50),10,12)~BLIT(units/human-loyalists/paladin/paladin.png~RC(magenta>blue)~FL()~SCALE(40,40),30,6)~BLIT(items/book5.png~FL()~SCALE(30,30),15,20)"
 title="For Power"
 type="campaign"
-version="0.6.5.6"
+version="0.6.5.7"
 tags="northlands,wesnoth,female protagonist,mage protagonist,mages,militia,orcs,undead,lich,immortality,morals,edge"
 [feedback]
   topic_id=37806
