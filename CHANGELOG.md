@@ -2,6 +2,8 @@ Version 0.6.5.6+dev
 
 - renamed Merissa and Tinry's amla better at fencing
 - changed icon for multiplayer campaign
+- reworded a choice in scenarios The Teacher
+- use a visible object for the cold sword in multiplayer scenario Seeking Evil
 
 Version 0.6.5.6
 
@@ -29,7 +31,7 @@ Version 0.6.5.4
 - gave player starting villages in Trolls' Caves (Chapter 3)
 - fixed Lemyr's amla better protected from physical blows not providing full heal
 - BC break: changed scenarios' ids to match their names
-- lowered enemy's gold in Avenger
+- lowered enemy's gold in scenario Avenger
 
 Version 0.6.5.3 was only on 1.16 server
 
