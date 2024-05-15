@@ -1,3 +1,7 @@
+Version 0.6.5.7+dev
+
+- tweaked description of Chapter 2
+
 Version 0.6.5.7
 
 - renamed Merissa and Tinry's amla better at fencing
