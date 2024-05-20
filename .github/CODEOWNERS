@@ -1,27 +1,27 @@
 # Project Management
-/.github/               @irdyansages/project-management
-/README.md              @irdyansages/project-management
-/COPYING.txt            @irdyansages/project-management
-.gitignore              @irdyansages/project-management
+/.github/		@irdyansages/project-management
+/README.md		@irdyansages/project-management
+/COPYING.txt		@irdyansages/project-management
+.gitignore		@irdyansages/project-management
 
 # Release Management
 /_server.pbl		@irdyansages/release-managers-for-power
-/CHANGELOG.md           @irdyansages/release-managers-for-power
-/dist/                  @irdyansages/release-managers-for-power
-.gitattributes          @irdyansages/release-managers-for-power
+/CHANGELOG.md		@irdyansages/release-managers-for-power
+/dist/			@irdyansages/release-managers-for-power
+.gitattributes		@irdyansages/release-managers-for-power
 
 # Continous integeration
-/.gitlab-ci.yml         @irdyansages/devops
+/.gitlab-ci.yml		@irdyansages/devops
 /.github/workflows/	@irdyansages/devops
 
 # Translations
-/translations/          @irdyansages/translations-masters
+/translations/		@irdyansages/translations-masters
 
 # WML
-*.cfg                   @irdyansages/wml-wizards
-story.cfg               @irdyansages/wml-wizards @irdyansages/lore-masters
-deaths.cfg              @irdyansages/wml-wizards @irdyansages/lore-masters
-scenarios/              @irdyansages/wml-wizards @irdyansages/lore-masters
+*.cfg			@irdyansages/wml-wizards
+story.cfg		@irdyansages/wml-wizards @irdyansages/lore-masters
+deaths.cfg		@irdyansages/wml-wizards @irdyansages/lore-masters
+scenarios/		@irdyansages/wml-wizards @irdyansages/lore-masters
 
 # Maps
-*.map                   @irdyansages/map-makers
+*.map			@irdyansages/map-makers
