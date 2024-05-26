@@ -2,6 +2,7 @@ Version 0.6.6-dev
 
 - tweaked description of Chapter 2
 - BC break: reorganized heroes' amlas
+- changed the 4 starting cavalrymen in scenario Repelling the Orcs to horsemen
 
 Version 0.6.5.7
 
