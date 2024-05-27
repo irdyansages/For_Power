@@ -22,6 +22,7 @@
 story.cfg		@irdyansages/wml-wizards @irdyansages/lore-masters
 deaths.cfg		@irdyansages/wml-wizards @irdyansages/lore-masters
 scenarios/		@irdyansages/wml-wizards @irdyansages/lore-masters
+/units/			@irdyansages/wml-wizards @irdyansages/lore-masters
 
 # Maps
 *.map			@irdyansages/map-makers
