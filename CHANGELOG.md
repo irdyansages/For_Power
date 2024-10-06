@@ -4,6 +4,7 @@ Version 0.6.6-dev
 - BC break: reorganized heroes' amlas
 - changed the 4 starting cavalrymen in scenario Repelling the Orcs to horsemen
 - renamed Amiwen's attack gossamer to ethereal web on Wesnoth 1.19
+- explicitly stated a defeat condition in Chapter 6
 
 Version 0.6.5.7
 
