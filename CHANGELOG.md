@@ -5,6 +5,7 @@ Version 0.6.6-dev
 - changed the 4 starting cavalrymen in scenario Repelling the Orcs to horsemen
 - renamed Amiwen's attack gossamer to ethereal web on Wesnoth 1.19
 - explicitly stated a defeat condition in Chapter 6
+- made Clare's shadow wave chaotic and Lemyr's lightbeam lawful on Wesnoth 1.19
 
 Version 0.6.5.7
 
