@@ -6,6 +6,7 @@ Version 0.6.6-dev
 - renamed Amiwen's attack gossamer to ethereal web on Wesnoth 1.19
 - explicitly stated a defeat condition in Chapter 6
 - made Clare's shadow wave chaotic and Lemyr's lightbeam lawful on Wesnoth 1.19
+- added 2 new scenarios of Chapter 6
 
 Version 0.6.5.7
 
