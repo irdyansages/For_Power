@@ -1,6 +1,6 @@
 Version 0.6.6-dev
 
-- tweaked description of Chapter 2
+- tweaked description and introduction of Chapter 2
 - BC break: reorganized heroes' amlas
 - changed the 4 starting cavalrymen in scenario Repelling the Orcs to horsemen
 - renamed Amiwen's attack gossamer to ethereal web on Wesnoth 1.19
