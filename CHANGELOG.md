@@ -7,6 +7,7 @@ Version 0.6.6-dev
 - explicitly stated a defeat condition in Chapter 6
 - made Clare's shadow wave chaotic and Lemyr's lightbeam lawful on Wesnoth 1.19
 - added 2 new scenarios of Chapter 6
+- changed initial objectives in scenario The Path of Revenge in good path
 
 Version 0.6.5.7
 
