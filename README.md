@@ -8,5 +8,5 @@ It is a multi part campaign. All chapters share the protagonist and some importa
 
 A short time ago, Clare completed her studies at the Great Academy and returned to her village. After some time of peace she must face orcs' assaults. She starts only with her childhood friend Lemyr and some fellow villagers but throughout the campaign, various kind of folks will join her (both regular recruits and heroes). Over time, all heroes become more powerful and they will even have a lot of advancements. Though some of them will have to pay for it. After completing each chapter, your army is stored and is available in the next one but at certain points you lose some its parts (as the campaign lasts much longer than hundred years).
 
-Chapters one to five are completed but may be unbalanced, some scenarios from Chapter 6 are also present. This add-on is available on 1.18 server.
+Chapters one to five are completed but may be unbalanced, half of planned scenarios from Chapter 6 are also present. This add-on is available on 1.18 server.
 There are also a few multiplayer scenarios/campaigns somehow related to the campaign here.
