@@ -8,6 +8,7 @@ Version 0.6.6-dev
 - made Clare's shadow wave chaotic and Lemyr's lightbeam lawful on Wesnoth 1.19
 - added 2 new scenarios of Chapter 6
 - changed initial objectives in scenario The Path of Revenge in good path
+- rewritten cutscene in scenario The Teacher after Clare rejects Haldar
 
 Version 0.6.5.7
 
