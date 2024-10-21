@@ -1,4 +1,4 @@
-Version 0.6.6-dev
+Version 0.6.6
 
 - tweaked description and introduction of Chapter 2
 - BC break: reorganized heroes' amlas
