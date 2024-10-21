@@ -9,6 +9,7 @@ Version 0.6.6-dev
 - added 2 new scenarios of Chapter 6
 - changed initial objectives in scenario The Path of Revenge in good path
 - rewritten cutscene in scenario The Teacher after Clare rejects Haldar
+- changed id of unit type Fire Wisp
 
 Version 0.6.5.7
 
