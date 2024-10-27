@@ -1,3 +1,7 @@
+Version 0.6.6+dev
+
+- added time over dialogues death speeches for alies in Chapter 6
+
 Version 0.6.6
 
 - tweaked description and introduction of Chapter 2
