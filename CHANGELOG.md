@@ -1,6 +1,7 @@
 Version 0.6.6+dev
 
 - added time over dialogues death speeches for alies in Chapter 6
+- show level of leadership in the name of the ability when different from level of unit
 
 Version 0.6.6
 
