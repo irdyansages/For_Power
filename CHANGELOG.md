@@ -1,4 +1,4 @@
-Version 0.6.6+dev
+Version 0.6.6.1
 
 - added time over dialogues death speeches for alies in Chapter 6
 - BC break: changed implementation of non-standard leadership abilites
