@@ -4,6 +4,7 @@ Version 0.6.6+dev
 - BC break: changed implementation of non-standard leadership abilites
 - show level of leadership in the name of the ability when different from level of unit
 - highwaymen can advance into a level 4 unit in Chapter 6
+- added a hint to Chapter 6 to take Merissa's soul eater advancement Leadership and related amlas
 
 Version 0.6.6
 
