@@ -1,3 +1,7 @@
+Version 0.6.6.1+dev
+
+- lowered time limit in New Threat on hard
+
 Version 0.6.6.1
 
 - added time over dialogues death speeches for alies in Chapter 6
