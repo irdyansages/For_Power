@@ -5,6 +5,7 @@ stages:
 
 .test_job: &test_job
   stage: test
+  image: konecnyjakub/wesnoth:$WESNOTH_VERSION
   
   script:
     - wmllint --dryrun /usr/share/games/wesnoth/data/core .
@@ -12,6 +13,7 @@ stages:
 
 .publish_job: &publish_job
   stage: publish
+  image: konecnyjakub/wesnoth:$WESNOTH_VERSION
   script:
     - wesnoth_addon_manager -u . --port $SERVER_PORT --pbl-key passphrase $ADDON_PASSPHRASE
   only:
@@ -22,13 +24,11 @@ stages:
 
 test:1.18:
   <<: *test_job
-  image: konecnyjakub/wesnoth:1.18
   variables:
     WESNOTH_VERSION: "1.18"
 
 publish:1.18:
   <<: *publish_job
-  image: konecnyjakub/wesnoth:1.18
   variables:
     WESNOTH_VERSION: "1.18"
     SERVER_PORT: "1.18.x"
