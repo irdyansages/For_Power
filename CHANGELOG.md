@@ -1,6 +1,7 @@
-Version 0.6.6.1+dev
+Version 0.6.7-dev
 
 - lowered time limit in New Threat on hard
+- added 1 new scenario of Chapter 6
 
 Version 0.6.6.1
 
