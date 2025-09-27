@@ -1,4 +1,4 @@
-Version 0.6.7-dev
+Version 0.6.7
 
 - lowered time limit in New Threat on hard
 - added 1 new scenario of Chapter 6
