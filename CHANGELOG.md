@@ -1,3 +1,7 @@
+Version 0.6.7+dev
+
+- added Spanish translation
+
 Version 0.6.7
 
 - lowered time limit in New Threat on hard
