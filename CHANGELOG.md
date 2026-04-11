@@ -1,6 +1,7 @@
 Version 0.6.7.1+dev
 
 - improved starting dialogue of scenario The Path of Revenge
+- the enemy in scenario The Path of Revenge gets more hitpoints on normal and harder
 
 Version 0.6.7.1
 
