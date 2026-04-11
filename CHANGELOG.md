@@ -1,3 +1,7 @@
+Version 0.6.7.1+dev
+
+- improved starting dialogue of scenario The Path of Revenge
+
 Version 0.6.7.1
 
 - added Spanish translation
