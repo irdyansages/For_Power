@@ -3,7 +3,7 @@ Version 0.6.7.1+dev
 - improved starting dialogue of scenario The Path of Revenge
 - the enemy in scenario The Path of Revenge gets more hitpoints on normal and harder
 - gave enemies in scenario Return of the Orcs villages closer to their castles
-- the player is reminded the objective of scenario Flight if they are taking too long
+- the player is reminded the objective of scenario Flight if they are taking too long, lowered the time limit to 12 turns
 
 Version 0.6.7.1
 
