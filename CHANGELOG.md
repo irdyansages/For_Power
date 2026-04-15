@@ -4,6 +4,7 @@ Version 0.6.7.1+dev
 - the enemy in scenario The Path of Revenge gets more hitpoints on normal and harder
 - gave enemies in scenario Return of the Orcs villages closer to their castles
 - the player is reminded the objective of scenario Flight if they are taking too long, lowered the time limit to 12 turns
+- renamed scenario An Exercise to An Unexpected Obstacle
 
 Version 0.6.7.1
 
