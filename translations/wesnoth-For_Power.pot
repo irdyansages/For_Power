@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: For_Power-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-11-10 11:29 UTC\n"
+"POT-Creation-Date: 2026-04-16 20:45 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,26 +10,31 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: For_Power/_main.cfg:23
+#: For_Power/_main.cfg:24
 msgid "To be continued..."
 msgstr ""
 
 #. [about]
-#: For_Power/_main.cfg:25
+#: For_Power/_main.cfg:26
 msgid "Author of this campaign:"
 msgstr ""
 
 #. [about]
-#: For_Power/_main.cfg:31
+#: For_Power/_main.cfg:32
 msgid "Senior advisor:"
 msgstr ""
 
 #. [about]
-#: For_Power/_main.cfg:38
+#: For_Power/_main.cfg:39
 msgid "Text revision:"
 msgstr ""
 
-#: For_Power/_main.cfg:60
+#. [about]
+#: For_Power/_main.cfg:57
+msgid "Spanish translation:"
+msgstr ""
+
+#: For_Power/_main.cfg:67
 msgid "Version:"
 msgstr ""
 
@@ -299,7 +304,7 @@ msgstr ""
 #: For_Power/chapter1/scenarios/12_The_Assassins_Hideout.cfg:22
 #: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:20
 #: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:23
-#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:215
+#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:228
 #: For_Power/chapter1/scenarios/14a_The_Price_of_Revenge.cfg:17
 #: For_Power/chapter1/scenarios/14a_The_Price_of_Revenge.cfg:20
 #: For_Power/chapter1/scenarios/14b_Thirst_For_Power.cfg:18
@@ -661,7 +666,7 @@ msgstr ""
 #. [message]: speaker=Glacyn
 #. [message]: speaker=Lemyr
 #: For_Power/chapter1/scenarios/01_Defend_the_Village.cfg:330
-#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:316
+#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:328
 #: For_Power/chapter1/scenarios/18b_The_Truth.cfg:354
 msgid "More orcs are coming. We are doomed."
 msgstr ""
@@ -745,50 +750,60 @@ msgid "I do not have time for this ..."
 msgstr ""
 
 #. [message]: speaker=Glacyn
+#: For_Power/chapter1/scenarios/02_Flight.cfg:157
+msgid "What is taking you so long to reach the signpost, Lemyr? We cannot hold out without reinforcements from the Earl."
+msgstr ""
+
+#. [message]: speaker=Lemyr
 #: For_Power/chapter1/scenarios/02_Flight.cfg:161
+msgid "I am sorry, the orcs held me up. I will try to get there as soon as I can."
+msgstr ""
+
+#. [message]: speaker=Glacyn
+#: For_Power/chapter1/scenarios/02_Flight.cfg:175
 msgid "Ride, Lemyr, and return with an army! We will do our best to hold them until you return."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/02_Flight.cfg:165
+#: For_Power/chapter1/scenarios/02_Flight.cfg:179
 msgid "Do not take too much time. I would ... ehm, they are too strong and I am not sure for how long we can survive without reinforcements."
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/chapter1/scenarios/02_Flight.cfg:169
+#: For_Power/chapter1/scenarios/02_Flight.cfg:183
 msgid "Of course, I will try to return as soon as possible. Take care of yourself, ... well, everyone."
 msgstr ""
 
 #. [message]: speaker=Clare
 #. [message]: speaker=Lemyr
-#: For_Power/chapter1/scenarios/02_Flight.cfg:185
+#: For_Power/chapter1/scenarios/02_Flight.cfg:199
 #: For_Power/chapter1/scenarios/18b_The_Truth.cfg:309
 #: For_Power/chapter2/scenarios/10_Undead_in_front_of_Dwarven_Doors.cfg:250
 msgid "Nooo!"
 msgstr ""
 
 #. [message]: speaker=Glacyn
-#: For_Power/chapter1/scenarios/02_Flight.cfg:189
+#: For_Power/chapter1/scenarios/02_Flight.cfg:203
 msgid "Without his horse riding, we cannot hope to gain reinforcements in time."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter1/scenarios/02_Flight.cfg:201
+#: For_Power/chapter1/scenarios/02_Flight.cfg:215
 msgid "Leave the battle? Ha, I shall remain until every last orc is dead to my spear!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/chapter1/scenarios/02_Flight.cfg:213
+#: For_Power/chapter1/scenarios/02_Flight.cfg:227
 msgid "Argh! I must... live... must... command..."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: For_Power/chapter1/scenarios/02_Flight.cfg:217
+#: For_Power/chapter1/scenarios/02_Flight.cfg:231
 msgid "Silence, human!"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/02_Flight.cfg:221
+#: For_Power/chapter1/scenarios/02_Flight.cfg:235
 msgid "Oh, no. Now even when we get reinforcements, without Glacyn we are doomed."
 msgstr ""
 
@@ -988,7 +1003,7 @@ msgstr ""
 #: For_Power/chapter1/scenarios/10b_Skeletons.cfg:55
 #: For_Power/chapter1/scenarios/11b_Ghosts.cfg:37
 #: For_Power/chapter1/scenarios/11b_Ghosts.cfg:41
-#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:193
+#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:206
 #: For_Power/chapter1/scenarios/14b_Thirst_For_Power.cfg:34
 #: For_Power/chapter1/scenarios/14b_Thirst_For_Power.cfg:38
 #: For_Power/chapter1/scenarios/16b_Preserving_the_Body_and_Mind.cfg:34
@@ -1931,7 +1946,7 @@ msgstr ""
 
 #. [scenario]: id=10a_An_Exercise
 #: For_Power/chapter1/scenarios/10a_An_Exercise.cfg:5
-msgid "An Exercise"
+msgid "An Unexpected Obstacle"
 msgstr ""
 
 #. [message]: speaker=Clare
@@ -2436,100 +2451,120 @@ msgstr ""
 msgid "The city is ours and all is ending here and now."
 msgstr ""
 
-#. [message]: speaker=assassin
+#. [message]: speaker=narrator
 #: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:105
+msgid "The assassin did not seem fazed by Clare's words at all and his response was calm and poised."
+msgstr ""
+
+#. [message]: speaker=assassin
+#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:110
 msgid "You're right. Your life path is ending here and now, human worm."
 msgstr ""
 
+#. [message]: speaker=narrator
+#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:114
+msgid "After he said the words, he took out a vial with some kind of potion from his robes and proceeded to gulp it down."
+msgstr ""
+
+#. [object]
+#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:121
+msgid "Potion of Endurance"
+msgstr ""
+
+#. [object]
+#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:122
+msgid "This potion makes its drinker harder to kill by increasing their hitpoints and granting the slow special to their melee weapons."
+msgstr ""
+
 #. [message]: speaker=unit
-#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:174
+#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:187
 msgid "You think it's over? Bah! I've got a healing potion. Gulp, gulp."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:187
+#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:200
 msgid "No, this cannot end this way!"
 msgstr ""
 
 #. [message]: speaker=Haldar
-#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:202
+#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:215
 msgid "You are right. I can give you another chance. All you must do is to drink one potion and say some words."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:206
+#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:219
 msgid "Clare did not have any other option so she did what he said."
 msgstr ""
 
 #. [message]: id=Clare
-#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:228
+#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:241
 msgid "Now you will pay for all your deeds, orc!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:239
+#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:252
 msgid "I think that I have had enough. I have to teleport back to my place and heal my wounds. See you later."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:243
+#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:256
 msgid "I hope not. Do not get me wrong, I am grateful for your help but I have not changed my mind about your ways."
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:247
+#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:260
 msgid "I understand."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:267
+#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:280
 msgid "All is done. You can rest in peace now, Glacyn."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:271
+#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:284
 msgid "But you, necromancer, should leave me and never return."
 msgstr ""
 
 #. [message]: speaker=Haldar
-#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:280
+#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:293
 #: For_Power/chapter1/scenarios/16b_Preserving_the_Body_and_Mind.cfg:152
 msgid "As you think."
 msgstr ""
 
 #. [message]: speaker=Tinry
-#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:288
+#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:301
 msgid "You did it, Clare."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:294
+#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:307
 msgid "Yes, but some of your friends did not live to see it."
 msgstr ""
 
 #. [message]: speaker=Tinry
-#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:298
+#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:311
 msgid "Yes, I will miss them but they know that their deaths were for the greatest good."
 msgstr ""
 
 #. [message]: speaker=Tinry
-#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:302
+#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:315
 msgid "We won today. Now we should celebrate."
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:306
+#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:319
 #: For_Power/chapter3/scenarios/01_Unfriendly_Visit.cfg:265
 msgid "You are right."
 msgstr ""
 
 #. [message]: id=Clare
-#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:343
+#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:356
 msgid "All is done. You can rest in peace now, Glacyn. And I can celebrate."
 msgstr ""
 
 #. [message]: id=Clare
-#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:347
+#: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:360
 msgid "But first, I will grant some rest to my minions."
 msgstr ""
 
@@ -3118,128 +3153,128 @@ msgid "Death of Merissa"
 msgstr ""
 
 #. [message]: role=reporter
-#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:157
+#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:169
 #: For_Power/chapter1/scenarios/18b_The_Truth.cfg:146
 msgid "Oh no. There are the orcs again, Lemyr. It seems our peace time has come to its end."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:161
+#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:173
 #: For_Power/chapter1/scenarios/18b_The_Truth.cfg:150
 msgid "What do you want, orcs?"
 msgstr ""
 
 #. [message]: speaker=orc1
-#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:165
+#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:177
 msgid "We want the head of the little witch who captured our city!"
 msgstr ""
 
 #. [message]: speaker=orc2
-#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:169
+#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:181
 #: For_Power/chapter1/scenarios/18b_The_Truth.cfg:158
 msgid "Yes. Give her to us and we will leave you."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:173
+#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:185
 msgid "Never, so long as I can draw breath!"
 msgstr ""
 
 #. [message]: speaker=orc2
-#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:177
+#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:189
 msgid "Then prepare to die, human worms."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:185
+#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:197
 msgid "Lemyr, this is not your fight. This has nothing to do with you."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:189
+#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:201
 msgid "No. Nothing is more important to me than you."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:193
+#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:205
 msgid "Even our village? You cannot give up its inhabitants because of me. I cannot allow you to do it."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:197
+#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:209
 msgid "But what can I do?"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:201
+#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:213
 msgid "You can fight on my side if is it your choice, but you may not require it from them."
 msgstr ""
 
 #. [message]: role=villager
-#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:210
+#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:222
 msgid "This is our choice, Clare. You are our friend. You saved us from the orcs and avenged Glacyn."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:214
+#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:226
 #: For_Power/chapter2/scenarios/04_Audience_with_Menvan.cfg:133
 #: For_Power/chapter2/scenarios/11_Back_in_Dwarven_Doors.cfg:162
 msgid "But ..."
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:218
+#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:230
 msgid "He is right. They have chosen as I did. I told you that you were a good girl."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:222
+#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:234
 msgid "Ok, Merissa."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:262
+#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:274
 msgid "So our village is safe again."
 msgstr ""
 
 #. [message]: speaker=Mubryn
-#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:279
+#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:291
 msgid "What did we miss?"
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:283
+#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:295
 msgid "A good fight with the orcs."
 msgstr ""
 
 #. [message]: speaker=Tinry
-#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:287
+#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:299
 msgid "No! I wanted to fight the orcs."
 msgstr ""
 
 #. [message]: speaker=Mubryn
-#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:291
+#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:303
 msgid "Men, up. There will surely be more fights here."
 msgstr ""
 
 #. [message]: speaker=Tinry
-#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:295
+#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:307
 msgid "Are you sure?"
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:299
+#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:311
 msgid "Yes, they attack our village from time to time."
 msgstr ""
 
 #. [message]: speaker=Tinry
-#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:303
+#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:315
 msgid "Ok but next time tell me about them sooner."
 msgstr ""
 
 #. [message]: speaker=Lemyr
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:307
+#: For_Power/chapter1/scenarios/16a_Return_of_the_Orcs.cfg:319
 #: For_Power/chapter2/scenarios/01_A_Troubled_Forest.cfg:365
 msgid "As you wish."
 msgstr ""
@@ -11308,7 +11343,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:604
 #: For_Power/chapter5/scenarios/02_One_for_all.cfg:227
-#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:257
+#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:315
 msgid "Follow me, friends."
 msgstr ""
 
@@ -11810,82 +11845,112 @@ msgid "But how?! I have difficulties with seeing you and you are close to me."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:150
+#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:156
 msgid "Trust the lords of light and they will show you the right path. Let your faith light the ground and air around you. You will never be lost again."
 msgstr ""
 
 #. [message]: speaker=Jolla
-#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:154
+#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:160
 msgid "Yes! I forgot that I am able to illuminate the surrounding area."
 msgstr ""
 
-#. [message]: speaker=Merissa
-#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:158
-msgid "Rather stay away from me, Jolla. And you too Lemyr."
-msgstr ""
-
-#. [message]: speaker=Jolla
-#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:162
-msgid "Why?! You do not like me or what?"
-msgstr ""
-
-#. [message]: speaker=Merissa
+#. [message]: speaker=Lemyr
 #: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:166
-msgid "Not at all, you're cute. I don't like the light, I can't fight well at a lit place."
+msgid "Trust the lords of light, they do not abandon their faithful followers. Just pray to them."
 msgstr ""
 
 #. [message]: speaker=Jolla
 #: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:170
+msgid "Lords of light, please guide your servant. Let me and my friends see through the darkness and give us the strength to break it."
+msgstr ""
+
+#. [object]
+#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:179
+msgid "Lords of light's boon"
+msgstr ""
+
+#. [object]
+#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:180
+msgid "The lords of light have blessed this unit with the illuminates ability."
+msgstr ""
+
+#. [message]: speaker=Jolla
+#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:192
+msgid "It worked! I am emitting light."
+msgstr ""
+
+#. [message]: speaker=Merissa
+#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:208
+msgid "Rather stay away from me, Jolla. And you too Lemyr."
+msgstr ""
+
+#. [message]: speaker=Merissa
+#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:214
+msgid "Rather stay away from me, Jolla."
+msgstr ""
+
+#. [message]: speaker=Jolla
+#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:220
+msgid "Why?! You do not like me or what?"
+msgstr ""
+
+#. [message]: speaker=Merissa
+#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:224
+msgid "Not at all, you're cute. I don't like the light, I can't fight well at a lit place."
+msgstr ""
+
+#. [message]: speaker=Jolla
+#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:228
 msgid "All right."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:174
+#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:232
 msgid "I think that we should begin our march. His cave is very far and this place is swarming with undead."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:178
+#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:236
 msgid "You are right, let us go."
 msgstr ""
 
 #. [message]: speaker=bandit
-#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:204
+#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:262
 msgid "Get lost of our place!"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:208
+#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:266
 msgid "We only want to pass through to stop the undead and return the light to this land."
 msgstr ""
 
 #. [message]: speaker=bandit
-#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:212
+#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:270
 msgid "Hmm, return light ... new plan - kill them all, guys!"
 msgstr ""
 
 #. [message]: speaker=Jolla
-#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:216
+#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:274
 msgid "What? Why? We did nothing bad to you."
 msgstr ""
 
 #. [message]: speaker=bandit
-#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:220
+#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:278
 msgid "We love the night and want it to last forever."
 msgstr ""
 
 #. [message]: speaker=Jolla
-#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:224
+#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:282
 msgid "But with only night ..."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:228
+#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:286
 msgid "Do not lose time with trying to change their mind, darling. Prepare to die, fools!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:245
+#: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:303
 msgid "No, it can't happen to me ..."
 msgstr ""
 
