@@ -4,7 +4,7 @@ Version 0.6.7.1+dev
 - the enemy in scenario The Path of Revenge gets more hitpoints on normal and harder
 - gave enemies in scenario Return of the Orcs villages closer to their castles
 - the player is reminded the objective of scenario Flight if they are taking too long, lowered the time limit to 12 turns
-- renamed scenario An Exercise to An Unexpected Obstacle
+- renamed scenario An Exercise to An Unexpected Obstacle and West Front to All Wicked on the Western Front
 - gave Jolla the illuminates ability in scenario March to the East if she does not have it, tweaked the starting dialogue
 
 Version 0.6.7.1

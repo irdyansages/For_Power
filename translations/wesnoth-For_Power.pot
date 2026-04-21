@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: For_Power-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-04-16 20:45 UTC\n"
+"POT-Creation-Date: 2026-04-21 17:27 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6244,7 +6244,7 @@ msgstr ""
 
 #. [scenario]: id=07_West_Front
 #: For_Power/chapter2/scenarios/07_West_Front.cfg:5
-msgid "West Front"
+msgid "All Wicked on the Western Front"
 msgstr ""
 
 #. [side]: type=General, id=Ralenyth
