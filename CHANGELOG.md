@@ -6,6 +6,7 @@ Version 0.6.7.1+dev
 - the player is reminded the objective of scenario Flight if they are taking too long, lowered the time limit to 12 turns
 - renamed scenario An Exercise to An Unexpected Obstacle and West Front to All Wicked on the Western Front
 - gave Jolla the illuminates ability in scenario March to the East if she does not have it, tweaked the starting dialogue
+- gave Jolla special abilities/weapon specials to help her survive and deal more damage
 
 Version 0.6.7.1
 

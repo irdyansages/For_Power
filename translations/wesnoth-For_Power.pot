@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: For_Power-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-04-21 17:27 UTC\n"
+"POT-Creation-Date: 2026-05-31 11:47 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -294,12 +294,12 @@ msgstr ""
 #: For_Power/chapter1/scenarios/09b_Learning_Dark_Arts.cfg:40
 #: For_Power/chapter1/scenarios/10a_An_Exercise.cfg:19
 #: For_Power/chapter1/scenarios/10a_An_Exercise.cfg:23
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:35
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:39
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:36
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:40
 #: For_Power/chapter1/scenarios/11a_Orcish_Scouts.cfg:60
 #: For_Power/chapter1/scenarios/11a_Orcish_Scouts.cfg:64
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:18
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:22
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:19
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:23
 #: For_Power/chapter1/scenarios/12_The_Assassins_Hideout.cfg:19
 #: For_Power/chapter1/scenarios/12_The_Assassins_Hideout.cfg:22
 #: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:20
@@ -999,10 +999,10 @@ msgstr ""
 #: For_Power/chapter1/scenarios/08_The_Teacher.cfg:38
 #: For_Power/chapter1/scenarios/09b_Learning_Dark_Arts.cfg:56
 #: For_Power/chapter1/scenarios/09b_Learning_Dark_Arts.cfg:60
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:51
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:55
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:37
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:41
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:52
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:56
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:38
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:42
 #: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:206
 #: For_Power/chapter1/scenarios/14b_Thirst_For_Power.cfg:34
 #: For_Power/chapter1/scenarios/14b_Thirst_For_Power.cfg:38
@@ -1828,8 +1828,8 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: For_Power/chapter1/scenarios/09b_Learning_Dark_Arts.cfg:135
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:99
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:231
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:101
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:239
 #: For_Power/chapter1/scenarios/13_The_Path_of_Revenge.cfg:80
 #: For_Power/chapter1/utils/deaths.cfg:5
 #: For_Power/chapter1/utils/deaths.cfg:30
@@ -1844,9 +1844,9 @@ msgstr ""
 #. [message]: speaker=Clare
 #: For_Power/chapter1/scenarios/09b_Learning_Dark_Arts.cfg:160
 #: For_Power/chapter1/scenarios/09b_Learning_Dark_Arts.cfg:286
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:220
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:100
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:205
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:204
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:103
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:208
 msgid "Thank you, master."
 msgstr ""
 
@@ -1878,7 +1878,7 @@ msgstr ""
 #. [message]: speaker=Clare
 #: For_Power/chapter1/scenarios/09b_Learning_Dark_Arts.cfg:188
 #: For_Power/chapter1/scenarios/09b_Learning_Dark_Arts.cfg:219
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:144
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:146
 #: For_Power/chapter1/scenarios/16b_Preserving_the_Body_and_Mind.cfg:80
 msgid "Yes, master."
 msgstr ""
@@ -1976,103 +1976,103 @@ msgstr ""
 
 #. [side]
 #. [scenario]: id=10b_Skeletons
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:71
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:72
 #: For_Power/chapter1/scenarios/10b_Skeletons.cfg:21
 msgid "Skeletons"
 msgstr ""
 
 #. [objective]: condition=win
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:95
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:97
 msgid "Defeat all skeletons"
 msgstr ""
 
 #. [message]: speaker=Haldar
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:122
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:124
 msgid "So we are here. We can find some better corpses here. Are you ready for your next lesson, Clare?"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:126
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:128
 msgid "Yes, I am, master."
 msgstr ""
 
 #. [message]: speaker=Haldar
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:130
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:132
 msgid "So watch me and learn."
 msgstr ""
 
 #. [message]: speaker=Haldar
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:140
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:142
 msgid "Now is your turn."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:156
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:158
 msgid "Rise."
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:164
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:166
 msgid "I am alive again."
 msgstr ""
 
 #. [message]: speaker=Haldar
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:168
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:170
 msgid "Not really. In fact, you are an undead now. And you will be used for her studies."
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:172
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:174
 msgid "Can't I rest in peace after death?"
 msgstr ""
 
 #. [message]: speaker=Haldar
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:176
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:178
 msgid "No. And now serve your mistress."
 msgstr ""
 
 #. [modify_unit]
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:182
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:184
 msgid "Unhappy undead"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:186
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:188
 msgid "Is this right? He should rest."
 msgstr ""
 
 #. [message]: speaker=Haldar
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:190
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:192
 msgid "You have chosen this path. So continue in your exercise."
 msgstr ""
 
 #. [message]: speaker=Haldar
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:216
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:200
 msgid "Nice job, my apprentice. You took a great step on your path."
 msgstr ""
 
 #. [message]: speaker=Haldar
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:224
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:208
 msgid "But you can have even more powerful minions for your quest."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:228
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:212
 msgid "What kind of minions do you mean?"
 msgstr ""
 
 #. [message]: speaker=Haldar
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:232
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:216
 msgid "Revenants or even ghosts. Yes we will focus on ghosts now. You must be very powerful to keep control over them."
 msgstr ""
 
 #. [message]: speaker=Haldar
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:236
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:220
 msgid "But you are exhausted after this lesson, I see. So rest for some time, then we will continue."
 msgstr ""
 
 #. [message]: speaker=Haldar
-#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:249
+#: For_Power/chapter1/scenarios/10b_Skeletons.cfg:228
 msgid "What are you still doing, Clare? Is this too hard for you?"
 msgstr ""
 
@@ -2210,129 +2210,129 @@ msgstr ""
 
 #. [side]
 #. [side]: type=Troll Hero, id=troll
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:57
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:58
 #: For_Power/chapter1/scenarios/19a_The_Last_Battle.cfg:184
 #: For_Power/chapter3/scenarios/05_Trolls_Caves.cfg:57
 msgid "Trolls"
 msgstr ""
 
 #. [message]: speaker=Haldar
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:96
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:99
 msgid "I am proud of you, Clare. You are a really powerful mage now."
 msgstr ""
 
 #. [message]: speaker=Haldar
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:104
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:107
 msgid "I bet that you can even control ghosts. So try it."
 msgstr ""
 
 #. [objective]: condition=win
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:116
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:119
 msgid "Recruit 6 ghosts"
 msgstr ""
 
 #. [message]: speaker=Haldar
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:133
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:136
 msgid "I told you to recruit ghosts not to recall! Try it again!"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:146
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:149
 msgid "Come to the world of living."
 msgstr ""
 
 #. [modify_unit]
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:156
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:159
 msgid "Confused spirit"
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:160
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:163
 msgid "Why am I here?"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:164
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:167
 msgid "You are here to help me fight orcs."
 msgstr ""
 
 #. [modify_unit]
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:170
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:173
 msgid "Hateful spirit"
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:174
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:177
 msgid "Orcs? ... Oh, yes! I hated them in my life. Those vile beasts have slew my whole family! I will help you, lady."
 msgstr ""
 
 #. [message]: speaker=Haldar
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:201
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:204
 msgid "Nice job. I have taught you most of what I know. You are ready for your orc."
 msgstr ""
 
 #. [message]: speaker=Haldar
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:218
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:226
 msgid "Trolls? They must have found a path to this cave. Never mind, it will also be a good test of your new abilities. Kill them all with your servants."
 msgstr ""
 
 #. [objective]: condition=win
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:227
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:235
 msgid "Defeat all trolls"
 msgstr ""
 
 #. [objective]: condition=lose
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:235
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:243
 msgid "Death of Haldar"
 msgstr ""
 
 #. [message]: speaker=Haldar
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:268
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:258
 msgid "I knew that you could handle them. Now your studies are completed. I can make a diploma for you."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:272
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:262
 msgid "That was not funny."
 msgstr ""
 
 #. [message]: speaker=Haldar
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:276
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:266
 msgid "You are right. Nevertheless you were a great apprentice. But now you do not need me any longer."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:280
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:270
 msgid "Will you not accompany me on my quest?"
 msgstr ""
 
 #. [message]: speaker=Haldar
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:284
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:274
 msgid "You do not really need me for this, you can do it on your own but I will be glad if you will visit me from time to time."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:288
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:278
 msgid "Oh, I am definitively going to come by sometimes. But I think that I should get going now. So good bye, master."
 msgstr ""
 
 #. [message]: speaker=Haldar
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:292
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:282
 msgid "Good bye, Clare."
 msgstr ""
 
 #. [message]: speaker=Haldar
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:305
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:290
 msgid "You have lost too much time. More trolls are coming."
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:316
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:301
 msgid "How could this happen?"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:320
+#: For_Power/chapter1/scenarios/11b_Ghosts.cfg:305
 msgid "Master, no!"
 msgstr ""
 
@@ -6331,7 +6331,7 @@ msgstr ""
 #: For_Power/chapter2/scenarios/07_West_Front.cfg:398
 #: For_Power/chapter2/scenarios/08_Talks_with_Ralenyth.cfg:383
 #: For_Power/chapter3/scenarios/12_At_Home.cfg:198
-#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:636
+#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:637
 #: For_Power/chapter5/scenarios/02_One_for_all.cfg:247
 msgid "More undead are coming. We are doomed."
 msgstr ""
@@ -7625,7 +7625,7 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: For_Power/chapter3/scenarios/01_Unfriendly_Visit.cfg:215
-#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:406
+#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:407
 msgid "A seer"
 msgstr ""
 
@@ -9406,152 +9406,152 @@ msgid "Jolla"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:331
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:332
 msgid "You did not complete previous chapter so you get some level 2 units to recall and can choose some advancements for heroes."
 msgstr ""
 
 #. [message]: speaker=Jolla
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:343
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:344
 msgid "What a beautiful day! The sun is shining, it is windy, the flowers are smiling at us. Mom, come here too. You will enjoy it as well."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:347
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:348
 msgid "Yes, I am coming. "
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:347
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:348
 msgid "But I cannot enjoy it. I am an undead."
 msgstr ""
 
 #. [message]: speaker=Jolla
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:351
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:352
 msgid "Do you like it?"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:355
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:356
 msgid "Yes, today is a really beautiful day."
 msgstr ""
 
 #. [message]: speaker=Jolla
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:359
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:360
 msgid "By the way where is Amiwen? I did not see her for weeks."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:363
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:364
 msgid "I already told it to you, darling. She needed to visit the forest what she come from. She does not feel very well in closed places. Did you forget?"
 msgstr ""
 
 #. [message]: speaker=Jolla
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:367
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:368
 msgid "Oh yes! I forgot. But where is Tinry? I have not seen him for a few days. I am missing him ... well, a bit."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:371
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:372
 msgid "Well, it is a good question, he left a few days ago without saying a single word. I do not know about him anything more than you."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:375
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:376
 msgid "He left at night! It was not nice of him."
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:379
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:380
 msgid "Well, he had a talk with me. He wanted to make an adventure maybe a treasure hunt. Ha ha, he forgot he isn't so young."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:383
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:384
 msgid "Well, it is a good idea. We could make an adventure as well. I am pretty sure that someone needs our help."
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:387
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:388
 msgid "Ok, I love adventures. And I also think we spent too much time at one place. We should move on."
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:391
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:392
 msgid "Yes, why not."
 msgstr ""
 
 #. [message]: speaker=Jolla
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:395
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:396
 msgid "Excellent! I always wanted to see more of this world."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:399
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:400
 msgid "So it is decided. But I think that we should take some soldiers with us. Just in case."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:438
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:439
 msgid "I can remember that our final battle against Yswniver took place here."
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:442
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:443
 msgid "You are right. But I heard bandits started to appear here some time ago. We should be careful."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:457
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:458
 msgid "Hail. We are adventurers from adjacent earldom. But nothing so serious happend there. Do you have any problems here?"
 msgstr ""
 
 #. [message]: speaker=mayor
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:461
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:462
 msgid "Actually, we have to face two problems - undead and bandits. A wicked necromancer came into a swamp east from here a month ago."
 msgstr ""
 
 #. [message]: speaker=Jolla
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:465
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:466
 msgid "What is a necromancer?"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:469
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:470
 msgid "Most of them are bad people who crave only for more power. They disturb peace of dead people for their evil plans."
 msgstr ""
 
 #. [message]: speaker=Jolla
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:473
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:474
 msgid "It sounds horribly."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:477
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:478
 msgid "Yes, it is a terrible art and in most countries its users are executed."
 msgstr ""
 
 #. [message]: speaker=mayor
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:481
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:482
 msgid "You are right but bandits mean a bigger problem. At least for us, living people. They attack caravans transporting food supplies and sometimes kill people who walk alone."
 msgstr ""
 
 #. [message]: speaker=mayor
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:485
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:486
 msgid "I can't send my soldiers against the necromancer because the bandits could attack us and vice versa. You seem to be very powerful. Can you help us, please?"
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:489
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:490
 msgid "Yes, just tell us where they dwell."
 msgstr ""
 
 #. [message]: speaker=mayor
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:493
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:494
 msgid "I will send one of my soldiers with you. He will guide you."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:572
+#: For_Power/chapter4/scenarios/01_Searching_Adventures.cfg:573
 msgid "Well, it seems that nobody needs our help. I think that we can return to our castle and die from boredom there."
 msgstr ""
 
@@ -10874,7 +10874,7 @@ msgstr ""
 #. [message]: speaker=Merissa
 #: For_Power/chapter4/scenarios/11_Treasure_Hunters.cfg:520
 #: For_Power/chapter4/scenarios/13_New_Home.cfg:318
-#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:627
+#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:628
 msgid "Brother! No!"
 msgstr ""
 
@@ -11232,116 +11232,116 @@ msgid "better at fencing"
 msgstr ""
 
 #. [advancement]: id=staff1
-#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:292
+#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:293
 #: For_Power/units/heroes/Blessed_Mage.cfg:121
 #: For_Power/units/heroes/Blessed_Mage.cfg:284
 msgid "better with staff"
 msgstr ""
 
 #. [advancement]: id=magic1
-#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:306
+#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:307
 #: For_Power/units/heroes/Blessed_Mage.cfg:152
 #: For_Power/units/heroes/Blessed_Mage.cfg:315
 msgid "better with magic"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:399
+#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:400
 msgid "You did not complete fourth chapter so you get some level 2 units to recall and can choose 6 advancements for the heroine."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:407
+#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:408
 msgid "New arch enemy rises. He dwells in darkness for now but his thirst for destruction is enormous. He already sends his minions to cause havoc in the Northlands but he will not show his face until it is too late to stop him. Irdya will never be like before."
 msgstr ""
 
 #. [message]: speaker=Jolla
-#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:436
+#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:437
 msgid "Another nice day on this beautiful place. ... But wait, I can see something in distance."
 msgstr ""
 
 #. [message]: speaker=Amiwen
-#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:464
+#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:465
 msgid "Undead! What are they doing here? Did Ravan send them to get rid of us?"
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:468
+#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:469
 msgid "Mal-Ravanal no longer roams this world. A few months ago, he have been destroyed with his undead legions in front of Weldyn. He nearly annihilated the whole kingdom of Wesnoth but they managed to defeat him at the gates of their capital city. It was a very tough battle."
 msgstr ""
 
 #. [message]: speaker=Amiwen
-#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:472
+#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:473
 msgid "So who sent them here?"
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:476
+#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:477
 msgid "I have ... no idea. But I can sense that someone next seeks to destroy our world. His thirst for destruction is very strong but I cannot locate him."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:480
+#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:481
 msgid "And I worry that we cannot defeat even this mere vanguard."
 msgstr ""
 
 #. [message]: speaker=Jolla
-#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:484
+#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:485
 msgid "Why do you think it, mom? There are not so many of them."
 msgstr ""
 
 #. [message]: speaker=Clare
-#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:488
+#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:489
 msgid "Not at this moment but I can sense a lot of them coming to this place. We may not wait for them to arrive, we have to flee!"
 msgstr ""
 
 #. [message]: speaker=Merissa
-#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:492
+#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:493
 msgid "Is it really so bad?"
 msgstr ""
 
 #. [message]: speaker=Lemyr
-#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:496
+#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:497
 msgid "Yes, it is. There is no other choice."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:501
+#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:502
 msgid "At this moment you cannot recruit new units, only recall some ones. Use all your gold for recalling, it will be easier to escape. There is no need to keep gold, you will start next scenario just with its predefined amount of gold."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:541
+#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:542
 msgid "Get out of my way!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:545
+#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:546
 msgid "Never! I won't let you ruin my master's plans!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:549
+#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:550
 msgid "Who is your master and what does he want?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:553
+#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:554
 msgid "I won't tell you anything! Prepare to go to the land of dead!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:577
+#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:578
 msgid "Lords of Light, send this fiend to oblivion!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:581
+#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:582
 msgid "Nooo ..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:604
+#: For_Power/chapter5/scenarios/01_Banished_from_Paradise.cfg:605
 #: For_Power/chapter5/scenarios/02_One_for_all.cfg:227
 #: For_Power/chapter5/scenarios/04_March_to_the_East.cfg:315
 msgid "Follow me, friends."
@@ -15976,6 +15976,32 @@ msgid ""
 "Sometimes fate smiles upon a child and gifts them with a high vitality, intelligence and resistance to damage. These children are called blessed and are often found and trained by powerful individuals or organizations.\n"
 "\n"
 "Units with the blessed trait require 15% less experiences to advance, have 1 more hitpoint + 3 additional hitpoints per level and also have 5% bonus to physical resistances and 10%/20% to magical resistances."
+msgstr ""
+
+#. [trait]
+#: For_Power/macros/traits.cfg:51
+#: For_Power/macros/traits.cfg:52
+msgid "beloved"
+msgstr ""
+
+#. [trait]
+#: For_Power/macros/traits.cfg:53
+msgid "This is unit has its resistances increased by 50% and its chance to get hit by 15% if any allied units are next to it."
+msgstr ""
+
+#. [trait]
+#: For_Power/macros/traits.cfg:54
+msgid "This unit is adored by everyone who knows them and they will do everything to protect this unit from harm. If at least one allied unit is next to this one, it will have 50% better resistances and 15% lower chance to get hit on all terrains."
+msgstr ""
+
+#. [resistance]: id=beloved resistance
+#: For_Power/macros/traits.cfg:60
+msgid "This unit has greater resistances when at least one allied unit is next to it."
+msgstr ""
+
+#. [chance_to_hit]: id=beloved chance to hit
+#: For_Power/macros/traits.cfg:74
+msgid "This unit is less likely to get hit when at least one allied unit is next to it."
 msgstr ""
 
 #. [label]
